@@ -19,11 +19,11 @@ has_id_wikidata: Q85
 instance_of:
 - '[[/_Standards/WikiData/WD~megacity,174844]]'
 - '[[/_Standards/WikiData/WD~metropolis,200250]]'
-- "[[/_Standards/WikiData/WD~tourist destination,1200957]]"
-- "[[/_Standards/WikiData/WD~big city,1549591]]"
-- "[[/_Standards/WikiData/WD~ancient city,15661340]]"
-- "[[/_Standards/WikiData/WD~largest city,51929311]]"
-- "[[/_Standards/WikiData/WD~national capital,108178728]]"
+- "[[/_Standards/WikiData/WD~tourist_destination,1200957]]"
+- "[[/_Standards/WikiData/WD~big_city,1549591]]"
+- "[[/_Standards/WikiData/WD~ancient_city,15661340]]"
+- "[[/_Standards/WikiData/WD~largest_city,51929311]]"
+- "[[/_Standards/WikiData/WD~national_capital,108178728]]"
 twinned_administrative_body:
 - '[[/_Standards/WikiData/WD~Sétif,244004]]'
 - '[[/_Standards/WikiData/WD~Jeddah,374365]]'
@@ -34,8 +34,8 @@ twinned_administrative_body:
 - '[[/_Standards/WikiData/WD~Tbilisi,994]]'
 - '[[/_Standards/WikiData/WD~Stuttgart,1022]]'
 - '[[/_Standards/WikiData/WD~Grenoble,1289]]'
-- "[[/_Standards/WikiData/WD~Buenos Aires,1486]]"
-- "[[/_Standards/WikiData/WD~Mexico City,1489]]"
+- "[[/_Standards/WikiData/WD~Buenos_Aires,1486]]"
+- "[[/_Standards/WikiData/WD~Mexico_City,1489]]"
 - '[[/_Standards/WikiData/WD~Barcelona,1492]]'
 - '[[/_Standards/WikiData/WD~Baghdad,1530]]'
 - '[[/_Standards/WikiData/WD~Frankfurt,1794]]'
@@ -53,27 +53,27 @@ twinned_administrative_body:
 - '[[/_Standards/WikiData/WD~Seoul,8684]]'
 - '[[/_Standards/WikiData/WD~Sarajevo,11194]]'
 - '[[/_Standards/WikiData/WD~Houston,16555]]'
-- "[[/_Standards/WikiData/WD~New York City,60]]"
+- "[[/_Standards/WikiData/WD~New_York_City,60]]"
 - '[[/_Standards/WikiData/WD~Paris,90]]'
 - '[[/_Standards/WikiData/WD~Isfahan,42053]]'
-located_in_on_physical_feature: "[[/_Standards/WikiData/WD~Lower Egypt,463871]]"
+located_in_on_physical_feature: "[[/_Standards/WikiData/WD~Lower_Egypt,463871]]"
 described_by_source:
-- "[[/_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[/_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[/_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[/_Standards/WikiData/WD~Encyclopædia Britannica First Edition,5375740]]"
-- "[[/_Standards/WikiData/WD~The American Cyclopædia,19077875]]"
-- "[[/_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[/_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[/_Standards/WikiData/WD~Encyclopædia_Britannica_First_Edition,5375740]]"
+- "[[/_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
+- "[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 member_of:
-- "[[/_Standards/WikiData/WD~Organization of World Heritage Cities,734958]]"
-- "[[/_Standards/WikiData/WD~Creative Cities Network,1139352]]"
-has_characteristic: "[[/_Standards/WikiData/WD~primate city,1422929]]"
-significant_event: "[[/_Standards/WikiData/WD~plague epidemic,1516910]]"
-history_of_topic: "[[/_Standards/WikiData/WD~history of Cairo,12075162]]"
-head_of_government: "[[/_Standards/WikiData/WD~Abd El Azim Wazir,12223105]]"
-topic_s_main_template: "[[/_Standards/WikiData/WD~Template_Districts of Cairo,14445246]]"
+- "[[/_Standards/WikiData/WD~Organization_of_World_Heritage_Cities,734958]]"
+- "[[/_Standards/WikiData/WD~Creative_Cities_Network,1139352]]"
+has_characteristic: "[[/_Standards/WikiData/WD~primate_city,1422929]]"
+significant_event: "[[/_Standards/WikiData/WD~plague_epidemic,1516910]]"
+history_of_topic: "[[/_Standards/WikiData/WD~history_of_Cairo,12075162]]"
+head_of_government: "[[/_Standards/WikiData/WD~Abd_El_Azim_Wazir,12223105]]"
+topic_s_main_template: "[[/_Standards/WikiData/WD~Template_Districts_of_Cairo,14445246]]"
 topic_s_main_Wikimedia_portal: '[[/_Standards/WikiData/WD~Portal_Cairo,16744247]]'
-economy_of_topic: "[[/_Standards/WikiData/WD~economy of Cairo,106020403]]"
+economy_of_topic: "[[/_Standards/WikiData/WD~economy_of_Cairo,106020403]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Cairo%20Form%20Top.JPG"
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Cairo%20panorama%20banner.jpg"
 satellite_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Cairo%20SPOT%201006.jpg"
@@ -110,7 +110,7 @@ located_in_time_zone:
 - '[[/_Standards/WikiData/WD~UTC+02_00,6723]]'
 - '[[/_Standards/WikiData/WD~UTC+03_00,6760]]'
 official_language: '[[/_Standards/WikiData/WD~Arabic,13955]]'
-located_in_the_administrative_territorial_entity: "[[/_Standards/WikiData/WD~Cairo Governorate,30805]]"
+located_in_the_administrative_territorial_entity: "[[/_Standards/WikiData/WD~Cairo_Governorate,30805]]"
 continent: '[[/_Standards/WikiData/WD~Africa,15]]'
 country: '[[/_Standards/WikiData/WD~Egypt,79]]'
 capital_of: '[[/_Standards/WikiData/WD~Egypt,79]]'
