@@ -40,11 +40,18 @@ markerFolder: ./Bani_Suwayf/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Egypt/Counties/Bani_Suwayf|Bani_Suwayf]] 
-- [[../../../../../../_public/geo/Continent/Africa/Egypt/Counties/Bani_Suwayf.public|Bani_Suwayf.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Egypt/Counties/Bani_Suwayf.internal|Bani_Suwayf.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Egypt/Counties/Bani_Suwayf.protect|Bani_Suwayf.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Egypt/Counties/Bani_Suwayf.private|Bani_Suwayf.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Egypt/Counties/Bani_Suwayf.personal|Bani_Suwayf.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Egypt/Counties/Bani_Suwayf.secret|Bani_Suwayf.secret]] 
+
+### #is_/same_as :: [Bani_Suwayf](/_Standards/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Bani_Suwayf.md) 
+
+### #is_/same_as :: [Bani_Suwayf.public](/_public/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Bani_Suwayf.public.md) 
+
+### #is_/same_as :: [Bani_Suwayf.internal](/_internal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Bani_Suwayf.internal.md) 
+
+### #is_/same_as :: [Bani_Suwayf.protect](/_protect/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Bani_Suwayf.protect.md) 
+
+### #is_/same_as :: [Bani_Suwayf.private](/_private/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Bani_Suwayf.private.md) 
+
+### #is_/same_as :: [Bani_Suwayf.personal](/_personal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Bani_Suwayf.personal.md) 
+
+### #is_/same_as :: [Bani_Suwayf.secret](/_secret/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Bani_Suwayf.secret.md)
 

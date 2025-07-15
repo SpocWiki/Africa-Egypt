@@ -40,11 +40,18 @@ markerFolder: ./Al_Gharbiyah/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Egypt/Counties/Al_Gharbiyah|Al_Gharbiyah]] 
-- [[../../../../../../_public/geo/Continent/Africa/Egypt/Counties/Al_Gharbiyah.public|Al_Gharbiyah.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Egypt/Counties/Al_Gharbiyah.internal|Al_Gharbiyah.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Egypt/Counties/Al_Gharbiyah.protect|Al_Gharbiyah.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Egypt/Counties/Al_Gharbiyah.private|Al_Gharbiyah.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Egypt/Counties/Al_Gharbiyah.personal|Al_Gharbiyah.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Egypt/Counties/Al_Gharbiyah.secret|Al_Gharbiyah.secret]] 
+
+### #is_/same_as :: [Western~Al_Gharbiyah](/_Standards/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Western~Al_Gharbiyah.md) 
+
+### #is_/same_as :: [Western~Al_Gharbiyah.public](/_public/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Western~Al_Gharbiyah.public.md) 
+
+### #is_/same_as :: [Western~Al_Gharbiyah.internal](/_internal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Western~Al_Gharbiyah.internal.md) 
+
+### #is_/same_as :: [Western~Al_Gharbiyah.protect](/_protect/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Western~Al_Gharbiyah.protect.md) 
+
+### #is_/same_as :: [Western~Al_Gharbiyah.private](/_private/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Western~Al_Gharbiyah.private.md) 
+
+### #is_/same_as :: [Western~Al_Gharbiyah.personal](/_personal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Western~Al_Gharbiyah.personal.md) 
+
+### #is_/same_as :: [Western~Al_Gharbiyah.secret](/_secret/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Western~Al_Gharbiyah.secret.md)
 

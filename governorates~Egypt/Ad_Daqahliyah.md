@@ -40,11 +40,18 @@ markerFolder: ./Ad_Daqahliyah/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Egypt/Counties/Ad_Daqahliyah|Ad_Daqahliyah]] 
-- [[../../../../../../_public/geo/Continent/Africa/Egypt/Counties/Ad_Daqahliyah.public|Ad_Daqahliyah.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Egypt/Counties/Ad_Daqahliyah.internal|Ad_Daqahliyah.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Egypt/Counties/Ad_Daqahliyah.protect|Ad_Daqahliyah.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Egypt/Counties/Ad_Daqahliyah.private|Ad_Daqahliyah.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Egypt/Counties/Ad_Daqahliyah.personal|Ad_Daqahliyah.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Egypt/Counties/Ad_Daqahliyah.secret|Ad_Daqahliyah.secret]] 
+
+### #is_/same_as :: [Ad_Daqahliyah](/_Standards/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Ad_Daqahliyah.md) 
+
+### #is_/same_as :: [Ad_Daqahliyah.public](/_public/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Ad_Daqahliyah.public.md) 
+
+### #is_/same_as :: [Ad_Daqahliyah.internal](/_internal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Ad_Daqahliyah.internal.md) 
+
+### #is_/same_as :: [Ad_Daqahliyah.protect](/_protect/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Ad_Daqahliyah.protect.md) 
+
+### #is_/same_as :: [Ad_Daqahliyah.private](/_private/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Ad_Daqahliyah.private.md) 
+
+### #is_/same_as :: [Ad_Daqahliyah.personal](/_personal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Ad_Daqahliyah.personal.md) 
+
+### #is_/same_as :: [Ad_Daqahliyah.secret](/_secret/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Ad_Daqahliyah.secret.md)
 

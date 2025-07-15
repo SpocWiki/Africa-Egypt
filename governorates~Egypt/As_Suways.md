@@ -40,11 +40,18 @@ markerFolder: ./As_Suways/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Egypt/Counties/As_Suways|As_Suways]] 
-- [[../../../../../../_public/geo/Continent/Africa/Egypt/Counties/As_Suways.public|As_Suways.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Egypt/Counties/As_Suways.internal|As_Suways.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Egypt/Counties/As_Suways.protect|As_Suways.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Egypt/Counties/As_Suways.private|As_Suways.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Egypt/Counties/As_Suways.personal|As_Suways.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Egypt/Counties/As_Suways.secret|As_Suways.secret]] 
+
+### #is_/same_as :: [As_Suways](/_Standards/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/As_Suways.md) 
+
+### #is_/same_as :: [As_Suways.public](/_public/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/As_Suways.public.md) 
+
+### #is_/same_as :: [As_Suways.internal](/_internal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/As_Suways.internal.md) 
+
+### #is_/same_as :: [As_Suways.protect](/_protect/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/As_Suways.protect.md) 
+
+### #is_/same_as :: [As_Suways.private](/_private/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/As_Suways.private.md) 
+
+### #is_/same_as :: [As_Suways.personal](/_personal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/As_Suways.personal.md) 
+
+### #is_/same_as :: [As_Suways.secret](/_secret/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/As_Suways.secret.md)
 

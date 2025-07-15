@@ -40,11 +40,18 @@ markerFolder: ./Al_Wadi_at_Jadid/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Egypt/Counties/Al_Wadi_at_Jadid|Al_Wadi_at_Jadid]] 
-- [[../../../../../../_public/geo/Continent/Africa/Egypt/Counties/Al_Wadi_at_Jadid.public|Al_Wadi_at_Jadid.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Egypt/Counties/Al_Wadi_at_Jadid.internal|Al_Wadi_at_Jadid.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Egypt/Counties/Al_Wadi_at_Jadid.protect|Al_Wadi_at_Jadid.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Egypt/Counties/Al_Wadi_at_Jadid.private|Al_Wadi_at_Jadid.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Egypt/Counties/Al_Wadi_at_Jadid.personal|Al_Wadi_at_Jadid.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Egypt/Counties/Al_Wadi_at_Jadid.secret|Al_Wadi_at_Jadid.secret]] 
+
+### #is_/same_as :: [Al_Wadi_al_Jadid](/_Standards/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Wadi_al_Jadid.md) 
+
+### #is_/same_as :: [Al_Wadi_al_Jadid.public](/_public/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Wadi_al_Jadid.public.md) 
+
+### #is_/same_as :: [Al_Wadi_al_Jadid.internal](/_internal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Wadi_al_Jadid.internal.md) 
+
+### #is_/same_as :: [Al_Wadi_al_Jadid.protect](/_protect/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Wadi_al_Jadid.protect.md) 
+
+### #is_/same_as :: [Al_Wadi_al_Jadid.private](/_private/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Wadi_al_Jadid.private.md) 
+
+### #is_/same_as :: [Al_Wadi_al_Jadid.personal](/_personal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Wadi_al_Jadid.personal.md) 
+
+### #is_/same_as :: [Al_Wadi_al_Jadid.secret](/_secret/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Wadi_al_Jadid.secret.md)
 

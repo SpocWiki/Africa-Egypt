@@ -40,11 +40,18 @@ markerFolder: ./Al_Isma`iliyah/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Egypt/Counties/Al_Isma`iliyah|Al_Isma`iliyah]] 
-- [[../../../../../../_public/geo/Continent/Africa/Egypt/Counties/Al_Isma`iliyah.public|Al_Isma`iliyah.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Egypt/Counties/Al_Isma`iliyah.internal|Al_Isma`iliyah.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Egypt/Counties/Al_Isma`iliyah.protect|Al_Isma`iliyah.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Egypt/Counties/Al_Isma`iliyah.private|Al_Isma`iliyah.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Egypt/Counties/Al_Isma`iliyah.personal|Al_Isma`iliyah.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Egypt/Counties/Al_Isma`iliyah.secret|Al_Isma`iliyah.secret]] 
+
+### #is_/same_as :: [Al_Isma`iliyah](/_Standards/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Isma`iliyah.md) 
+
+### #is_/same_as :: [Al_Isma`iliyah.public](/_public/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Isma`iliyah.public.md) 
+
+### #is_/same_as :: [Al_Isma`iliyah.internal](/_internal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Isma`iliyah.internal.md) 
+
+### #is_/same_as :: [Al_Isma`iliyah.protect](/_protect/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Isma`iliyah.protect.md) 
+
+### #is_/same_as :: [Al_Isma`iliyah.private](/_private/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Isma`iliyah.private.md) 
+
+### #is_/same_as :: [Al_Isma`iliyah.personal](/_personal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Isma`iliyah.personal.md) 
+
+### #is_/same_as :: [Al_Isma`iliyah.secret](/_secret/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Isma`iliyah.secret.md)
 

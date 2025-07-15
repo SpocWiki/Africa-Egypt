@@ -40,11 +40,18 @@ markerFolder: ./Al_Buhayrah/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Egypt/Counties/Al_Buhayrah|Al_Buhayrah]] 
-- [[../../../../../../_public/geo/Continent/Africa/Egypt/Counties/Al_Buhayrah.public|Al_Buhayrah.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Egypt/Counties/Al_Buhayrah.internal|Al_Buhayrah.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Egypt/Counties/Al_Buhayrah.protect|Al_Buhayrah.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Egypt/Counties/Al_Buhayrah.private|Al_Buhayrah.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Egypt/Counties/Al_Buhayrah.personal|Al_Buhayrah.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Egypt/Counties/Al_Buhayrah.secret|Al_Buhayrah.secret]] 
+
+### #is_/same_as :: [Al_Buhayrah](/_Standards/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Buhayrah.md) 
+
+### #is_/same_as :: [Al_Buhayrah.public](/_public/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Buhayrah.public.md) 
+
+### #is_/same_as :: [Al_Buhayrah.internal](/_internal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Buhayrah.internal.md) 
+
+### #is_/same_as :: [Al_Buhayrah.protect](/_protect/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Buhayrah.protect.md) 
+
+### #is_/same_as :: [Al_Buhayrah.private](/_private/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Buhayrah.private.md) 
+
+### #is_/same_as :: [Al_Buhayrah.personal](/_personal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Buhayrah.personal.md) 
+
+### #is_/same_as :: [Al_Buhayrah.secret](/_secret/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Buhayrah.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Al_Qahirah/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Egypt/Counties/Al_Qahirah|Al_Qahirah]] 
-- [[../../../../../../_public/geo/Continent/Africa/Egypt/Counties/Al_Qahirah.public|Al_Qahirah.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Egypt/Counties/Al_Qahirah.internal|Al_Qahirah.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Egypt/Counties/Al_Qahirah.protect|Al_Qahirah.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Egypt/Counties/Al_Qahirah.private|Al_Qahirah.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Egypt/Counties/Al_Qahirah.personal|Al_Qahirah.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Egypt/Counties/Al_Qahirah.secret|Al_Qahirah.secret]] 
+
+### #is_/same_as :: [Al_Qahirah](/_Standards/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Qahirah.md) 
+
+### #is_/same_as :: [Al_Qahirah.public](/_public/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Qahirah.public.md) 
+
+### #is_/same_as :: [Al_Qahirah.internal](/_internal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Qahirah.internal.md) 
+
+### #is_/same_as :: [Al_Qahirah.protect](/_protect/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Qahirah.protect.md) 
+
+### #is_/same_as :: [Al_Qahirah.private](/_private/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Qahirah.private.md) 
+
+### #is_/same_as :: [Al_Qahirah.personal](/_personal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Qahirah.personal.md) 
+
+### #is_/same_as :: [Al_Qahirah.secret](/_secret/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Qahirah.secret.md)
 

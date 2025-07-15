@@ -40,11 +40,18 @@ markerFolder: ./Matruh/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Egypt/Counties/Matruh|Matruh]] 
-- [[../../../../../../_public/geo/Continent/Africa/Egypt/Counties/Matruh.public|Matruh.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Egypt/Counties/Matruh.internal|Matruh.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Egypt/Counties/Matruh.protect|Matruh.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Egypt/Counties/Matruh.private|Matruh.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Egypt/Counties/Matruh.personal|Matruh.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Egypt/Counties/Matruh.secret|Matruh.secret]] 
+
+### #is_/same_as :: [Matruh](/_Standards/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Matruh.md) 
+
+### #is_/same_as :: [Matruh.public](/_public/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Matruh.public.md) 
+
+### #is_/same_as :: [Matruh.internal](/_internal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Matruh.internal.md) 
+
+### #is_/same_as :: [Matruh.protect](/_protect/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Matruh.protect.md) 
+
+### #is_/same_as :: [Matruh.private](/_private/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Matruh.private.md) 
+
+### #is_/same_as :: [Matruh.personal](/_personal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Matruh.personal.md) 
+
+### #is_/same_as :: [Matruh.secret](/_secret/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Matruh.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Dumyat/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Egypt/Counties/Dumyat|Dumyat]] 
-- [[../../../../../../_public/geo/Continent/Africa/Egypt/Counties/Dumyat.public|Dumyat.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Egypt/Counties/Dumyat.internal|Dumyat.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Egypt/Counties/Dumyat.protect|Dumyat.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Egypt/Counties/Dumyat.private|Dumyat.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Egypt/Counties/Dumyat.personal|Dumyat.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Egypt/Counties/Dumyat.secret|Dumyat.secret]] 
+
+### #is_/same_as :: [Dumyat](/_Standards/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Dumyat.md) 
+
+### #is_/same_as :: [Dumyat.public](/_public/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Dumyat.public.md) 
+
+### #is_/same_as :: [Dumyat.internal](/_internal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Dumyat.internal.md) 
+
+### #is_/same_as :: [Dumyat.protect](/_protect/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Dumyat.protect.md) 
+
+### #is_/same_as :: [Dumyat.private](/_private/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Dumyat.private.md) 
+
+### #is_/same_as :: [Dumyat.personal](/_personal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Dumyat.personal.md) 
+
+### #is_/same_as :: [Dumyat.secret](/_secret/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Dumyat.secret.md)
 

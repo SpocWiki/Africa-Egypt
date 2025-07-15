@@ -40,11 +40,18 @@ markerFolder: ./Ash_Sharqiyah/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Egypt/Counties/Ash_Sharqiyah|Ash_Sharqiyah]] 
-- [[../../../../../../_public/geo/Continent/Africa/Egypt/Counties/Ash_Sharqiyah.public|Ash_Sharqiyah.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Egypt/Counties/Ash_Sharqiyah.internal|Ash_Sharqiyah.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Egypt/Counties/Ash_Sharqiyah.protect|Ash_Sharqiyah.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Egypt/Counties/Ash_Sharqiyah.private|Ash_Sharqiyah.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Egypt/Counties/Ash_Sharqiyah.personal|Ash_Sharqiyah.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Egypt/Counties/Ash_Sharqiyah.secret|Ash_Sharqiyah.secret]] 
+
+### #is_/same_as :: [Ash_Sharqiyah](/_Standards/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Ash_Sharqiyah.md) 
+
+### #is_/same_as :: [Ash_Sharqiyah.public](/_public/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Ash_Sharqiyah.public.md) 
+
+### #is_/same_as :: [Ash_Sharqiyah.internal](/_internal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Ash_Sharqiyah.internal.md) 
+
+### #is_/same_as :: [Ash_Sharqiyah.protect](/_protect/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Ash_Sharqiyah.protect.md) 
+
+### #is_/same_as :: [Ash_Sharqiyah.private](/_private/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Ash_Sharqiyah.private.md) 
+
+### #is_/same_as :: [Ash_Sharqiyah.personal](/_personal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Ash_Sharqiyah.personal.md) 
+
+### #is_/same_as :: [Ash_Sharqiyah.secret](/_secret/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Ash_Sharqiyah.secret.md)
 

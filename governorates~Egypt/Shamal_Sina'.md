@@ -40,11 +40,18 @@ markerFolder: ./Shamal_Sina'/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Egypt/Counties/Shamal_Sina'|Shamal_Sina']] 
-- [[../../../../../../_public/geo/Continent/Africa/Egypt/Counties/Shamal_Sina'.public|Shamal_Sina'.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Egypt/Counties/Shamal_Sina'.internal|Shamal_Sina'.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Egypt/Counties/Shamal_Sina'.protect|Shamal_Sina'.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Egypt/Counties/Shamal_Sina'.private|Shamal_Sina'.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Egypt/Counties/Shamal_Sina'.personal|Shamal_Sina'.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Egypt/Counties/Shamal_Sina'.secret|Shamal_Sina'.secret]] 
+
+### #is_/same_as :: [Shamal_Sina'](/_Standards/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Shamal_Sina'.md) 
+
+### #is_/same_as :: [Shamal_Sina'.public](/_public/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Shamal_Sina'.public.md) 
+
+### #is_/same_as :: [Shamal_Sina'.internal](/_internal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Shamal_Sina'.internal.md) 
+
+### #is_/same_as :: [Shamal_Sina'.protect](/_protect/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Shamal_Sina'.protect.md) 
+
+### #is_/same_as :: [Shamal_Sina'.private](/_private/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Shamal_Sina'.private.md) 
+
+### #is_/same_as :: [Shamal_Sina'.personal](/_personal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Shamal_Sina'.personal.md) 
+
+### #is_/same_as :: [Shamal_Sina'.secret](/_secret/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Shamal_Sina'.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Suhaj/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Egypt/Counties/Suhaj|Suhaj]] 
-- [[../../../../../../_public/geo/Continent/Africa/Egypt/Counties/Suhaj.public|Suhaj.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Egypt/Counties/Suhaj.internal|Suhaj.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Egypt/Counties/Suhaj.protect|Suhaj.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Egypt/Counties/Suhaj.private|Suhaj.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Egypt/Counties/Suhaj.personal|Suhaj.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Egypt/Counties/Suhaj.secret|Suhaj.secret]] 
+
+### #is_/same_as :: [Suhaj](/_Standards/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Suhaj.md) 
+
+### #is_/same_as :: [Suhaj.public](/_public/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Suhaj.public.md) 
+
+### #is_/same_as :: [Suhaj.internal](/_internal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Suhaj.internal.md) 
+
+### #is_/same_as :: [Suhaj.protect](/_protect/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Suhaj.protect.md) 
+
+### #is_/same_as :: [Suhaj.private](/_private/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Suhaj.private.md) 
+
+### #is_/same_as :: [Suhaj.personal](/_personal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Suhaj.personal.md) 
+
+### #is_/same_as :: [Suhaj.secret](/_secret/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Suhaj.secret.md)
 

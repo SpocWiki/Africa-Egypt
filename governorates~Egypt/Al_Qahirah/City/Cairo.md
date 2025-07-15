@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 30.05
 - 31.25
@@ -167,10 +167,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Egypt/City/Kairo=Cairo|Kairo=Cairo]] 
-- [[../../../../../../_public/geo/Continent/Africa/Egypt/City/Kairo=Cairo.public|Kairo=Cairo.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Egypt/City/Kairo=Cairo.internal|Kairo=Cairo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Egypt/City/Kairo=Cairo.protect|Kairo=Cairo.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Egypt/City/Kairo=Cairo.private|Kairo=Cairo.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Egypt/City/Kairo=Cairo.personal|Kairo=Cairo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Egypt/City/Kairo=Cairo.secret|Kairo=Cairo.secret]] 
+
+### #is_/same_as :: [Cairo](/_Standards/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Qahirah/City/Cairo.md) 
+
+### #is_/same_as :: [Cairo.public](/_public/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Qahirah/City/Cairo.public.md) 
+
+### #is_/same_as :: [Cairo.internal](/_internal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Qahirah/City/Cairo.internal.md) 
+
+### #is_/same_as :: [Cairo.protect](/_protect/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Qahirah/City/Cairo.protect.md) 
+
+### #is_/same_as :: [Cairo.private](/_private/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Qahirah/City/Cairo.private.md) 
+
+### #is_/same_as :: [Cairo.personal](/_personal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Qahirah/City/Cairo.personal.md) 
+
+### #is_/same_as :: [Cairo.secret](/_secret/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Qahirah/City/Cairo.secret.md)
+

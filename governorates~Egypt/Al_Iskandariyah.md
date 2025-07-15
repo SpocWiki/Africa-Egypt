@@ -40,11 +40,18 @@ markerFolder: ./Al_Iskandariyah/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Egypt/Counties/Al_Iskandariyah|Al_Iskandariyah]] 
-- [[../../../../../../_public/geo/Continent/Africa/Egypt/Counties/Al_Iskandariyah.public|Al_Iskandariyah.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Egypt/Counties/Al_Iskandariyah.internal|Al_Iskandariyah.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Egypt/Counties/Al_Iskandariyah.protect|Al_Iskandariyah.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Egypt/Counties/Al_Iskandariyah.private|Al_Iskandariyah.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Egypt/Counties/Al_Iskandariyah.personal|Al_Iskandariyah.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Egypt/Counties/Al_Iskandariyah.secret|Al_Iskandariyah.secret]] 
+
+### #is_/same_as :: [Al_Iskandariyah](/_Standards/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Iskandariyah.md) 
+
+### #is_/same_as :: [Al_Iskandariyah.public](/_public/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Iskandariyah.public.md) 
+
+### #is_/same_as :: [Al_Iskandariyah.internal](/_internal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Iskandariyah.internal.md) 
+
+### #is_/same_as :: [Al_Iskandariyah.protect](/_protect/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Iskandariyah.protect.md) 
+
+### #is_/same_as :: [Al_Iskandariyah.private](/_private/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Iskandariyah.private.md) 
+
+### #is_/same_as :: [Al_Iskandariyah.personal](/_personal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Iskandariyah.personal.md) 
+
+### #is_/same_as :: [Al_Iskandariyah.secret](/_secret/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Iskandariyah.secret.md)
 

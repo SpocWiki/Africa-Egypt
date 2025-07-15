@@ -1,4 +1,4 @@
-﻿---
+---
 location: [29.98,32.55] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Egypt/City/Suez|Suez]] 
-- [[../../../../../../_public/geo/Continent/Africa/Egypt/City/Suez.public|Suez.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Egypt/City/Suez.internal|Suez.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Egypt/City/Suez.protect|Suez.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Egypt/City/Suez.private|Suez.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Egypt/City/Suez.personal|Suez.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Egypt/City/Suez.secret|Suez.secret]] 
+
+### #is_/same_as :: [Suez](/_Standards/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/As_Suways/City/Suez.md) 
+
+### #is_/same_as :: [Suez.public](/_public/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/As_Suways/City/Suez.public.md) 
+
+### #is_/same_as :: [Suez.internal](/_internal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/As_Suways/City/Suez.internal.md) 
+
+### #is_/same_as :: [Suez.protect](/_protect/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/As_Suways/City/Suez.protect.md) 
+
+### #is_/same_as :: [Suez.private](/_private/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/As_Suways/City/Suez.private.md) 
+
+### #is_/same_as :: [Suez.personal](/_personal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/As_Suways/City/Suez.personal.md) 
+
+### #is_/same_as :: [Suez.secret](/_secret/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/As_Suways/City/Suez.secret.md)
+

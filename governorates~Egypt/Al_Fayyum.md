@@ -40,11 +40,18 @@ markerFolder: ./Al_Fayyum/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Egypt/Counties/Al_Fayyum|Al_Fayyum]] 
-- [[../../../../../../_public/geo/Continent/Africa/Egypt/Counties/Al_Fayyum.public|Al_Fayyum.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Egypt/Counties/Al_Fayyum.internal|Al_Fayyum.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Egypt/Counties/Al_Fayyum.protect|Al_Fayyum.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Egypt/Counties/Al_Fayyum.private|Al_Fayyum.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Egypt/Counties/Al_Fayyum.personal|Al_Fayyum.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Egypt/Counties/Al_Fayyum.secret|Al_Fayyum.secret]] 
+
+### #is_/same_as :: [Al_Fayyum](/_Standards/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Fayyum.md) 
+
+### #is_/same_as :: [Al_Fayyum.public](/_public/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Fayyum.public.md) 
+
+### #is_/same_as :: [Al_Fayyum.internal](/_internal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Fayyum.internal.md) 
+
+### #is_/same_as :: [Al_Fayyum.protect](/_protect/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Fayyum.protect.md) 
+
+### #is_/same_as :: [Al_Fayyum.private](/_private/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Fayyum.private.md) 
+
+### #is_/same_as :: [Al_Fayyum.personal](/_personal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Fayyum.personal.md) 
+
+### #is_/same_as :: [Al_Fayyum.secret](/_secret/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Fayyum.secret.md)
 

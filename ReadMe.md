@@ -129,10 +129,4 @@ Capital :: [[Cairo]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Egypt|Egypt]] 
-- [[../../../../../_internal/geo/Continent/Africa/Africa~North/Egypt.internal|Egypt.internal]] 
-- [[../../../../../_protect/geo/Continent/Africa/Africa~North/Egypt.protect|Egypt.protect]] 
-- [[../../../../../_private/geo/Continent/Africa/Africa~North/Egypt.private|Egypt.private]] 
-- [[../../../../../_personal/geo/Continent/Africa/Africa~North/Egypt.personal|Egypt.personal]] 
-- [[../../../../../_secret/geo/Continent/Africa/Africa~North/Egypt.secret|Egypt.secret]] 
+

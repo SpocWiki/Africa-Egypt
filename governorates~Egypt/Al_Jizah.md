@@ -40,11 +40,18 @@ markerFolder: ./Al_Jizah/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Egypt/Counties/Al_Jizah|Al_Jizah]] 
-- [[../../../../../../_public/geo/Continent/Africa/Egypt/Counties/Al_Jizah.public|Al_Jizah.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Egypt/Counties/Al_Jizah.internal|Al_Jizah.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Egypt/Counties/Al_Jizah.protect|Al_Jizah.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Egypt/Counties/Al_Jizah.private|Al_Jizah.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Egypt/Counties/Al_Jizah.personal|Al_Jizah.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Egypt/Counties/Al_Jizah.secret|Al_Jizah.secret]] 
+
+### #is_/same_as :: [Al_Jizah](/_Standards/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Jizah.md) 
+
+### #is_/same_as :: [Al_Jizah.public](/_public/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Jizah.public.md) 
+
+### #is_/same_as :: [Al_Jizah.internal](/_internal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Jizah.internal.md) 
+
+### #is_/same_as :: [Al_Jizah.protect](/_protect/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Jizah.protect.md) 
+
+### #is_/same_as :: [Al_Jizah.private](/_private/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Jizah.private.md) 
+
+### #is_/same_as :: [Al_Jizah.personal](/_personal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Jizah.personal.md) 
+
+### #is_/same_as :: [Al_Jizah.secret](/_secret/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Jizah.secret.md)
 

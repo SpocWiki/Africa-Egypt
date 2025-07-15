@@ -40,11 +40,18 @@ markerFolder: ./Janub_Sina'/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Egypt/Counties/Janub_Sina'|Janub_Sina']] 
-- [[../../../../../../_public/geo/Continent/Africa/Egypt/Counties/Janub_Sina'.public|Janub_Sina'.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Egypt/Counties/Janub_Sina'.internal|Janub_Sina'.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Egypt/Counties/Janub_Sina'.protect|Janub_Sina'.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Egypt/Counties/Janub_Sina'.private|Janub_Sina'.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Egypt/Counties/Janub_Sina'.personal|Janub_Sina'.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Egypt/Counties/Janub_Sina'.secret|Janub_Sina'.secret]] 
+
+### #is_/same_as :: [Janub_Sina'](/_Standards/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Janub_Sina'.md) 
+
+### #is_/same_as :: [Janub_Sina'.public](/_public/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Janub_Sina'.public.md) 
+
+### #is_/same_as :: [Janub_Sina'.internal](/_internal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Janub_Sina'.internal.md) 
+
+### #is_/same_as :: [Janub_Sina'.protect](/_protect/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Janub_Sina'.protect.md) 
+
+### #is_/same_as :: [Janub_Sina'.private](/_private/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Janub_Sina'.private.md) 
+
+### #is_/same_as :: [Janub_Sina'.personal](/_personal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Janub_Sina'.personal.md) 
+
+### #is_/same_as :: [Janub_Sina'.secret](/_secret/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Janub_Sina'.secret.md)
 

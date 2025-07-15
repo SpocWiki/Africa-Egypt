@@ -40,11 +40,18 @@ markerFolder: ./Luxor/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Egypt/Counties/Luxor|Luxor]] 
-- [[../../../../../../_public/geo/Continent/Africa/Egypt/Counties/Luxor.public|Luxor.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Egypt/Counties/Luxor.internal|Luxor.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Egypt/Counties/Luxor.protect|Luxor.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Egypt/Counties/Luxor.private|Luxor.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Egypt/Counties/Luxor.personal|Luxor.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Egypt/Counties/Luxor.secret|Luxor.secret]] 
+
+### #is_/same_as :: [Luxor](/_Standards/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Luxor.md) 
+
+### #is_/same_as :: [Luxor.public](/_public/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Luxor.public.md) 
+
+### #is_/same_as :: [Luxor.internal](/_internal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Luxor.internal.md) 
+
+### #is_/same_as :: [Luxor.protect](/_protect/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Luxor.protect.md) 
+
+### #is_/same_as :: [Luxor.private](/_private/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Luxor.private.md) 
+
+### #is_/same_as :: [Luxor.personal](/_personal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Luxor.personal.md) 
+
+### #is_/same_as :: [Luxor.secret](/_secret/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Luxor.secret.md)
 

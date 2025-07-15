@@ -40,11 +40,18 @@ markerFolder: ./Kafr_ash_Shaykh/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Egypt/Counties/Kafr_ash_Shaykh|Kafr_ash_Shaykh]] 
-- [[../../../../../../_public/geo/Continent/Africa/Egypt/Counties/Kafr_ash_Shaykh.public|Kafr_ash_Shaykh.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Egypt/Counties/Kafr_ash_Shaykh.internal|Kafr_ash_Shaykh.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Egypt/Counties/Kafr_ash_Shaykh.protect|Kafr_ash_Shaykh.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Egypt/Counties/Kafr_ash_Shaykh.private|Kafr_ash_Shaykh.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Egypt/Counties/Kafr_ash_Shaykh.personal|Kafr_ash_Shaykh.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Egypt/Counties/Kafr_ash_Shaykh.secret|Kafr_ash_Shaykh.secret]] 
+
+### #is_/same_as :: [Kafr_ash_Shaykh](/_Standards/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Kafr_ash_Shaykh.md) 
+
+### #is_/same_as :: [Kafr_ash_Shaykh.public](/_public/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Kafr_ash_Shaykh.public.md) 
+
+### #is_/same_as :: [Kafr_ash_Shaykh.internal](/_internal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Kafr_ash_Shaykh.internal.md) 
+
+### #is_/same_as :: [Kafr_ash_Shaykh.protect](/_protect/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Kafr_ash_Shaykh.protect.md) 
+
+### #is_/same_as :: [Kafr_ash_Shaykh.private](/_private/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Kafr_ash_Shaykh.private.md) 
+
+### #is_/same_as :: [Kafr_ash_Shaykh.personal](/_personal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Kafr_ash_Shaykh.personal.md) 
+
+### #is_/same_as :: [Kafr_ash_Shaykh.secret](/_secret/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Kafr_ash_Shaykh.secret.md)
 

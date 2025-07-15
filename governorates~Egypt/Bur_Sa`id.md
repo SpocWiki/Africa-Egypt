@@ -40,11 +40,18 @@ markerFolder: ./Bur_Sa`id/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Egypt/Counties/Bur_Sa`id|Bur_Sa`id]] 
-- [[../../../../../../_public/geo/Continent/Africa/Egypt/Counties/Bur_Sa`id.public|Bur_Sa`id.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Egypt/Counties/Bur_Sa`id.internal|Bur_Sa`id.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Egypt/Counties/Bur_Sa`id.protect|Bur_Sa`id.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Egypt/Counties/Bur_Sa`id.private|Bur_Sa`id.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Egypt/Counties/Bur_Sa`id.personal|Bur_Sa`id.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Egypt/Counties/Bur_Sa`id.secret|Bur_Sa`id.secret]] 
+
+### #is_/same_as :: [Bur_Sa`id](/_Standards/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Bur_Sa`id.md) 
+
+### #is_/same_as :: [Bur_Sa`id.public](/_public/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Bur_Sa`id.public.md) 
+
+### #is_/same_as :: [Bur_Sa`id.internal](/_internal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Bur_Sa`id.internal.md) 
+
+### #is_/same_as :: [Bur_Sa`id.protect](/_protect/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Bur_Sa`id.protect.md) 
+
+### #is_/same_as :: [Bur_Sa`id.private](/_private/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Bur_Sa`id.private.md) 
+
+### #is_/same_as :: [Bur_Sa`id.personal](/_personal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Bur_Sa`id.personal.md) 
+
+### #is_/same_as :: [Bur_Sa`id.secret](/_secret/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Bur_Sa`id.secret.md)
 
