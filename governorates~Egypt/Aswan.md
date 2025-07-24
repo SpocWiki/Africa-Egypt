@@ -14,6 +14,7 @@ tags:
 - geo/Country/Region
 aliases:
 - Aswan
+- Assuan
 
 Languages:
 - de
