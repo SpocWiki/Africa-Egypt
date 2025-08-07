@@ -107,20 +107,19 @@ markerFolder: ./Al_Iskandariyah/
 > [Wikipedia](https://en.wikipedia.org/wiki/Alexandria) 
 
 
-
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Alexandria](Alexandria.md) 
+### #is_/same_as :: [Alexandria](/_Standards/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Alexandria.md) 
 
-### #is_/same_as :: [Al_Iskandariyah.public](/_public/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Iskandariyah.public.md) 
+### #is_/same_as :: [Alexandria.public](/_public/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Alexandria.public.md) 
 
-### #is_/same_as :: [Al_Iskandariyah.internal](/_internal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Iskandariyah.internal.md) 
+### #is_/same_as :: [Alexandria.internal](/_internal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Alexandria.internal.md) 
 
-### #is_/same_as :: [Al_Iskandariyah.protect](/_protect/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Iskandariyah.protect.md) 
+### #is_/same_as :: [Alexandria.protect](/_protect/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Alexandria.protect.md) 
 
-### #is_/same_as :: [Al_Iskandariyah.private](/_private/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Iskandariyah.private.md) 
+### #is_/same_as :: [Alexandria.private](/_private/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Alexandria.private.md) 
 
-### #is_/same_as :: [Al_Iskandariyah.personal](/_personal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Iskandariyah.personal.md) 
+### #is_/same_as :: [Alexandria.personal](/_personal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Alexandria.personal.md) 
 
-### #is_/same_as :: [Al_Iskandariyah.secret](/_secret/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Iskandariyah.secret.md)
+### #is_/same_as :: [Alexandria.secret](/_secret/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Alexandria.secret.md)
 

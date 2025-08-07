@@ -84,3 +84,21 @@ inception: 1908-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cairo%20University) 
 > 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cairo_University](/_Standards/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Jizah/counties~Al_Jizah/Giza/Cairo_University.md) 
+
+### #is_/same_as :: [Cairo_University.public](/_public/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Jizah/counties~Al_Jizah/Giza/Cairo_University.public.md) 
+
+### #is_/same_as :: [Cairo_University.internal](/_internal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Jizah/counties~Al_Jizah/Giza/Cairo_University.internal.md) 
+
+### #is_/same_as :: [Cairo_University.protect](/_protect/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Jizah/counties~Al_Jizah/Giza/Cairo_University.protect.md) 
+
+### #is_/same_as :: [Cairo_University.private](/_private/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Jizah/counties~Al_Jizah/Giza/Cairo_University.private.md) 
+
+### #is_/same_as :: [Cairo_University.personal](/_personal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Jizah/counties~Al_Jizah/Giza/Cairo_University.personal.md) 
+
+### #is_/same_as :: [Cairo_University.secret](/_secret/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Jizah/counties~Al_Jizah/Giza/Cairo_University.secret.md)
+

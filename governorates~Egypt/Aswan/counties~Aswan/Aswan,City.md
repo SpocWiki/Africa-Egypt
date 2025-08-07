@@ -31,3 +31,21 @@
 > Aswan joined the UNESCO Global Network of Learning Cities in 2017.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Aswan) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Aswan,City](/_Standards/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Aswan/counties~Aswan/Aswan,City.md) 
+
+### #is_/same_as :: [Aswan,City.public](/_public/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Aswan/counties~Aswan/Aswan,City.public.md) 
+
+### #is_/same_as :: [Aswan,City.internal](/_internal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Aswan/counties~Aswan/Aswan,City.internal.md) 
+
+### #is_/same_as :: [Aswan,City.protect](/_protect/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Aswan/counties~Aswan/Aswan,City.protect.md) 
+
+### #is_/same_as :: [Aswan,City.private](/_private/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Aswan/counties~Aswan/Aswan,City.private.md) 
+
+### #is_/same_as :: [Aswan,City.personal](/_personal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Aswan/counties~Aswan/Aswan,City.personal.md) 
+
+### #is_/same_as :: [Aswan,City.secret](/_secret/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Aswan/counties~Aswan/Aswan,City.secret.md)
+

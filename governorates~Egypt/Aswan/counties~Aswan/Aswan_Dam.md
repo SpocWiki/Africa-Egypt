@@ -57,3 +57,20 @@ has_id_wikidata: Q38891
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Aswan%20Dam) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Aswan_Dam](/_Standards/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Aswan/counties~Aswan/Aswan_Dam.md) 
+
+### #is_/same_as :: [Aswan_Dam.public](/_public/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Aswan/counties~Aswan/Aswan_Dam.public.md) 
+
+### #is_/same_as :: [Aswan_Dam.internal](/_internal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Aswan/counties~Aswan/Aswan_Dam.internal.md) 
+
+### #is_/same_as :: [Aswan_Dam.protect](/_protect/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Aswan/counties~Aswan/Aswan_Dam.protect.md) 
+
+### #is_/same_as :: [Aswan_Dam.private](/_private/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Aswan/counties~Aswan/Aswan_Dam.private.md) 
+
+### #is_/same_as :: [Aswan_Dam.personal](/_personal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Aswan/counties~Aswan/Aswan_Dam.personal.md) 
+
+### #is_/same_as :: [Aswan_Dam.secret](/_secret/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Aswan/counties~Aswan/Aswan_Dam.secret.md)
+

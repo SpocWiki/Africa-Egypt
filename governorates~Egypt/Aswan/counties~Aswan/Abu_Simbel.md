@@ -37,3 +37,20 @@ has_id_wikidata: Q134140
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Abu%20Simbel) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Abu_Simbel](/_Standards/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Aswan/counties~Aswan/Abu_Simbel.md) 
+
+### #is_/same_as :: [Abu_Simbel.public](/_public/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Aswan/counties~Aswan/Abu_Simbel.public.md) 
+
+### #is_/same_as :: [Abu_Simbel.internal](/_internal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Aswan/counties~Aswan/Abu_Simbel.internal.md) 
+
+### #is_/same_as :: [Abu_Simbel.protect](/_protect/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Aswan/counties~Aswan/Abu_Simbel.protect.md) 
+
+### #is_/same_as :: [Abu_Simbel.private](/_private/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Aswan/counties~Aswan/Abu_Simbel.private.md) 
+
+### #is_/same_as :: [Abu_Simbel.personal](/_personal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Aswan/counties~Aswan/Abu_Simbel.personal.md) 
+
+### #is_/same_as :: [Abu_Simbel.secret](/_secret/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Aswan/counties~Aswan/Abu_Simbel.secret.md)
+

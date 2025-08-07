@@ -57,3 +57,20 @@ has_id_wikidata: Q42013
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Anwar%20Sadat) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sadat,Anwar](/_Standards/Earth/Continent/Africa/Africa~North/Egypt/Sadat,Anwar.md) 
+
+### #is_/same_as :: [Sadat,Anwar.public](/_public/Earth/Continent/Africa/Africa~North/Egypt/Sadat,Anwar.public.md) 
+
+### #is_/same_as :: [Sadat,Anwar.internal](/_internal/Earth/Continent/Africa/Africa~North/Egypt/Sadat,Anwar.internal.md) 
+
+### #is_/same_as :: [Sadat,Anwar.protect](/_protect/Earth/Continent/Africa/Africa~North/Egypt/Sadat,Anwar.protect.md) 
+
+### #is_/same_as :: [Sadat,Anwar.private](/_private/Earth/Continent/Africa/Africa~North/Egypt/Sadat,Anwar.private.md) 
+
+### #is_/same_as :: [Sadat,Anwar.personal](/_personal/Earth/Continent/Africa/Africa~North/Egypt/Sadat,Anwar.personal.md) 
+
+### #is_/same_as :: [Sadat,Anwar.secret](/_secret/Earth/Continent/Africa/Africa~North/Egypt/Sadat,Anwar.secret.md)
+

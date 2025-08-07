@@ -71,3 +71,20 @@ street_address: Al Azaritah WA Ash Shatebi
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bibliotheca%20Alexandrina) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Bibliotheca_Alexandrina](/_Standards/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Alexandria/Bibliotheca_Alexandrina.md) 
+
+### #is_/same_as :: [Bibliotheca_Alexandrina.public](/_public/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Alexandria/Bibliotheca_Alexandrina.public.md) 
+
+### #is_/same_as :: [Bibliotheca_Alexandrina.internal](/_internal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Alexandria/Bibliotheca_Alexandrina.internal.md) 
+
+### #is_/same_as :: [Bibliotheca_Alexandrina.protect](/_protect/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Alexandria/Bibliotheca_Alexandrina.protect.md) 
+
+### #is_/same_as :: [Bibliotheca_Alexandrina.private](/_private/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Alexandria/Bibliotheca_Alexandrina.private.md) 
+
+### #is_/same_as :: [Bibliotheca_Alexandrina.personal](/_personal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Alexandria/Bibliotheca_Alexandrina.personal.md) 
+
+### #is_/same_as :: [Bibliotheca_Alexandrina.secret](/_secret/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Alexandria/Bibliotheca_Alexandrina.secret.md)
+
