@@ -4,26 +4,26 @@ aliases:
   - جامعة القاهرة
   - Jāmiʿat al-Qāhira
 has_id_wikidata: Q194445
-headquarters_location: "[[db/Giza]]"
-named_after: "[[db/Fuad_I_of_Egypt]]"
+headquarters_location: "[[_Standards/WikiData/WD~Giza,81788]]"
+named_after: "[[_Standards/WikiData/WD~Fuad_I_of_Egypt,311839]]"
 member_of:
-  - "[[db/Association_of_African_Universities]]"
-  - "[[db/Agence_universitaire_de_la_Francophonie]]"
-affiliation: "[[db/Mediterranean_Universities_Union]]"
+  - "[[_Standards/WikiData/WD~Association_of_African_Universities,743769]]"
+  - "[[_Standards/WikiData/WD~Agence_universitaire_de_la_Francophonie,2826718]]"
+affiliation: "[[_Standards/WikiData/WD~Mediterranean_Universities_Union,850927]]"
 instance_of:
-  - "[[db/public_university]]"
-  - "[[db/university]]"
+  - "[[_Standards/WikiData/WD~public_university,875538]]"
+  - "[[_Standards/WikiData/WD~university,3918]]"
 child_organization_unit:
-  - "[[db/Faculty_of_Science,_Cairo_University]]"
-  - "[[db/Faculty_of_Veterinary_Medicine_Cairo_University]]"
-  - "[[db/Faculty_of_Engineering,_Cairo_University]]"
-  - "[[db/Faculty_of_Dar_Al_Uloom,_Cairo_University]]"
-  - "[[db/Faculty_of_Computers_and_Artificial_Intelligence,_Cairo_University]]"
-  - "[[db/Cairo_University_Kasr_Alainy_Faculty_of_Medicine]]"
-position_held_by_head_of_the_organization: "[[db/Q27048260]]"
-chairperson: "[[db/Mohamed_Samy_Abd_el_Sadak]]"
+  - "[[_Standards/WikiData/WD~Faculty_of_Science,_Cairo_University,6508638]]"
+  - "[[_Standards/WikiData/WD~Faculty_of_Veterinary_Medicine_Cairo_University,12236012]]"
+  - "[[_Standards/WikiData/WD~Faculty_of_Engineering,_Cairo_University,12236106]]"
+  - "[[_Standards/WikiData/WD~Faculty_of_Dar_Al_Uloom,_Cairo_University,12236130]]"
+  - "[[_Standards/WikiData/WD~Faculty_of_Computers_and_Artificial_Intelligence,_Cairo_University,45136503]]"
+  - "[[_Standards/WikiData/WD~Cairo_University_Kasr_Alainy_Faculty_of_Medicine,99298664]]"
+position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~Q27048260,27048260]]"
+chairperson: "[[_Standards/WikiData/WD~Mohamed_Samy_Abd_el_Sadak,133164799]]"
 coordinate_location: Point(31.21014 30.0276)
-country: "[[db/Egypt]]"
+country: "[[_Standards/WikiData/WD~Egypt,79]]"
 social_media_followers:
   - 16000
   - 6982

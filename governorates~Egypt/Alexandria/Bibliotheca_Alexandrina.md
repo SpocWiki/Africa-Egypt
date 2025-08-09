@@ -4,29 +4,29 @@ aliases:
   - Maktabat al-’Iskandariyya
   - مكتبة الإسكندرية
 has_id_wikidata: Q501851
-director_manager: "[[db/Ismail_Serageldin]]"
+director_manager: "[[_Standards/WikiData/WD~Ismail_Serageldin,168517]]"
 member_of:
-  - "[[db/Biodiversity_Heritage_Library]]"
-  - "[[db/World_Digital_Library]]"
-  - "[[db/International_Internet_Preservation_Consortium]]"
-  - "[[db/International_Federation_of_Library_Associations_and_Institutions]]"
-  - "[[db/Digital_Library_Federation]]"
-  - "[[db/African_Library_and_Information_Associations_and_Institutions]]"
-  - "[[db/International_GLAM_Labs_Community]]"
-  - "[[db/UNESCO_Global_Open_Science_Partnership]]"
-architect: "[[db/Snøhetta]]"
+  - "[[_Standards/WikiData/WD~Biodiversity_Heritage_Library,172266]]"
+  - "[[_Standards/WikiData/WD~World_Digital_Library,475225]]"
+  - "[[_Standards/WikiData/WD~International_Internet_Preservation_Consortium,697497]]"
+  - "[[_Standards/WikiData/WD~International_Federation_of_Library_Associations_and_Institutions,1334284]]"
+  - "[[_Standards/WikiData/WD~Digital_Library_Federation,5275906]]"
+  - "[[_Standards/WikiData/WD~African_Library_and_Information_Associations_and_Institutions,17310153]]"
+  - "[[_Standards/WikiData/WD~International_GLAM_Labs_Community,72936141]]"
+  - "[[_Standards/WikiData/WD~UNESCO_Global_Open_Science_Partnership,112828800]]"
+architect: "[[_Standards/WikiData/WD~Snøhetta,511335]]"
 instance_of:
-  - "[[db/library_building]]"
-  - "[[db/cultural_center]]"
-  - "[[db/literary_museum]]"
-  - "[[db/national_library]]"
+  - "[[_Standards/WikiData/WD~library_building,856584]]"
+  - "[[_Standards/WikiData/WD~cultural_center,1329623]]"
+  - "[[_Standards/WikiData/WD~literary_museum,1865249]]"
+  - "[[_Standards/WikiData/WD~national_library,22806]]"
 coordinate_location: Point(29.909166666 31.208888888)
-different_from: "[[db/Library_of_Alexandria]]"
+different_from: "[[_Standards/WikiData/WD~Library_of_Alexandria,435]]"
 Wikidata_property: EGAXA ID
-country: "[[db/Egypt]]"
-location: "[[db/Alexandria]]"
-located_in_the_administrative_territorial_entity: "[[db/Alexandria]]"
-social_media_followers: 134000
+country: "[[_Standards/WikiData/WD~Egypt,79]]"
+location: "[[_Standards/WikiData/WD~Alexandria,87]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Alexandria,87]]"
+social_media_followers: 150000
 Commons_category: Bibliotheca Alexandrina
 inception: 2002-10-16T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Alexandria%27s%20Bibliotheca.jpg
