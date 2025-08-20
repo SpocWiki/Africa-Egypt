@@ -1,38 +1,39 @@
 ---
 location:
-- 30.015
-- 31.9
+  - 30.015
+  - 31.9
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26886
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Egypt
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Egypt
-- Egipto
-- Égypte
-- مصر
-- 埃及
-- Египет
-- the Arab Republic of Egypt
-- la República Árabe de Egipto
+  - Egypt
+  - Egipto
+  - Égypte
+  - مصر
+  - 埃及
+  - Египет
+  - the Arab Republic of Egypt
+  - la República Árabe de Egipto
 Languages:
-- ar-EG
-- en
-- fr
+  - ar-EG
+  - en
+  - fr
 ---
 
 

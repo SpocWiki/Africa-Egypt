@@ -1,30 +1,29 @@
 ---
-location: [ 31.3 , 30.9 ] 
+location:
+  - 31.3
+  - 30.9
 type: geo-Region
 title: Kafr_ash_Shaykh
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Kafr_ash_Shaykh
-
+  - Kafr_ash_Shaykh
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Kafr_ash_Shaykh
