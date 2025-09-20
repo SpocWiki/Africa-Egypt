@@ -7,7 +7,7 @@ has_id_wikidata: Q42013
 
 # [[Sadat,Anwar]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Anwar_Sadat,42013|WD~Anwar_Sadat,42013]] 
+#is_/same_as :: [[../../../../../../WikiData/WD~Anwar_Sadat,42013|WD~Anwar_Sadat,42013]] 
 
 ## #has_/text_of_/abstract 
 
