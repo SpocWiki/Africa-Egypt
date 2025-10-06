@@ -2,7 +2,8 @@
 aliases:
 has_id_wikidata: Q522862
 part_of: "[[_Standards/WikiData/WD~Thebes,101583]]"
-location: "[[_Standards/WikiData/WD~Karnak,189392]]"
+location: [25.718333333, 32.658333333]
+locations: "[[_Standards/WikiData/WD~Karnak,189392]]"
 named_after: "[[_Standards/WikiData/WD~Karnak,189392]]"
 located_in_the_administrative_territorial_entity:
   - "[[_Standards/WikiData/WD~Karnak,189392]]"

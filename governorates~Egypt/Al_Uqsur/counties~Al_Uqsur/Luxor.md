@@ -33,10 +33,13 @@ expiryDate:
 ```leaflet
 id: Luxor
 zoomFeatures: true 
+defaultZoom: 13 
 minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Luxor/
 markerFolder: ./Luxor/
+coordinates: [[Luxor]] 
+markerFile: [[Luxor]] 
 ```
 
 
