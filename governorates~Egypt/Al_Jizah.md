@@ -26,15 +26,18 @@ publishDate:
 expiryDate:
 ---
 
-# Al_Jizah
+# [[Al_Jizah]] 
 
 ```leaflet
 id: Al_Jizah
 zoomFeatures: true 
-minZoom: 2 
+defaultZoom: 9 
+minZoom: 7 
 maxZoom: 18
 geojsonFolder: ./Al_Jizah/
 markerFolder: ./Al_Jizah/
+coordinates: [[Al_Jizah]] 
+markerFile: [[Al_Jizah]] 
 ```
 
 
