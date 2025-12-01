@@ -4,6 +4,8 @@ aliases:
   - جامعة القاهرة
   - Jāmiʿat al-Qāhira
 has_id_wikidata: Q194445
+location: [ 30.0276, 31.21014]
+coordinate_location: Point(31.21014 30.0276)
 headquarters_location: "[[_Standards/WikiData/WD~Giza,81788]]"
 named_after: "[[_Standards/WikiData/WD~Fuad_I_of_Egypt,311839]]"
 member_of:
@@ -22,7 +24,6 @@ child_organization_unit:
   - "[[_Standards/WikiData/WD~Cairo_University_Kasr_Alainy_Faculty_of_Medicine,99298664]]"
 position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~Q27048260,27048260]]"
 chairperson: "[[_Standards/WikiData/WD~Mohamed_Samy_Abd_el_Sadak,133164799]]"
-coordinate_location: Point(31.21014 30.0276)
 country: "[[_Standards/WikiData/WD~Egypt,79]]"
 social_media_followers:
   - 16000
