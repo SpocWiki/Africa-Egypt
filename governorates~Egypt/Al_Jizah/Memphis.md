@@ -37,7 +37,7 @@ Commons_category: Memphis, Egypt
 
 # [[Memphis]] 
 
-#is_/same_as :: [[WD~Memphis,5715]] 
+#is_/same_as :: [[../../../../../../../WikiData/WD~Memphis,5715|WD~Memphis,5715]]  
 
 ## #has_/map 
 
@@ -56,17 +56,48 @@ markerFile: [[Memphis]]
 
 ## #has_/text_of_/abstract 
 
-> Memphis (Arabic: مَنْف, romanized: Manf, pronounced [mænf]; Bohairic Coptic: ⲙⲉⲙϥⲓ; Greek: Μέμφις), or Men-nefer, was the ancient capital of Inebu-hedj, the first nome of Lower Egypt that was known as mḥw ("North"). Its ruins are located in the vicinity of the present-day village of Mit Rahina (Arabic: ميت رهينة), in markaz (county) Badrashin, Giza, Egypt.
+> Memphis (Arabic: مَنْف, romanized: Manf, pronounced [mænf]; Bohairic Coptic: ⲙⲉⲙϥⲓ; 
+> Greek: Μέμφις), or Men-nefer, was the ancient capital of Inebu-hedj, 
+> the first nome of Lower Egypt that was known as mḥw ("North"). 
+> 
+> Its ruins are located in the vicinity of the present-day village of Mit Rahina (Arabic: ميت رهينة), 
+> in markaz (county) Badrashin, Giza, Egypt.
 >
-> Along with the pyramid fields that stretch across a desert plateau for more than 30 kilometres (19 mi) on its west, including the famous Pyramids of Giza, Memphis and its necropolis have been listed as a World Heritage Site. The site is open to the public as an open-air museum.
+> Along with the pyramid fields that stretch across a desert plateau for more than 30 kilometres 
+> (19 mi) on its west, including the famous Pyramids of Giza, 
+> Memphis and its necropolis have been listed as a World Heritage Site. 
+> The site is open to the public as an open-air museum.
 >
-> According to legends related in the early third century BC by Manetho, a priest and historian who lived in the Ptolemaic Kingdom during the Hellenistic period of ancient Egypt, the city was founded by King Menes. It was the capital of ancient Egypt (Kemet or Kumat) during both the Early Dynastic Period and Old Kingdom and remained an important city throughout ancient Egyptian history. It occupied a strategic position at the mouth of the Nile Delta, and was a hub of bustling activity. Its principal port, Peru-nefer (not to be confused with Peru-nefer at Avaris), featured a high density of workshops, factories, and warehouses that distributed food and merchandise throughout the ancient kingdom. During its golden age, Memphis thrived as a regional centre for commerce, trade, and religion.
+> According to legends related in the early third century BC by Manetho, a priest and historian 
+> who lived in the Ptolemaic Kingdom during the Hellenistic period of ancient Egypt, 
+> the city was founded by King Menes. 
+> It was the capital of ancient Egypt (Kemet or Kumat) during both the Early Dynastic Period 
+> and Old Kingdom and remained an important city throughout ancient Egyptian history. 
+> 
+> It occupied a strategic position at the mouth of the Nile Delta, and was a hub of bustling activity. 
+> Its principal port, Peru-nefer (not to be confused with Peru-nefer at Avaris), 
+> featured a high density of workshops, factories, and warehouses 
+> that distributed food and merchandise throughout the ancient kingdom. 
+> During its golden age, Memphis thrived as a regional centre for commerce, trade, and religion.
 >
-> Memphis was believed to be under the protection of the god Ptah, the patron of craftsmen. Its great temple, Hut-ka-Ptah (meaning "Enclosure of the ka of Ptah"), was one of the most prominent structures in the city. The name of this temple, rendered in Greek as Aἴγυπτoς (Ai-gy-ptos) by Manetho, is believed to be the etymological origin of the modern English name Egypt.
+> Memphis was believed to be under the protection of the god Ptah, the patron of craftsmen. 
+> Its great temple, Hut-ka-Ptah (meaning "Enclosure of the ka of Ptah"), 
+> was one of the most prominent structures in the city. 
+> 
+> The name of this temple, rendered in Greek as Aἴγυπτoς (Ai-gy-ptos) by Manetho, 
+> is believed to be the etymological origin of the modern English name Egypt.
 >
-> The history of Memphis is closely linked to that of the country itself. Its eventual downfall is believed to have been due to the loss of its economic significance in late antiquity, following the rise of coastal Alexandria. Its religious significance was diminished after the abandonment of the ancient religion following the Edict of Thessalonica (380 AD), which made Nicene Christianity the sole religion of the Roman empire. By the Middle Ages, nearby Cairo had emerged as a major political and economic center.
+> The history of Memphis is closely linked to that of the country itself. 
+> Its eventual downfall is believed to have been due to 
+> the loss of its economic significance in late antiquity, following the rise of coastal Alexandria. 
+> 
+> Its religious significance was diminished after the abandonment of the ancient religion 
+> following the Edict of Thessalonica (380 AD), 
+> which made Nicene Christianity the sole religion of the Roman empire. 
+> By the Middle Ages, nearby Cairo had emerged as a major political and economic center.
 >
-> Today, the ruins of the former capital offer fragmented evidence of its past. Many of its remains have become significant tourist destinations.
+> Today, the ruins of the former capital offer fragmented evidence of its past. 
+> Many of its remains have become significant tourist destinations.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Memphis,%20Egypt) 
 

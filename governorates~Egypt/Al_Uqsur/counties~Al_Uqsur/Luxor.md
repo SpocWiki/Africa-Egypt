@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Luxor
+  - Thebes
+  - Theben
 has_id_wikidata: Q101583
 location:
   - 25.71
@@ -13,10 +17,6 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Luxor
-  - Thebes
-  - Theben
 Languages:
   - de
 cssclasses:
