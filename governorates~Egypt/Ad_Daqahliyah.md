@@ -26,11 +26,15 @@ publishDate:
 expiryDate:
 ---
 
-# Ad_Daqahliyah
+# [[Ad_Daqahliyah]]
+
+
+## #has_/map 
 
 ```leaflet
 id: Ad_Daqahliyah
 zoomFeatures: true 
+defaultZoom: 6 
 minZoom: 2 
 maxZoom: 18
 geojsonFolder: ./Ad_Daqahliyah/

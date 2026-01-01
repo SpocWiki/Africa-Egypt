@@ -95,7 +95,7 @@ name_in_hiero_markup:
 date_of_death: -1212-01-01T00:00:00Z
 ---
 
-# [[Ramesses_II]]  
+# [[-1302-Ramesses_II-1212]]  
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Ramesses_II,1523|WD~Ramesses_II,1523]]  
 

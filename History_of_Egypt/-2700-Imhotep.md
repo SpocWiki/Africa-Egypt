@@ -31,14 +31,14 @@ Krugosvet_article_archived_: medicina/IMHOTEP.html
 date_of_death: -2700-01-01T00:00:00Z
 ---
 
-# [[Imhotep]] 
+# [[-2700-Imhotep]] 
 
 #has_/time_/started ::  -2700-06
 #is_/same_as :: [[../../../../../_Standards/WikiData/WD~Imhotep,131171|WD~Imhotep,131171]]
 
 ## #has_/text_of_/abstract 
 
-> **Imhotep** (; Ancient Egyptian: ỉỉ-m-ḥtp "(the one who) comes in peace"; fl. late 27th century BC) 
+> **Imhotep** (Ancient Egyptian: ỉỉ-m-ḥtp "(the one who) comes in peace"; fl. late 27th century BC) 
 > was an Egyptian chancellor to the King Djoser, possible architect of Djoser's step pyramid, 
 > and high priest of the sun god Ra at Heliopolis. 
 > 
@@ -51,7 +51,7 @@ date_of_death: -2700-01-01T00:00:00Z
 > and no text mentions his name in the first 1,200 years following his death. 
 > 
 > Apart from the three short contemporary inscriptions that establish him as chancellor to the Pharaoh, 
-> the first text to refer to Imhotep dates to the time of [[Amenhotep_III]] (c. 1391–1353 BC). 
+> the first text to refer to Imhotep dates to the time of [[-1387-Amenhotep_III-1350]] (c. 1391–1353 BC). 
 > It is addressed to the owner of a tomb and reads:
 >
 > The wab-priest may give offerings to your ka. 

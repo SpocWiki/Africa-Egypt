@@ -42,7 +42,7 @@ ISNI: "0000000093382861"
 Krugosvet_article_archived_: istoriya/NEFERTITI.html
 ---
 
-# [[Nefertiti]] 
+# [[-1369-Nefertiti-1329]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Nefertiti,40930|WD~Nefertiti,40930]]  
 

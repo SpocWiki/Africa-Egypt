@@ -51,7 +51,7 @@ Commons_category: Thutmosis III
 date_of_birth: -1480-01-01T00:00:00Z
 ---
 
-# [[Thutmose_III]]  
+# [[-1480-Thutmose_III-1424]]  
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Thutmose_III,157899|WD~Thutmose_III,157899]]  
 

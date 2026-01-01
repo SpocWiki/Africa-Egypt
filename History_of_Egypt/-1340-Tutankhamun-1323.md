@@ -57,7 +57,7 @@ ISNI: "0000000099931817"
 Krugosvet_article_archived_: istoriya/TUTANHAMON.html
 ---
 
-# [[Tutankhamun]] 
+# [[-1340-Tutankhamun-1323]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Tutankhamun,12154|WD~Tutankhamun,12154]]  
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Amenhotep the Magnificent"
 - "Amenhotep the Great"
