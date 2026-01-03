@@ -144,3 +144,20 @@ date_of_death: -1212-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ramesses%20II) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Egypt/History_of_Egypt/-1302-Ramesses_II-1212|-1302-Ramesses_II-1212]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Egypt/History_of_Egypt/-1302-Ramesses_II-1212.public|-1302-Ramesses_II-1212.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Egypt/History_of_Egypt/-1302-Ramesses_II-1212.internal|-1302-Ramesses_II-1212.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Egypt/History_of_Egypt/-1302-Ramesses_II-1212.protect|-1302-Ramesses_II-1212.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Egypt/History_of_Egypt/-1302-Ramesses_II-1212.private|-1302-Ramesses_II-1212.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Egypt/History_of_Egypt/-1302-Ramesses_II-1212.personal|-1302-Ramesses_II-1212.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Egypt/History_of_Egypt/-1302-Ramesses_II-1212.secret|-1302-Ramesses_II-1212.secret]] 
+

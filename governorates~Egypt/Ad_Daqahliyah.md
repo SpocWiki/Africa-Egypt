@@ -44,17 +44,17 @@ markerFolder: ./Ad_Daqahliyah/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ad_Daqahliyah](/_Standards/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Ad_Daqahliyah.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Ad_Daqahliyah|Ad_Daqahliyah]] 
 
-### #is_/same_as :: [Ad_Daqahliyah.public](/_public/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Ad_Daqahliyah.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Ad_Daqahliyah.public|Ad_Daqahliyah.public]] 
 
-### #is_/same_as :: [Ad_Daqahliyah.internal](/_internal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Ad_Daqahliyah.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Ad_Daqahliyah.internal|Ad_Daqahliyah.internal]] 
 
-### #is_/same_as :: [Ad_Daqahliyah.protect](/_protect/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Ad_Daqahliyah.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Ad_Daqahliyah.protect|Ad_Daqahliyah.protect]] 
 
-### #is_/same_as :: [Ad_Daqahliyah.private](/_private/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Ad_Daqahliyah.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Ad_Daqahliyah.private|Ad_Daqahliyah.private]] 
 
-### #is_/same_as :: [Ad_Daqahliyah.personal](/_personal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Ad_Daqahliyah.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Ad_Daqahliyah.personal|Ad_Daqahliyah.personal]] 
 
-### #is_/same_as :: [Ad_Daqahliyah.secret](/_secret/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Ad_Daqahliyah.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Ad_Daqahliyah.secret|Ad_Daqahliyah.secret]] 
 

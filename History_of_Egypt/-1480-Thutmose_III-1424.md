@@ -83,3 +83,20 @@ date_of_birth: -1480-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Thutmose%20III) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Egypt/History_of_Egypt/-1480-Thutmose_III-1424|-1480-Thutmose_III-1424]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Egypt/History_of_Egypt/-1480-Thutmose_III-1424.public|-1480-Thutmose_III-1424.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Egypt/History_of_Egypt/-1480-Thutmose_III-1424.internal|-1480-Thutmose_III-1424.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Egypt/History_of_Egypt/-1480-Thutmose_III-1424.protect|-1480-Thutmose_III-1424.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Egypt/History_of_Egypt/-1480-Thutmose_III-1424.private|-1480-Thutmose_III-1424.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Egypt/History_of_Egypt/-1480-Thutmose_III-1424.personal|-1480-Thutmose_III-1424.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Egypt/History_of_Egypt/-1480-Thutmose_III-1424.secret|-1480-Thutmose_III-1424.secret]] 
+

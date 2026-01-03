@@ -60,17 +60,17 @@ has_id_wikidata: Q38891
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Aswan_Dam](/_Standards/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Aswan/counties~Aswan/Aswan_Dam.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Aswan/counties~Aswan/Aswan_Dam|Aswan_Dam]] 
 
-### #is_/same_as :: [Aswan_Dam.public](/_public/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Aswan/counties~Aswan/Aswan_Dam.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Aswan/counties~Aswan/Aswan_Dam.public|Aswan_Dam.public]] 
 
-### #is_/same_as :: [Aswan_Dam.internal](/_internal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Aswan/counties~Aswan/Aswan_Dam.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Aswan/counties~Aswan/Aswan_Dam.internal|Aswan_Dam.internal]] 
 
-### #is_/same_as :: [Aswan_Dam.protect](/_protect/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Aswan/counties~Aswan/Aswan_Dam.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Aswan/counties~Aswan/Aswan_Dam.protect|Aswan_Dam.protect]] 
 
-### #is_/same_as :: [Aswan_Dam.private](/_private/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Aswan/counties~Aswan/Aswan_Dam.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Aswan/counties~Aswan/Aswan_Dam.private|Aswan_Dam.private]] 
 
-### #is_/same_as :: [Aswan_Dam.personal](/_personal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Aswan/counties~Aswan/Aswan_Dam.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Aswan/counties~Aswan/Aswan_Dam.personal|Aswan_Dam.personal]] 
 
-### #is_/same_as :: [Aswan_Dam.secret](/_secret/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Aswan/counties~Aswan/Aswan_Dam.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Aswan/counties~Aswan/Aswan_Dam.secret|Aswan_Dam.secret]] 
 

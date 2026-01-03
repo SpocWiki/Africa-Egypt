@@ -58,3 +58,20 @@ native_label: Μονὴ τῆς Ἁγίας Αἰκατερίνης
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Saint%20Catherine's%20Monastery) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Egypt/Sinai_Peninsula/Sinai,South/counties~Janub_Sina'/Sant_Katrin/Saint_Catherine_Monastery|Saint_Catherine_Monastery]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Egypt/Sinai_Peninsula/Sinai,South/counties~Janub_Sina'/Sant_Katrin/Saint_Catherine_Monastery.public|Saint_Catherine_Monastery.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Egypt/Sinai_Peninsula/Sinai,South/counties~Janub_Sina'/Sant_Katrin/Saint_Catherine_Monastery.internal|Saint_Catherine_Monastery.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Egypt/Sinai_Peninsula/Sinai,South/counties~Janub_Sina'/Sant_Katrin/Saint_Catherine_Monastery.protect|Saint_Catherine_Monastery.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Egypt/Sinai_Peninsula/Sinai,South/counties~Janub_Sina'/Sant_Katrin/Saint_Catherine_Monastery.private|Saint_Catherine_Monastery.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Egypt/Sinai_Peninsula/Sinai,South/counties~Janub_Sina'/Sant_Katrin/Saint_Catherine_Monastery.personal|Saint_Catherine_Monastery.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Egypt/Sinai_Peninsula/Sinai,South/counties~Janub_Sina'/Sant_Katrin/Saint_Catherine_Monastery.secret|Saint_Catherine_Monastery.secret]] 
+

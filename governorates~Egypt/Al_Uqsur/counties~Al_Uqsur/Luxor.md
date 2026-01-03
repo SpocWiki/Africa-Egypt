@@ -120,19 +120,20 @@ markerFile: [[Luxor]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Luxor)
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Luxor](/_Standards/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Luxor.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Uqsur/counties~Al_Uqsur/Luxor|Luxor]] 
 
-### #is_/same_as :: [Luxor.public](/_public/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Luxor.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Uqsur/counties~Al_Uqsur/Luxor.public|Luxor.public]] 
 
-### #is_/same_as :: [Luxor.internal](/_internal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Luxor.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Uqsur/counties~Al_Uqsur/Luxor.internal|Luxor.internal]] 
 
-### #is_/same_as :: [Luxor.protect](/_protect/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Luxor.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Uqsur/counties~Al_Uqsur/Luxor.protect|Luxor.protect]] 
 
-### #is_/same_as :: [Luxor.private](/_private/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Luxor.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Uqsur/counties~Al_Uqsur/Luxor.private|Luxor.private]] 
 
-### #is_/same_as :: [Luxor.personal](/_personal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Luxor.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Uqsur/counties~Al_Uqsur/Luxor.personal|Luxor.personal]] 
 
-### #is_/same_as :: [Luxor.secret](/_secret/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Luxor.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Uqsur/counties~Al_Uqsur/Luxor.secret|Luxor.secret]] 
 

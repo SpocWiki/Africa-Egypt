@@ -52,3 +52,20 @@ Commons_category: Karnak temple complex
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Karnak) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Uqsur/counties~Al_Uqsur/Luxor/Karnak_Temple|Karnak_Temple]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Uqsur/counties~Al_Uqsur/Luxor/Karnak_Temple.public|Karnak_Temple.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Uqsur/counties~Al_Uqsur/Luxor/Karnak_Temple.internal|Karnak_Temple.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Uqsur/counties~Al_Uqsur/Luxor/Karnak_Temple.protect|Karnak_Temple.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Uqsur/counties~Al_Uqsur/Luxor/Karnak_Temple.private|Karnak_Temple.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Uqsur/counties~Al_Uqsur/Luxor/Karnak_Temple.personal|Karnak_Temple.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Uqsur/counties~Al_Uqsur/Luxor/Karnak_Temple.secret|Karnak_Temple.secret]] 
+

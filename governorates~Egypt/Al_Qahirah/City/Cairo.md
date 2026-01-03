@@ -178,17 +178,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cairo](/_Standards/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Qahirah/City/Cairo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Qahirah/City/Cairo|Cairo]] 
 
-### #is_/same_as :: [Cairo.public](/_public/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Qahirah/City/Cairo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Qahirah/City/Cairo.public|Cairo.public]] 
 
-### #is_/same_as :: [Cairo.internal](/_internal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Qahirah/City/Cairo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Qahirah/City/Cairo.internal|Cairo.internal]] 
 
-### #is_/same_as :: [Cairo.protect](/_protect/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Qahirah/City/Cairo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Qahirah/City/Cairo.protect|Cairo.protect]] 
 
-### #is_/same_as :: [Cairo.private](/_private/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Qahirah/City/Cairo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Qahirah/City/Cairo.private|Cairo.private]] 
 
-### #is_/same_as :: [Cairo.personal](/_personal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Qahirah/City/Cairo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Qahirah/City/Cairo.personal|Cairo.personal]] 
 
-### #is_/same_as :: [Cairo.secret](/_secret/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Qahirah/City/Cairo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Qahirah/City/Cairo.secret|Cairo.secret]] 
 

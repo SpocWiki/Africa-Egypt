@@ -60,3 +60,20 @@ native_label: معبد الاقصر
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Luxor%20Temple) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Uqsur/counties~Al_Uqsur/Luxor/Luxor_Temple|Luxor_Temple]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Uqsur/counties~Al_Uqsur/Luxor/Luxor_Temple.public|Luxor_Temple.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Uqsur/counties~Al_Uqsur/Luxor/Luxor_Temple.internal|Luxor_Temple.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Uqsur/counties~Al_Uqsur/Luxor/Luxor_Temple.protect|Luxor_Temple.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Uqsur/counties~Al_Uqsur/Luxor/Luxor_Temple.private|Luxor_Temple.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Uqsur/counties~Al_Uqsur/Luxor/Luxor_Temple.personal|Luxor_Temple.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Uqsur/counties~Al_Uqsur/Luxor/Luxor_Temple.secret|Luxor_Temple.secret]] 
+

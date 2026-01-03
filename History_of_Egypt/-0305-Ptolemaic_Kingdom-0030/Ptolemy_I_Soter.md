@@ -82,3 +82,20 @@ ISNI: "0000000439592365"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ptolemy%20I%20Soter) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Egypt/History_of_Egypt/-0305-Ptolemaic_Kingdom-0030/Ptolemy_I_Soter|Ptolemy_I_Soter]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Egypt/History_of_Egypt/-0305-Ptolemaic_Kingdom-0030/Ptolemy_I_Soter.public|Ptolemy_I_Soter.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Egypt/History_of_Egypt/-0305-Ptolemaic_Kingdom-0030/Ptolemy_I_Soter.internal|Ptolemy_I_Soter.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Egypt/History_of_Egypt/-0305-Ptolemaic_Kingdom-0030/Ptolemy_I_Soter.protect|Ptolemy_I_Soter.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Egypt/History_of_Egypt/-0305-Ptolemaic_Kingdom-0030/Ptolemy_I_Soter.private|Ptolemy_I_Soter.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Egypt/History_of_Egypt/-0305-Ptolemaic_Kingdom-0030/Ptolemy_I_Soter.personal|Ptolemy_I_Soter.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Egypt/History_of_Egypt/-0305-Ptolemaic_Kingdom-0030/Ptolemy_I_Soter.secret|Ptolemy_I_Soter.secret]] 
+

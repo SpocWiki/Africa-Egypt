@@ -78,3 +78,20 @@ title: Great Sphinx of Giza
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Great%20Sphinx%20of%20Giza) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Jizah/counties~Al_Jizah/Giza/Great_Sphinx|Great_Sphinx]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Jizah/counties~Al_Jizah/Giza/Great_Sphinx.public|Great_Sphinx.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Jizah/counties~Al_Jizah/Giza/Great_Sphinx.internal|Great_Sphinx.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Jizah/counties~Al_Jizah/Giza/Great_Sphinx.protect|Great_Sphinx.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Jizah/counties~Al_Jizah/Giza/Great_Sphinx.private|Great_Sphinx.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Jizah/counties~Al_Jizah/Giza/Great_Sphinx.personal|Great_Sphinx.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Jizah/counties~Al_Jizah/Giza/Great_Sphinx.secret|Great_Sphinx.secret]] 
+

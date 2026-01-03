@@ -79,5 +79,19 @@ Google_Doodle: abu-simbel
 > [Wikipedia](https://en.wikipedia.org/wiki/Abu%20Simbel) 
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Aswan/counties~Aswan/Abu_Simbel/Temples_of_Abu_Simbel|Temples_of_Abu_Simbel]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Aswan/counties~Aswan/Abu_Simbel/Temples_of_Abu_Simbel.public|Temples_of_Abu_Simbel.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Aswan/counties~Aswan/Abu_Simbel/Temples_of_Abu_Simbel.internal|Temples_of_Abu_Simbel.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Aswan/counties~Aswan/Abu_Simbel/Temples_of_Abu_Simbel.protect|Temples_of_Abu_Simbel.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Aswan/counties~Aswan/Abu_Simbel/Temples_of_Abu_Simbel.private|Temples_of_Abu_Simbel.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Aswan/counties~Aswan/Abu_Simbel/Temples_of_Abu_Simbel.personal|Temples_of_Abu_Simbel.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Aswan/counties~Aswan/Abu_Simbel/Temples_of_Abu_Simbel.secret|Temples_of_Abu_Simbel.secret]] 
 

@@ -74,17 +74,17 @@ street_address: Al Azaritah WA Ash Shatebi
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bibliotheca_Alexandrina](/_Standards/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Alexandria/Bibliotheca_Alexandrina.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Alexandria/Bibliotheca_Alexandrina|Bibliotheca_Alexandrina]] 
 
-### #is_/same_as :: [Bibliotheca_Alexandrina.public](/_public/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Alexandria/Bibliotheca_Alexandrina.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Alexandria/Bibliotheca_Alexandrina.public|Bibliotheca_Alexandrina.public]] 
 
-### #is_/same_as :: [Bibliotheca_Alexandrina.internal](/_internal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Alexandria/Bibliotheca_Alexandrina.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Alexandria/Bibliotheca_Alexandrina.internal|Bibliotheca_Alexandrina.internal]] 
 
-### #is_/same_as :: [Bibliotheca_Alexandrina.protect](/_protect/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Alexandria/Bibliotheca_Alexandrina.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Alexandria/Bibliotheca_Alexandrina.protect|Bibliotheca_Alexandrina.protect]] 
 
-### #is_/same_as :: [Bibliotheca_Alexandrina.private](/_private/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Alexandria/Bibliotheca_Alexandrina.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Alexandria/Bibliotheca_Alexandrina.private|Bibliotheca_Alexandrina.private]] 
 
-### #is_/same_as :: [Bibliotheca_Alexandrina.personal](/_personal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Alexandria/Bibliotheca_Alexandrina.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Alexandria/Bibliotheca_Alexandrina.personal|Bibliotheca_Alexandrina.personal]] 
 
-### #is_/same_as :: [Bibliotheca_Alexandrina.secret](/_secret/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Alexandria/Bibliotheca_Alexandrina.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Alexandria/Bibliotheca_Alexandrina.secret|Bibliotheca_Alexandrina.secret]] 
 

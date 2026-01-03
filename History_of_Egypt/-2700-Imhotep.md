@@ -79,3 +79,19 @@ date_of_death: -2700-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Imhotep) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Egypt/History_of_Egypt/-2700-Imhotep|-2700-Imhotep]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Egypt/History_of_Egypt/-2700-Imhotep.public|-2700-Imhotep.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Egypt/History_of_Egypt/-2700-Imhotep.internal|-2700-Imhotep.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Egypt/History_of_Egypt/-2700-Imhotep.protect|-2700-Imhotep.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Egypt/History_of_Egypt/-2700-Imhotep.private|-2700-Imhotep.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Egypt/History_of_Egypt/-2700-Imhotep.personal|-2700-Imhotep.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Egypt/History_of_Egypt/-2700-Imhotep.secret|-2700-Imhotep.secret]] 
+

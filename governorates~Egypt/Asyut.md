@@ -40,17 +40,17 @@ markerFolder: ./Asyut/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Asyut](/_Standards/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Asyut.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Asyut|Asyut]] 
 
-### #is_/same_as :: [Asyut.public](/_public/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Asyut.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Asyut.public|Asyut.public]] 
 
-### #is_/same_as :: [Asyut.internal](/_internal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Asyut.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Asyut.internal|Asyut.internal]] 
 
-### #is_/same_as :: [Asyut.protect](/_protect/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Asyut.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Asyut.protect|Asyut.protect]] 
 
-### #is_/same_as :: [Asyut.private](/_private/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Asyut.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Asyut.private|Asyut.private]] 
 
-### #is_/same_as :: [Asyut.personal](/_personal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Asyut.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Asyut.personal|Asyut.personal]] 
 
-### #is_/same_as :: [Asyut.secret](/_secret/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Asyut.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Asyut.secret|Asyut.secret]] 
 

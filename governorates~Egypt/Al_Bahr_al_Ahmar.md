@@ -40,17 +40,17 @@ markerFolder: ./Al_Bahr_al_Ahmar/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Al_Bahr_al_Ahmar](/_Standards/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Bahr_al_Ahmar.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Bahr_al_Ahmar|Al_Bahr_al_Ahmar]] 
 
-### #is_/same_as :: [Al_Bahr_al_Ahmar.public](/_public/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Bahr_al_Ahmar.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Bahr_al_Ahmar.public|Al_Bahr_al_Ahmar.public]] 
 
-### #is_/same_as :: [Al_Bahr_al_Ahmar.internal](/_internal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Bahr_al_Ahmar.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Bahr_al_Ahmar.internal|Al_Bahr_al_Ahmar.internal]] 
 
-### #is_/same_as :: [Al_Bahr_al_Ahmar.protect](/_protect/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Bahr_al_Ahmar.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Bahr_al_Ahmar.protect|Al_Bahr_al_Ahmar.protect]] 
 
-### #is_/same_as :: [Al_Bahr_al_Ahmar.private](/_private/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Bahr_al_Ahmar.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Bahr_al_Ahmar.private|Al_Bahr_al_Ahmar.private]] 
 
-### #is_/same_as :: [Al_Bahr_al_Ahmar.personal](/_personal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Bahr_al_Ahmar.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Bahr_al_Ahmar.personal|Al_Bahr_al_Ahmar.personal]] 
 
-### #is_/same_as :: [Al_Bahr_al_Ahmar.secret](/_secret/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Bahr_al_Ahmar.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Bahr_al_Ahmar.secret|Al_Bahr_al_Ahmar.secret]] 
 

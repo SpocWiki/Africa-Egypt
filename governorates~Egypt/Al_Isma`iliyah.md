@@ -40,17 +40,17 @@ markerFolder: ./Al_Isma`iliyah/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Al_Isma`iliyah](/_Standards/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Isma`iliyah.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Isma`iliyah|Al_Isma`iliyah]] 
 
-### #is_/same_as :: [Al_Isma`iliyah.public](/_public/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Isma`iliyah.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Isma`iliyah.public|Al_Isma`iliyah.public]] 
 
-### #is_/same_as :: [Al_Isma`iliyah.internal](/_internal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Isma`iliyah.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Isma`iliyah.internal|Al_Isma`iliyah.internal]] 
 
-### #is_/same_as :: [Al_Isma`iliyah.protect](/_protect/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Isma`iliyah.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Isma`iliyah.protect|Al_Isma`iliyah.protect]] 
 
-### #is_/same_as :: [Al_Isma`iliyah.private](/_private/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Isma`iliyah.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Isma`iliyah.private|Al_Isma`iliyah.private]] 
 
-### #is_/same_as :: [Al_Isma`iliyah.personal](/_personal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Isma`iliyah.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Isma`iliyah.personal|Al_Isma`iliyah.personal]] 
 
-### #is_/same_as :: [Al_Isma`iliyah.secret](/_secret/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Isma`iliyah.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Isma`iliyah.secret|Al_Isma`iliyah.secret]] 
 

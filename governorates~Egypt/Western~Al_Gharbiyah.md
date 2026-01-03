@@ -40,17 +40,17 @@ markerFolder: ./Al_Gharbiyah/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Western~Al_Gharbiyah](/_Standards/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Western~Al_Gharbiyah.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Western~Al_Gharbiyah|Western~Al_Gharbiyah]] 
 
-### #is_/same_as :: [Western~Al_Gharbiyah.public](/_public/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Western~Al_Gharbiyah.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Western~Al_Gharbiyah.public|Western~Al_Gharbiyah.public]] 
 
-### #is_/same_as :: [Western~Al_Gharbiyah.internal](/_internal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Western~Al_Gharbiyah.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Western~Al_Gharbiyah.internal|Western~Al_Gharbiyah.internal]] 
 
-### #is_/same_as :: [Western~Al_Gharbiyah.protect](/_protect/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Western~Al_Gharbiyah.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Western~Al_Gharbiyah.protect|Western~Al_Gharbiyah.protect]] 
 
-### #is_/same_as :: [Western~Al_Gharbiyah.private](/_private/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Western~Al_Gharbiyah.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Western~Al_Gharbiyah.private|Western~Al_Gharbiyah.private]] 
 
-### #is_/same_as :: [Western~Al_Gharbiyah.personal](/_personal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Western~Al_Gharbiyah.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Western~Al_Gharbiyah.personal|Western~Al_Gharbiyah.personal]] 
 
-### #is_/same_as :: [Western~Al_Gharbiyah.secret](/_secret/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Western~Al_Gharbiyah.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Western~Al_Gharbiyah.secret|Western~Al_Gharbiyah.secret]] 
 

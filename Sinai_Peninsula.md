@@ -67,3 +67,20 @@ Commons_category: Sinai Peninsula
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sinai%20Peninsula) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Egypt/Sinai_Peninsula|Sinai_Peninsula]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Egypt/Sinai_Peninsula.public|Sinai_Peninsula.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Egypt/Sinai_Peninsula.internal|Sinai_Peninsula.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Egypt/Sinai_Peninsula.protect|Sinai_Peninsula.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Egypt/Sinai_Peninsula.private|Sinai_Peninsula.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Egypt/Sinai_Peninsula.personal|Sinai_Peninsula.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Egypt/Sinai_Peninsula.secret|Sinai_Peninsula.secret]] 
+

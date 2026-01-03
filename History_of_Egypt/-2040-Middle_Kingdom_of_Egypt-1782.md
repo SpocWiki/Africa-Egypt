@@ -40,3 +40,20 @@ OpenStreetMap_tag: historic:period=middle_kingdom
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Middle%20Kingdom%20of%20Egypt) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Egypt/History_of_Egypt/-2040-Middle_Kingdom_of_Egypt-1782|-2040-Middle_Kingdom_of_Egypt-1782]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Egypt/History_of_Egypt/-2040-Middle_Kingdom_of_Egypt-1782.public|-2040-Middle_Kingdom_of_Egypt-1782.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Egypt/History_of_Egypt/-2040-Middle_Kingdom_of_Egypt-1782.internal|-2040-Middle_Kingdom_of_Egypt-1782.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Egypt/History_of_Egypt/-2040-Middle_Kingdom_of_Egypt-1782.protect|-2040-Middle_Kingdom_of_Egypt-1782.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Egypt/History_of_Egypt/-2040-Middle_Kingdom_of_Egypt-1782.private|-2040-Middle_Kingdom_of_Egypt-1782.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Egypt/History_of_Egypt/-2040-Middle_Kingdom_of_Egypt-1782.personal|-2040-Middle_Kingdom_of_Egypt-1782.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Egypt/History_of_Egypt/-2040-Middle_Kingdom_of_Egypt-1782.secret|-2040-Middle_Kingdom_of_Egypt-1782.secret]] 
+

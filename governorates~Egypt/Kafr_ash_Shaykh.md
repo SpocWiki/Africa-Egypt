@@ -40,17 +40,17 @@ markerFolder: ./Kafr_ash_Shaykh/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kafr_ash_Shaykh](/_Standards/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Kafr_ash_Shaykh.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Kafr_ash_Shaykh|Kafr_ash_Shaykh]] 
 
-### #is_/same_as :: [Kafr_ash_Shaykh.public](/_public/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Kafr_ash_Shaykh.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Kafr_ash_Shaykh.public|Kafr_ash_Shaykh.public]] 
 
-### #is_/same_as :: [Kafr_ash_Shaykh.internal](/_internal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Kafr_ash_Shaykh.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Kafr_ash_Shaykh.internal|Kafr_ash_Shaykh.internal]] 
 
-### #is_/same_as :: [Kafr_ash_Shaykh.protect](/_protect/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Kafr_ash_Shaykh.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Kafr_ash_Shaykh.protect|Kafr_ash_Shaykh.protect]] 
 
-### #is_/same_as :: [Kafr_ash_Shaykh.private](/_private/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Kafr_ash_Shaykh.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Kafr_ash_Shaykh.private|Kafr_ash_Shaykh.private]] 
 
-### #is_/same_as :: [Kafr_ash_Shaykh.personal](/_personal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Kafr_ash_Shaykh.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Kafr_ash_Shaykh.personal|Kafr_ash_Shaykh.personal]] 
 
-### #is_/same_as :: [Kafr_ash_Shaykh.secret](/_secret/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Kafr_ash_Shaykh.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Kafr_ash_Shaykh.secret|Kafr_ash_Shaykh.secret]] 
 

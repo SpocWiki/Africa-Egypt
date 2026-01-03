@@ -45,17 +45,17 @@ defaultZoom: 8
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sinai,South](/_Standards/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Sinai,South.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Egypt/Sinai_Peninsula/Sinai,South|Sinai,South]] 
 
-### #is_/same_as :: [Sinai,South.public](/_public/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Sinai,South.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Egypt/Sinai_Peninsula/Sinai,South.public|Sinai,South.public]] 
 
-### #is_/same_as :: [Sinai,South.internal](/_internal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Sinai,South.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Egypt/Sinai_Peninsula/Sinai,South.internal|Sinai,South.internal]] 
 
-### #is_/same_as :: [Sinai,South.protect](/_protect/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Sinai,South.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Egypt/Sinai_Peninsula/Sinai,South.protect|Sinai,South.protect]] 
 
-### #is_/same_as :: [Sinai,South.private](/_private/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Sinai,South.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Egypt/Sinai_Peninsula/Sinai,South.private|Sinai,South.private]] 
 
-### #is_/same_as :: [Sinai,South.personal](/_personal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Sinai,South.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Egypt/Sinai_Peninsula/Sinai,South.personal|Sinai,South.personal]] 
 
-### #is_/same_as :: [Sinai,South.secret](/_secret/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Sinai,South.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Egypt/Sinai_Peninsula/Sinai,South.secret|Sinai,South.secret]] 
 

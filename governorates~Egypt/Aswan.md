@@ -41,17 +41,17 @@ markerFolder: ./Aswan/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Aswan](/_Standards/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Aswan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Aswan|Aswan]] 
 
-### #is_/same_as :: [Aswan.public](/_public/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Aswan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Aswan.public|Aswan.public]] 
 
-### #is_/same_as :: [Aswan.internal](/_internal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Aswan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Aswan.internal|Aswan.internal]] 
 
-### #is_/same_as :: [Aswan.protect](/_protect/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Aswan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Aswan.protect|Aswan.protect]] 
 
-### #is_/same_as :: [Aswan.private](/_private/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Aswan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Aswan.private|Aswan.private]] 
 
-### #is_/same_as :: [Aswan.personal](/_personal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Aswan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Aswan.personal|Aswan.personal]] 
 
-### #is_/same_as :: [Aswan.secret](/_secret/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Aswan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Aswan.secret|Aswan.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Al_Wadi_at_Jadid/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Al_Wadi_al_Jadid](/_Standards/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Wadi_al_Jadid.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Wadi_al_Jadid|Al_Wadi_al_Jadid]] 
 
-### #is_/same_as :: [Al_Wadi_al_Jadid.public](/_public/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Wadi_al_Jadid.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Wadi_al_Jadid.public|Al_Wadi_al_Jadid.public]] 
 
-### #is_/same_as :: [Al_Wadi_al_Jadid.internal](/_internal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Wadi_al_Jadid.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Wadi_al_Jadid.internal|Al_Wadi_al_Jadid.internal]] 
 
-### #is_/same_as :: [Al_Wadi_al_Jadid.protect](/_protect/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Wadi_al_Jadid.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Wadi_al_Jadid.protect|Al_Wadi_al_Jadid.protect]] 
 
-### #is_/same_as :: [Al_Wadi_al_Jadid.private](/_private/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Wadi_al_Jadid.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Wadi_al_Jadid.private|Al_Wadi_al_Jadid.private]] 
 
-### #is_/same_as :: [Al_Wadi_al_Jadid.personal](/_personal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Wadi_al_Jadid.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Wadi_al_Jadid.personal|Al_Wadi_al_Jadid.personal]] 
 
-### #is_/same_as :: [Al_Wadi_al_Jadid.secret](/_secret/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Wadi_al_Jadid.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Wadi_al_Jadid.secret|Al_Wadi_al_Jadid.secret]] 
 

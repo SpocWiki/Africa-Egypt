@@ -40,17 +40,17 @@ markerFolder: ./Dumyat/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dumyat](/_Standards/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Dumyat.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Dumyat|Dumyat]] 
 
-### #is_/same_as :: [Dumyat.public](/_public/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Dumyat.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Dumyat.public|Dumyat.public]] 
 
-### #is_/same_as :: [Dumyat.internal](/_internal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Dumyat.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Dumyat.internal|Dumyat.internal]] 
 
-### #is_/same_as :: [Dumyat.protect](/_protect/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Dumyat.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Dumyat.protect|Dumyat.protect]] 
 
-### #is_/same_as :: [Dumyat.private](/_private/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Dumyat.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Dumyat.private|Dumyat.private]] 
 
-### #is_/same_as :: [Dumyat.personal](/_personal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Dumyat.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Dumyat.personal|Dumyat.personal]] 
 
-### #is_/same_as :: [Dumyat.secret](/_secret/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Dumyat.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Dumyat.secret|Dumyat.secret]] 
 

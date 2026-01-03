@@ -46,3 +46,20 @@ Commons_category: Valley of the Kings
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Valley%20of%20the%20Kings) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Uqsur/counties~Al_Uqsur/Luxor/Valley_of_the_Kings|Valley_of_the_Kings]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Uqsur/counties~Al_Uqsur/Luxor/Valley_of_the_Kings.public|Valley_of_the_Kings.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Uqsur/counties~Al_Uqsur/Luxor/Valley_of_the_Kings.internal|Valley_of_the_Kings.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Uqsur/counties~Al_Uqsur/Luxor/Valley_of_the_Kings.protect|Valley_of_the_Kings.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Uqsur/counties~Al_Uqsur/Luxor/Valley_of_the_Kings.private|Valley_of_the_Kings.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Uqsur/counties~Al_Uqsur/Luxor/Valley_of_the_Kings.personal|Valley_of_the_Kings.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Uqsur/counties~Al_Uqsur/Luxor/Valley_of_the_Kings.secret|Valley_of_the_Kings.secret]] 
+

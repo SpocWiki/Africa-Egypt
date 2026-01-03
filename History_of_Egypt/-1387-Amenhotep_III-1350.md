@@ -30,6 +30,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Amenhotep%20III) 
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Egypt/History_of_Egypt/-1387-Amenhotep_III-1350|-1387-Amenhotep_III-1350]] 
 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Egypt/History_of_Egypt/-1387-Amenhotep_III-1350.public|-1387-Amenhotep_III-1350.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Egypt/History_of_Egypt/-1387-Amenhotep_III-1350.internal|-1387-Amenhotep_III-1350.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Egypt/History_of_Egypt/-1387-Amenhotep_III-1350.protect|-1387-Amenhotep_III-1350.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Egypt/History_of_Egypt/-1387-Amenhotep_III-1350.private|-1387-Amenhotep_III-1350.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Egypt/History_of_Egypt/-1387-Amenhotep_III-1350.personal|-1387-Amenhotep_III-1350.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Egypt/History_of_Egypt/-1387-Amenhotep_III-1350.secret|-1387-Amenhotep_III-1350.secret]] 
 

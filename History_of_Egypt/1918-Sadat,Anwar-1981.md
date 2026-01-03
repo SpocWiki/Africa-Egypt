@@ -162,17 +162,17 @@ date_of_birth: 1918-12-25T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sadat,Anwar](/_Standards/Earth/Continent/Africa/Africa~North/Egypt/Sadat,Anwar.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Egypt/History_of_Egypt/1918-Sadat,Anwar-1981|1918-Sadat,Anwar-1981]] 
 
-### #is_/same_as :: [Sadat,Anwar.public](/_public/Earth/Continent/Africa/Africa~North/Egypt/Sadat,Anwar.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Egypt/History_of_Egypt/1918-Sadat,Anwar-1981.public|1918-Sadat,Anwar-1981.public]] 
 
-### #is_/same_as :: [Sadat,Anwar.internal](/_internal/Earth/Continent/Africa/Africa~North/Egypt/Sadat,Anwar.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Egypt/History_of_Egypt/1918-Sadat,Anwar-1981.internal|1918-Sadat,Anwar-1981.internal]] 
 
-### #is_/same_as :: [Sadat,Anwar.protect](/_protect/Earth/Continent/Africa/Africa~North/Egypt/Sadat,Anwar.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Egypt/History_of_Egypt/1918-Sadat,Anwar-1981.protect|1918-Sadat,Anwar-1981.protect]] 
 
-### #is_/same_as :: [Sadat,Anwar.private](/_private/Earth/Continent/Africa/Africa~North/Egypt/Sadat,Anwar.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Egypt/History_of_Egypt/1918-Sadat,Anwar-1981.private|1918-Sadat,Anwar-1981.private]] 
 
-### #is_/same_as :: [Sadat,Anwar.personal](/_personal/Earth/Continent/Africa/Africa~North/Egypt/Sadat,Anwar.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Egypt/History_of_Egypt/1918-Sadat,Anwar-1981.personal|1918-Sadat,Anwar-1981.personal]] 
 
-### #is_/same_as :: [Sadat,Anwar.secret](/_secret/Earth/Continent/Africa/Africa~North/Egypt/Sadat,Anwar.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Egypt/History_of_Egypt/1918-Sadat,Anwar-1981.secret|1918-Sadat,Anwar-1981.secret]] 
 

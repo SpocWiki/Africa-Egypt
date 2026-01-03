@@ -41,3 +41,20 @@ Commons_category: Edfu Temple
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Temple%20of%20Edfu) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Aswan/counties~Aswan/Idfu/Temple_of_Edfu|Temple_of_Edfu]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Aswan/counties~Aswan/Idfu/Temple_of_Edfu.public|Temple_of_Edfu.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Aswan/counties~Aswan/Idfu/Temple_of_Edfu.internal|Temple_of_Edfu.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Aswan/counties~Aswan/Idfu/Temple_of_Edfu.protect|Temple_of_Edfu.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Aswan/counties~Aswan/Idfu/Temple_of_Edfu.private|Temple_of_Edfu.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Aswan/counties~Aswan/Idfu/Temple_of_Edfu.personal|Temple_of_Edfu.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Aswan/counties~Aswan/Idfu/Temple_of_Edfu.secret|Temple_of_Edfu.secret]] 
+

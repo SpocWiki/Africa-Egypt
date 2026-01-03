@@ -73,3 +73,20 @@ Krugosvet_article_archived_: istoriya/NEFERTITI.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nefertiti) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Egypt/History_of_Egypt/-1369-Nefertiti-1329|-1369-Nefertiti-1329]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Egypt/History_of_Egypt/-1369-Nefertiti-1329.public|-1369-Nefertiti-1329.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Egypt/History_of_Egypt/-1369-Nefertiti-1329.internal|-1369-Nefertiti-1329.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Egypt/History_of_Egypt/-1369-Nefertiti-1329.protect|-1369-Nefertiti-1329.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Egypt/History_of_Egypt/-1369-Nefertiti-1329.private|-1369-Nefertiti-1329.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Egypt/History_of_Egypt/-1369-Nefertiti-1329.personal|-1369-Nefertiti-1329.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Egypt/History_of_Egypt/-1369-Nefertiti-1329.secret|-1369-Nefertiti-1329.secret]] 
+

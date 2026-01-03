@@ -53,3 +53,20 @@ OpenStreetMap_tag:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ptolemaic%20Kingdom) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Egypt/History_of_Egypt/-0305-Ptolemaic_Kingdom-0030|-0305-Ptolemaic_Kingdom-0030]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Egypt/History_of_Egypt/-0305-Ptolemaic_Kingdom-0030.public|-0305-Ptolemaic_Kingdom-0030.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Egypt/History_of_Egypt/-0305-Ptolemaic_Kingdom-0030.internal|-0305-Ptolemaic_Kingdom-0030.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Egypt/History_of_Egypt/-0305-Ptolemaic_Kingdom-0030.protect|-0305-Ptolemaic_Kingdom-0030.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Egypt/History_of_Egypt/-0305-Ptolemaic_Kingdom-0030.private|-0305-Ptolemaic_Kingdom-0030.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Egypt/History_of_Egypt/-0305-Ptolemaic_Kingdom-0030.personal|-0305-Ptolemaic_Kingdom-0030.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Egypt/History_of_Egypt/-0305-Ptolemaic_Kingdom-0030.secret|-0305-Ptolemaic_Kingdom-0030.secret]] 
+

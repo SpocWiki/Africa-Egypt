@@ -40,17 +40,17 @@ markerFolder: ./Al_Minya/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Al_Minya](/_Standards/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Minya.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Minya|Al_Minya]] 
 
-### #is_/same_as :: [Al_Minya.public](/_public/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Minya.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Minya.public|Al_Minya.public]] 
 
-### #is_/same_as :: [Al_Minya.internal](/_internal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Minya.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Minya.internal|Al_Minya.internal]] 
 
-### #is_/same_as :: [Al_Minya.protect](/_protect/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Minya.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Minya.protect|Al_Minya.protect]] 
 
-### #is_/same_as :: [Al_Minya.private](/_private/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Minya.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Minya.private|Al_Minya.private]] 
 
-### #is_/same_as :: [Al_Minya.personal](/_personal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Minya.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Minya.personal|Al_Minya.personal]] 
 
-### #is_/same_as :: [Al_Minya.secret](/_secret/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Minya.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Minya.secret|Al_Minya.secret]] 
 

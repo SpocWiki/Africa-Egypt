@@ -40,17 +40,17 @@ markerFolder: ./Qina/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Qina](/_Standards/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Qina.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Qina|Qina]] 
 
-### #is_/same_as :: [Qina.public](/_public/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Qina.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Qina.public|Qina.public]] 
 
-### #is_/same_as :: [Qina.internal](/_internal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Qina.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Qina.internal|Qina.internal]] 
 
-### #is_/same_as :: [Qina.protect](/_protect/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Qina.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Qina.protect|Qina.protect]] 
 
-### #is_/same_as :: [Qina.private](/_private/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Qina.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Qina.private|Qina.private]] 
 
-### #is_/same_as :: [Qina.personal](/_personal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Qina.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Qina.personal|Qina.personal]] 
 
-### #is_/same_as :: [Qina.secret](/_secret/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Qina.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Qina.secret|Qina.secret]] 
 

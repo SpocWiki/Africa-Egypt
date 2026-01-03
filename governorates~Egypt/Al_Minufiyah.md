@@ -40,17 +40,17 @@ markerFolder: ./Al_Minufiyah/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Al_Minufiyah](/_Standards/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Minufiyah.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Minufiyah|Al_Minufiyah]] 
 
-### #is_/same_as :: [Al_Minufiyah.public](/_public/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Minufiyah.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Minufiyah.public|Al_Minufiyah.public]] 
 
-### #is_/same_as :: [Al_Minufiyah.internal](/_internal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Minufiyah.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Minufiyah.internal|Al_Minufiyah.internal]] 
 
-### #is_/same_as :: [Al_Minufiyah.protect](/_protect/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Minufiyah.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Minufiyah.protect|Al_Minufiyah.protect]] 
 
-### #is_/same_as :: [Al_Minufiyah.private](/_private/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Minufiyah.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Minufiyah.private|Al_Minufiyah.private]] 
 
-### #is_/same_as :: [Al_Minufiyah.personal](/_personal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Minufiyah.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Minufiyah.personal|Al_Minufiyah.personal]] 
 
-### #is_/same_as :: [Al_Minufiyah.secret](/_secret/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Minufiyah.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Egypt/governorates~Egypt/Al_Minufiyah.secret|Al_Minufiyah.secret]] 
 
