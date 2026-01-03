@@ -27,7 +27,7 @@ publishDate:
 expiryDate:
 ---
 
-# Aswan
+# [[Aswan]]
 
 ```leaflet
 id: Aswan
@@ -36,6 +36,9 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Aswan/
 markerFolder: ./Aswan/
+coordinates: [[Aswan]] 
+markerFile: [[Aswan]] 
+zoomFeatures: false
 ```
 
 

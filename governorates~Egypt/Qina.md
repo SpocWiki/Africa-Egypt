@@ -26,15 +26,20 @@ publishDate:
 expiryDate:
 ---
 
-# Qina
+# [[Qina]]
+
+## #has_/map 
 
 ```leaflet
 id: Qina
-zoomFeatures: true 
+zoomFeatures: false 
 minZoom: 2 
 maxZoom: 18
+defaultZoom: 8
 geojsonFolder: ./Qina/
 markerFolder: ./Qina/
+coordinates: [[Qina]] 
+markerFile: [[Qina]] 
 ```
 
 
