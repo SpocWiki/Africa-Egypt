@@ -4,28 +4,28 @@ aliases:
   - Maktabat al-’Iskandariyya
   - مكتبة الإسكندرية
 has_id_wikidata: Q501851
-director_manager: "[[_Standards/WikiData/WD~Ismail_Serageldin,168517]]"
+director_manager: "[[_Standards/WikiData/WD~Ismail_Serageldin,168517|WD~Ismail_Serageldin,168517]]"
 member_of:
-  - "[[_Standards/WikiData/WD~Biodiversity_Heritage_Library,172266]]"
-  - "[[_Standards/WikiData/WD~World_Digital_Library,475225]]"
-  - "[[_Standards/WikiData/WD~International_Internet_Preservation_Consortium,697497]]"
-  - "[[_Standards/WikiData/WD~International_Federation_of_Library_Associations_and_Institutions,1334284]]"
-  - "[[_Standards/WikiData/WD~Digital_Library_Federation,5275906]]"
-  - "[[_Standards/WikiData/WD~African_Library_and_Information_Associations_and_Institutions,17310153]]"
-  - "[[_Standards/WikiData/WD~International_GLAM_Labs_Community,72936141]]"
-  - "[[_Standards/WikiData/WD~UNESCO_Global_Open_Science_Partnership,112828800]]"
-architect: "[[_Standards/WikiData/WD~Snøhetta,511335]]"
+  - "[[_Standards/WikiData/WD~Biodiversity_Heritage_Library,172266|WD~Biodiversity_Heritage_Library,172266]]"
+  - "[[_Standards/WikiData/WD~World_Digital_Library,475225|WD~World_Digital_Library,475225]]"
+  - "[[_Standards/WikiData/WD~International_Internet_Preservation_Consortium,697497|WD~International_Internet_Preservation_Consortium,697497]]"
+  - "[[_Standards/WikiData/WD~International_Federation_of_Library_Associations_and_Institutions,1334284|WD~International_Federation_of_Library_Associations_and_Institutions,1334284]]"
+  - "[[_Standards/WikiData/WD~Digital_Library_Federation,5275906|WD~Digital_Library_Federation,5275906]]"
+  - "[[_Standards/WikiData/WD~African_Library_and_Information_Associations_and_Institutions,17310153|WD~African_Library_and_Information_Associations_and_Institutions,17310153]]"
+  - "[[_Standards/WikiData/WD~International_GLAM_Labs_Community,72936141|WD~International_GLAM_Labs_Community,72936141]]"
+  - "[[_Standards/WikiData/WD~UNESCO_Global_Open_Science_Partnership,112828800|WD~UNESCO_Global_Open_Science_Partnership,112828800]]"
+architect: "[[_Standards/WikiData/WD~Snøhetta,511335|WD~Snøhetta,511335]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~library_building,856584]]"
-  - "[[_Standards/WikiData/WD~cultural_center,1329623]]"
-  - "[[_Standards/WikiData/WD~literary_museum,1865249]]"
-  - "[[_Standards/WikiData/WD~national_library,22806]]"
+  - "[[_Standards/WikiData/WD~library_building,856584|WD~library_building,856584]]"
+  - "[[_Standards/WikiData/WD~cultural_center,1329623|WD~cultural_center,1329623]]"
+  - "[[_Standards/WikiData/WD~literary_museum,1865249|WD~literary_museum,1865249]]"
+  - "[[_Standards/WikiData/WD~national_library,22806|WD~national_library,22806]]"
 coordinate_location: Point(29.909166666 31.208888888)
-different_from: "[[_Standards/WikiData/WD~Library_of_Alexandria,435]]"
+different_from: "[[_Standards/WikiData/WD~Library_of_Alexandria,435|WD~Library_of_Alexandria,435]]"
 Wikidata_property: EGAXA ID
-country: "[[_Standards/WikiData/WD~Egypt,79]]"
-location: "[[_Standards/WikiData/WD~Alexandria,87]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Alexandria,87]]"
+country: "[[_Standards/WikiData/WD~Egypt,79|WD~Egypt,79]]"
+location: "[[_Standards/WikiData/WD~Alexandria,87|WD~Alexandria,87]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Alexandria,87|WD~Alexandria,87]]"
 social_media_followers: 150000
 Commons_category: Bibliotheca Alexandrina
 inception: 2002-10-16T00:00:00Z

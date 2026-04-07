@@ -2,22 +2,22 @@
 aliases:
 has_id_wikidata: Q36755
 located_in_or_next_to_body_of_water:
-  - "[[_Standards/WikiData/WD~Gulf_of_Aqaba,81611]]"
-  - "[[_Standards/WikiData/WD~Mediterranean_Sea,4918]]"
-  - "[[_Standards/WikiData/WD~Red_Sea,23406]]"
+  - "[[_Standards/WikiData/WD~Gulf_of_Aqaba,81611|WD~Gulf_of_Aqaba,81611]]"
+  - "[[_Standards/WikiData/WD~Mediterranean_Sea,4918|WD~Mediterranean_Sea,4918]]"
+  - "[[_Standards/WikiData/WD~Red_Sea,23406|WD~Red_Sea,23406]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Vierter_Band,129249812]]"
-highest_point: "[[_Standards/WikiData/WD~Mount_Catherine,1140642]]"
-category_for_people_who_died_here: "[[_Standards/WikiData/WD~Q32646126,32646126]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Vierter_Band,129249812|WD~Meyer_s_Universum,_Vierter_Band,129249812]]"
+highest_point: "[[_Standards/WikiData/WD~Mount_Catherine,1140642|WD~Mount_Catherine,1140642]]"
+category_for_people_who_died_here: "[[_Standards/WikiData/WD~Q32646126,32646126|WD~Q32646126,32646126]]"
 coordinate_location:
   - Point(34.0 29.5)
   - Point(33.833333333 29.5)
 instance_of:
-  - "[[_Standards/WikiData/WD~desert,8514]]"
-  - "[[_Standards/WikiData/WD~peninsula,34763]]"
-continent: "[[_Standards/WikiData/WD~Asia,48]]"
-country: "[[_Standards/WikiData/WD~Egypt,79]]"
+  - "[[_Standards/WikiData/WD~desert,8514|WD~desert,8514]]"
+  - "[[_Standards/WikiData/WD~peninsula,34763|WD~peninsula,34763]]"
+continent: "[[_Standards/WikiData/WD~Asia,48|WD~Asia,48]]"
+country: "[[_Standards/WikiData/WD~Egypt,79|WD~Egypt,79]]"
 area: 60000
 elevation_above_sea_level: 730
 population: 597000

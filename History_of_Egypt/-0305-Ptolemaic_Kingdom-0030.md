@@ -5,22 +5,22 @@ aliases:
   - Ptolemaïkḕ basileía
   - Ptolemaic Empire
 has_id_wikidata: Q2320005
-founded_by: "[[_Standards/WikiData/WD~Ptolemy_I_Soter,168261]]"
+founded_by: "[[_Standards/WikiData/WD~Ptolemy_I_Soter,168261|WD~Ptolemy_I_Soter,168261]]"
 head_of_state:
-  - "[[_Standards/WikiData/WD~Ptolemy_I_Soter,168261]]"
-  - "[[_Standards/WikiData/WD~Ptolemy_II_Philadelphus,39576]]"
-  - "[[_Standards/WikiData/WD~Ptolemy_IV_Philopator,39595]]"
-  - "[[_Standards/WikiData/WD~Ptolemy_III_Euergetes,39602]]"
-  - "[[_Standards/WikiData/WD~Ptolemy_V_Epiphanes,39957]]"
-instance_of: "[[_Standards/WikiData/WD~Hellenistic_kingdom,3932025]]"
-shares_border_with: "[[_Standards/WikiData/WD~Hasmonean_Kingdom,10359001]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Ptolemaic_Egypt,25914557]]"
-part_of: "[[_Standards/WikiData/WD~Egyptian_Hellenistic_period,133842511]]"
+  - "[[_Standards/WikiData/WD~Ptolemy_I_Soter,168261|WD~Ptolemy_I_Soter,168261]]"
+  - "[[_Standards/WikiData/WD~Ptolemy_II_Philadelphus,39576|WD~Ptolemy_II_Philadelphus,39576]]"
+  - "[[_Standards/WikiData/WD~Ptolemy_IV_Philopator,39595|WD~Ptolemy_IV_Philopator,39595]]"
+  - "[[_Standards/WikiData/WD~Ptolemy_III_Euergetes,39602|WD~Ptolemy_III_Euergetes,39602]]"
+  - "[[_Standards/WikiData/WD~Ptolemy_V_Epiphanes,39957|WD~Ptolemy_V_Epiphanes,39957]]"
+instance_of: "[[_Standards/WikiData/WD~Hellenistic_kingdom,3932025|WD~Hellenistic_kingdom,3932025]]"
+shares_border_with: "[[_Standards/WikiData/WD~Hasmonean_Kingdom,10359001|WD~Hasmonean_Kingdom,10359001]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Ptolemaic_Egypt,25914557|WD~Template_Ptolemaic_Egypt,25914557]]"
+part_of: "[[_Standards/WikiData/WD~Egyptian_Hellenistic_period,133842511|WD~Egyptian_Hellenistic_period,133842511]]"
 dissolved_abolished_or_demolished_date: -0029-01-01T00:00:00Z
 inception: -0304-01-01T00:00:00Z
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~North_Africa,27381]]"
-continent: "[[_Standards/WikiData/WD~Africa,15]]"
-capital: "[[_Standards/WikiData/WD~Alexandria,87]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~North_Africa,27381|WD~North_Africa,27381]]"
+continent: "[[_Standards/WikiData/WD~Africa,15|WD~Africa,15]]"
+capital: "[[_Standards/WikiData/WD~Alexandria,87|WD~Alexandria,87]]"
 Commons_category: Greco-Roman Egypt
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Ptolemaic-Empire%20200bc.jpg
 OpenStreetMap_tag:

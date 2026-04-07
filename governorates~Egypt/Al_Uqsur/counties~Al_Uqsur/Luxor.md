@@ -27,45 +27,45 @@ keywords:
 layout:
 publishDate:
 expiryDate:
-capital_of: "[[_Standards/WikiData/WD~Middle_Kingdom_of_Egypt,191324]]"
+capital_of: "[[_Standards/WikiData/WD~Middle_Kingdom_of_Egypt,191324|WD~Middle_Kingdom_of_Egypt,191324]]"
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Luxor_Temple,319841]]"
-  - "[[_Standards/WikiData/WD~Karnak_Temple_Complex,522862]]"
-  - "[[_Standards/WikiData/WD~Theban_Necropolis,29223]]"
+  - "[[_Standards/WikiData/WD~Luxor_Temple,319841|WD~Luxor_Temple,319841]]"
+  - "[[_Standards/WikiData/WD~Karnak_Temple_Complex,522862|WD~Karnak_Temple_Complex,522862]]"
+  - "[[_Standards/WikiData/WD~Theban_Necropolis,29223|WD~Theban_Necropolis,29223]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240]]"
-  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Dritter_Band,127953085]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+  - "[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878|WD~Yuzhakov_Big_Encyclopedia,4091878]]"
+  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240|WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240]]"
+  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Dritter_Band,127953085|WD~Meyer_s_Universum,_Dritter_Band,127953085]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~emporia,655593]]"
-  - "[[_Standards/WikiData/WD~archaeological_site,839954]]"
-  - "[[_Standards/WikiData/WD~ancient_city,15661340]]"
-  - "[[_Standards/WikiData/WD~group_of_structures_or_buildings,18247357]]"
+  - "[[_Standards/WikiData/WD~emporia,655593|WD~emporia,655593]]"
+  - "[[_Standards/WikiData/WD~archaeological_site,839954|WD~archaeological_site,839954]]"
+  - "[[_Standards/WikiData/WD~ancient_city,15661340|WD~ancient_city,15661340]]"
+  - "[[_Standards/WikiData/WD~group_of_structures_or_buildings,18247357|WD~group_of_structures_or_buildings,18247357]]"
 different_from:
-  - "[[_Standards/WikiData/WD~Tell_el_Balamun,2402247]]"
-  - "[[_Standards/WikiData/WD~Thebes,11225429]]"
-  - "[[_Standards/WikiData/WD~Thiva,5760]]"
+  - "[[_Standards/WikiData/WD~Tell_el_Balamun,2402247|WD~Tell_el_Balamun,2402247]]"
+  - "[[_Standards/WikiData/WD~Thebes,11225429|WD~Thebes,11225429]]"
+  - "[[_Standards/WikiData/WD~Thiva,5760|WD~Thiva,5760]]"
 World_Heritage_criteria:
-  - "[[_Standards/WikiData/WD~(i),23038972]]"
-  - "[[_Standards/WikiData/WD~(iii),23038977]]"
-  - "[[_Standards/WikiData/WD~(vi),23038980]]"
-category_for_people_born_here: "[[_Standards/WikiData/WD~Q85603243,85603243]]"
-category_of_associated_people: "[[_Standards/WikiData/WD~Q101840126,101840126]]"
+  - "[[_Standards/WikiData/WD~(i),23038972|WD~(i),23038972]]"
+  - "[[_Standards/WikiData/WD~(iii),23038977|WD~(iii),23038977]]"
+  - "[[_Standards/WikiData/WD~(vi),23038980|WD~(vi),23038980]]"
+category_for_people_born_here: "[[_Standards/WikiData/WD~Q85603243,85603243|WD~Q85603243,85603243]]"
+category_of_associated_people: "[[_Standards/WikiData/WD~Q101840126,101840126|WD~Q101840126,101840126]]"
 inception: -3199-01-01T00:00:00Z
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Nile,3392]]"
-heritage_designation: "[[_Standards/WikiData/WD~World_Heritage_Site,9259]]"
+located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Nile,3392|WD~Nile,3392]]"
+heritage_designation: "[[_Standards/WikiData/WD~World_Heritage_Site,9259|WD~World_Heritage_Site,9259]]"
 located_in_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Luxor_Governorate,30797]]"
-  - "[[_Standards/WikiData/WD~Qena_Governorate,31065]]"
-country: "[[_Standards/WikiData/WD~Egypt,79]]"
+  - "[[_Standards/WikiData/WD~Luxor_Governorate,30797|WD~Luxor_Governorate,30797]]"
+  - "[[_Standards/WikiData/WD~Qena_Governorate,31065|WD~Qena_Governorate,31065]]"
+country: "[[_Standards/WikiData/WD~Egypt,79|WD~Egypt,79]]"
 elevation_above_sea_level: 78
 area:
   - 443.55
@@ -94,7 +94,7 @@ markerFile: [[Luxor]]
 
 
 #is_/same_as [[../../../../../../../../WikiData/WD~Thebes,101583|WD~Thebes,101583]] 
-#is_/same_as [[_Standards/WikiData/WD~Luxor,130514]] 
+#is_/same_as [[_Standards/WikiData/WD~Luxor,130514|WD~Luxor,130514]] 
 
 ## #has_/text_of_/abstract 
 

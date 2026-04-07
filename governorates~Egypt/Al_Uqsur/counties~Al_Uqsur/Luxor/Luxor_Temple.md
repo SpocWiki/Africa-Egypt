@@ -3,19 +3,19 @@ aliases:
 has_id_wikidata: Q319841
 location: [25.7, 32.639166666 ]
 part_of:
-  - "[[_Standards/WikiData/WD~Thebes,101583]]"
-  - "[[_Standards/WikiData/WD~Theban_Necropolis,29223]]"
-locations: "[[_Standards/WikiData/WD~Luxor,130514]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Luxor,130514]]"
+  - "[[_Standards/WikiData/WD~Thebes,101583|WD~Thebes,101583]]"
+  - "[[_Standards/WikiData/WD~Theban_Necropolis,29223|WD~Theban_Necropolis,29223]]"
+locations: "[[_Standards/WikiData/WD~Luxor,130514|WD~Luxor,130514]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Luxor,130514|WD~Luxor,130514]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~archaeological_site,839954]]"
-  - "[[_Standards/WikiData/WD~Egyptian_temple,855747]]"
-  - "[[_Standards/WikiData/WD~temple,44539]]"
-heritage_designation: "[[_Standards/WikiData/WD~part_of_UNESCO_World_Heritage_Site,43113623]]"
+  - "[[_Standards/WikiData/WD~archaeological_site,839954|WD~archaeological_site,839954]]"
+  - "[[_Standards/WikiData/WD~Egyptian_temple,855747|WD~Egyptian_temple,855747]]"
+  - "[[_Standards/WikiData/WD~temple,44539|WD~temple,44539]]"
+heritage_designation: "[[_Standards/WikiData/WD~part_of_UNESCO_World_Heritage_Site,43113623|WD~part_of_UNESCO_World_Heritage_Site,43113623]]"
 inception: -1399-01-01T00:00:00Z
 coordinate_location: Point(32.639166666 25.7)
-culture: "[[_Standards/WikiData/WD~Ancient_Egypt,11768]]"
-country: "[[_Standards/WikiData/WD~Egypt,79]]"
+culture: "[[_Standards/WikiData/WD~Ancient_Egypt,11768|WD~Ancient_Egypt,11768]]"
+country: "[[_Standards/WikiData/WD~Egypt,79|WD~Egypt,79]]"
 elevation_above_sea_level: 77
 area: 4.75
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pylons%20and%20obelisk%20Luxor%20temple.JPG

@@ -4,23 +4,23 @@ has_id_wikidata: Q81788
 location: [ 29.987, 31.2118]
 coordinate_location: Point(31.2118 29.987)
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~tourist_destination,1200957]]"
-  - "[[_Standards/WikiData/WD~city,515]]"
-member_of: "[[_Standards/WikiData/WD~League_of_Historical_Cities,9383972]]"
-different_from: "[[_Standards/WikiData/WD~Giza_Necropolis,13217298]]"
+  - "[[_Standards/WikiData/WD~tourist_destination,1200957|WD~tourist_destination,1200957]]"
+  - "[[_Standards/WikiData/WD~city,515|WD~city,515]]"
+member_of: "[[_Standards/WikiData/WD~League_of_Historical_Cities,9383972|WD~League_of_Historical_Cities,9383972]]"
+different_from: "[[_Standards/WikiData/WD~Giza_Necropolis,13217298|WD~Giza_Necropolis,13217298]]"
 inception: 0642-01-01T00:00:00Z
 twinned_administrative_body:
-  - "[[_Standards/WikiData/WD~Istanbul,406]]"
-  - "[[_Standards/WikiData/WD~Los_Angeles,65]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC+02_00,6723]]"
-official_language: "[[_Standards/WikiData/WD~Arabic,13955]]"
-capital_of: "[[_Standards/WikiData/WD~Giza_Governorate,30832]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Giza_Governorate,30832]]"
-country: "[[_Standards/WikiData/WD~Egypt,79]]"
+  - "[[_Standards/WikiData/WD~Istanbul,406|WD~Istanbul,406]]"
+  - "[[_Standards/WikiData/WD~Los_Angeles,65|WD~Los_Angeles,65]]"
+located_in_time_zone: "[[_Standards/WikiData/WD~UTC+02_00,6723|WD~UTC+02_00,6723]]"
+official_language: "[[_Standards/WikiData/WD~Arabic,13955|WD~Arabic,13955]]"
+capital_of: "[[_Standards/WikiData/WD~Giza_Governorate,30832|WD~Giza_Governorate,30832]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Giza_Governorate,30832|WD~Giza_Governorate,30832]]"
+country: "[[_Standards/WikiData/WD~Egypt,79|WD~Egypt,79]]"
 elevation_above_sea_level: 30
 area: 187
 local_dialing_code: "2"
@@ -46,7 +46,7 @@ official_name: مدينة الجيزة
 
 # [[Giza]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Giza,81788]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Giza,81788|WD~Giza,81788]] 
 
 ## #has_/map 
 

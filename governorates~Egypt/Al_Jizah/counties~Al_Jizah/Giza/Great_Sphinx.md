@@ -5,26 +5,26 @@ has_id_wikidata: Q130958
 inception: -2559-01-01T00:00:00Z
 location: [29.97527, 31.13768]
 coordinate_location: Point(31.13768 29.97527)
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Giza,81788]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Giza,81788|WD~Giza,81788]]"
 depicts:
-  - "[[_Standards/WikiData/WD~Khafra,199861]]"
-  - "[[_Standards/WikiData/WD~nemes,763606]]"
-  - "[[_Standards/WikiData/WD~sphinx,6029519]]"
+  - "[[_Standards/WikiData/WD~Khafra,199861|WD~Khafra,199861]]"
+  - "[[_Standards/WikiData/WD~nemes,763606|WD~nemes,763606]]"
+  - "[[_Standards/WikiData/WD~sphinx,6029519|WD~sphinx,6029519]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~tourist_attraction,570116]]"
-  - "[[_Standards/WikiData/WD~archaeological_site,839954]]"
-  - "[[_Standards/WikiData/WD~sphinx,12223988]]"
-culture: "[[_Standards/WikiData/WD~culture_of_ancient_Egypt,634708]]"
-architectural_style: "[[_Standards/WikiData/WD~ancient_Egyptian_architecture,842352]]"
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Giza_Plateau,3613336]]"
-locations: "[[_Standards/WikiData/WD~Giza_Necropolis,13217298]]"
-different_from: "[[_Standards/WikiData/WD~Sfinks,60860975]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Livius,68074438]]"
+  - "[[_Standards/WikiData/WD~tourist_attraction,570116|WD~tourist_attraction,570116]]"
+  - "[[_Standards/WikiData/WD~archaeological_site,839954|WD~archaeological_site,839954]]"
+  - "[[_Standards/WikiData/WD~sphinx,12223988|WD~sphinx,12223988]]"
+culture: "[[_Standards/WikiData/WD~culture_of_ancient_Egypt,634708|WD~culture_of_ancient_Egypt,634708]]"
+architectural_style: "[[_Standards/WikiData/WD~ancient_Egyptian_architecture,842352|WD~ancient_Egyptian_architecture,842352]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~Giza_Plateau,3613336|WD~Giza_Plateau,3613336]]"
+locations: "[[_Standards/WikiData/WD~Giza_Necropolis,13217298|WD~Giza_Necropolis,13217298]]"
+different_from: "[[_Standards/WikiData/WD~Sfinks,60860975|WD~Sfinks,60860975]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Livius,68074438|WD~WikiProject_Livius,68074438]]"
 creator: http://www.wikidata.org/.well-known/genid/6480767ef4ccf32b7dfca8311b6fa854
-time_period: "[[_Standards/WikiData/WD~Ancient_Egypt,11768]]"
-copyright_status: "[[_Standards/WikiData/WD~public_domain,19652]]"
-made_from_material: "[[_Standards/WikiData/WD~limestone,23757]]"
-country: "[[_Standards/WikiData/WD~Egypt,79]]"
+time_period: "[[_Standards/WikiData/WD~Ancient_Egypt,11768|WD~Ancient_Egypt,11768]]"
+copyright_status: "[[_Standards/WikiData/WD~public_domain,19652|WD~public_domain,19652]]"
+made_from_material: "[[_Standards/WikiData/WD~limestone,23757|WD~limestone,23757]]"
+country: "[[_Standards/WikiData/WD~Egypt,79|WD~Egypt,79]]"
 width: 19
 elevation_above_sea_level: 23
 height: 20.2

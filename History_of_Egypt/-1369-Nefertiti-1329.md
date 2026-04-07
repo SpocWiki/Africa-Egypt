@@ -2,34 +2,34 @@
 aliases:
   - Nofretete
 has_id_wikidata: Q40930
-spouse: "[[_Standards/WikiData/WD~Akhenaten,81794]]"
-place_of_birth: "[[_Standards/WikiData/WD~Thebes,101583]]"
-father: "[[_Standards/WikiData/WD~Ay,146029]]"
+spouse: "[[_Standards/WikiData/WD~Akhenaten,81794|WD~Akhenaten,81794]]"
+place_of_birth: "[[_Standards/WikiData/WD~Thebes,101583|WD~Thebes,101583]]"
+father: "[[_Standards/WikiData/WD~Ay,146029|WD~Ay,146029]]"
 child:
-  - "[[_Standards/WikiData/WD~Meritaten,153344]]"
-  - "[[_Standards/WikiData/WD~Meketaten,153648]]"
-  - "[[_Standards/WikiData/WD~Ankhesenamun,230863]]"
-  - "[[_Standards/WikiData/WD~Neferneferuaten_Tasherit,438379]]"
-  - "[[_Standards/WikiData/WD~Neferneferure,469611]]"
-  - "[[_Standards/WikiData/WD~Setepenre,470031]]"
-sibling: "[[_Standards/WikiData/WD~Mutnedjmet,273979]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~religion_of_ancient_Egypt,447131]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Dakhamunzu,841546]]"
-noble_title: "[[_Standards/WikiData/WD~Great_Royal_Wife,1073256]]"
+  - "[[_Standards/WikiData/WD~Meritaten,153344|WD~Meritaten,153344]]"
+  - "[[_Standards/WikiData/WD~Meketaten,153648|WD~Meketaten,153648]]"
+  - "[[_Standards/WikiData/WD~Ankhesenamun,230863|WD~Ankhesenamun,230863]]"
+  - "[[_Standards/WikiData/WD~Neferneferuaten_Tasherit,438379|WD~Neferneferuaten_Tasherit,438379]]"
+  - "[[_Standards/WikiData/WD~Neferneferure,469611|WD~Neferneferure,469611]]"
+  - "[[_Standards/WikiData/WD~Setepenre,470031|WD~Setepenre,470031]]"
+sibling: "[[_Standards/WikiData/WD~Mutnedjmet,273979|WD~Mutnedjmet,273979]]"
+religion_or_worldview: "[[_Standards/WikiData/WD~religion_of_ancient_Egypt,447131|WD~religion_of_ancient_Egypt,447131]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~Dakhamunzu,841546|WD~Dakhamunzu,841546]]"
+noble_title: "[[_Standards/WikiData/WD~Great_Royal_Wife,1073256|WD~Great_Royal_Wife,1073256]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~mononym,2985549]]"
-  - "[[_Standards/WikiData/WD~human,5]]"
-sex_or_gender: "[[_Standards/WikiData/WD~female,6581072]]"
-position_held: "[[_Standards/WikiData/WD~queen,16511993]]"
+  - "[[_Standards/WikiData/WD~mononym,2985549|WD~mononym,2985549]]"
+  - "[[_Standards/WikiData/WD~human,5|WD~human,5]]"
+sex_or_gender: "[[_Standards/WikiData/WD~female,6581072|WD~female,6581072]]"
+position_held: "[[_Standards/WikiData/WD~queen,16511993|WD~queen,16511993]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Dictionary_of_African_Biography,46002746]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-given_name: "[[_Standards/WikiData/WD~Nefertiti,125118074]]"
+  - "[[_Standards/WikiData/WD~Dictionary_of_African_Biography,46002746|WD~Dictionary_of_African_Biography,46002746]]"
+  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+given_name: "[[_Standards/WikiData/WD~Nefertiti,125118074|WD~Nefertiti,125118074]]"
 date_of_birth: -1369-01-01T00:00:00Z
 floruit: -1400-01-01T00:00:00Z
-work_location: "[[_Standards/WikiData/WD~Ancient_Egypt,11768]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~Ancient_Egypt,11768]]"
-occupation: "[[_Standards/WikiData/WD~queen_regnant,19643]]"
+work_location: "[[_Standards/WikiData/WD~Ancient_Egypt,11768|WD~Ancient_Egypt,11768]]"
+country_of_citizenship: "[[_Standards/WikiData/WD~Ancient_Egypt,11768|WD~Ancient_Egypt,11768]]"
+occupation: "[[_Standards/WikiData/WD~queen_regnant,19643|WD~queen_regnant,19643]]"
 BHCL_UUID: 85e1e355-f578-413d-bf27-cebcc7be52b1
 OmegaWiki_Defined_Meaning: "1279689"
 Commons_category: Nefertiti

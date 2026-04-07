@@ -2,14 +2,14 @@
 aliases:
 has_id_wikidata: Q6655437
 instance_of:
-  - "[[_Standards/WikiData/WD~human_settlement,486972]]"
-  - "[[_Standards/WikiData/WD~village_in_Egypt,125366925]]"
+  - "[[_Standards/WikiData/WD~human_settlement,486972|WD~human_settlement,486972]]"
+  - "[[_Standards/WikiData/WD~village_in_Egypt,125366925|WD~village_in_Egypt,125366925]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Nasr_Nuba,22930082]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC+02_00,6723]]"
-country: "[[_Standards/WikiData/WD~Egypt,79]]"
+  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Nasr_Nuba,22930082|WD~Nasr_Nuba,22930082]]"
+located_in_time_zone: "[[_Standards/WikiData/WD~UTC+02_00,6723|WD~UTC+02_00,6723]]"
+country: "[[_Standards/WikiData/WD~Egypt,79|WD~Egypt,79]]"
 elevation_above_sea_level: 189
 population: 2535
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Abu%20Simbel%20banner%20Temple%20Ramesses%20II.jpg
@@ -20,7 +20,7 @@ coordinate_location: Point(31.625555555 22.336944444)
 
 # [[Abu_Simbel]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Abu_Simbel,6655437]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Abu_Simbel,6655437|WD~Abu_Simbel,6655437]] 
 
 ## #has_/text_of_/abstract 
 

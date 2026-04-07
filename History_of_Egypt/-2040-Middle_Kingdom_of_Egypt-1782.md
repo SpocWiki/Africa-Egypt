@@ -2,16 +2,16 @@
 aliases:
 has_id_wikidata: Q191324
 capital:
-  - "[[_Standards/WikiData/WD~Thebes,101583]]"
-  - "[[_Standards/WikiData/WD~Itjtawy,389285]]"
-is_part_of: "[[_Standards/WikiData/WD~history_of_ancient_Egypt,766876]]"
+  - "[[_Standards/WikiData/WD~Thebes,101583|WD~Thebes,101583]]"
+  - "[[_Standards/WikiData/WD~Itjtawy,389285|WD~Itjtawy,389285]]"
+is_part_of: "[[_Standards/WikiData/WD~history_of_ancient_Egypt,766876|WD~history_of_ancient_Egypt,766876]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~historical_country,3024240]]"
-  - "[[_Standards/WikiData/WD~era,6428674]]"
-  - "[[_Standards/WikiData/WD~historical_period,11514315]]"
+  - "[[_Standards/WikiData/WD~historical_country,3024240|WD~historical_country,3024240]]"
+  - "[[_Standards/WikiData/WD~era,6428674|WD~era,6428674]]"
+  - "[[_Standards/WikiData/WD~historical_period,11514315|WD~historical_period,11514315]]"
 dissolved_abolished_or_demolished_date: -1781-01-01T00:00:00Z
-continent: "[[_Standards/WikiData/WD~Africa,15]]"
-country: "[[_Standards/WikiData/WD~Egypt,79]]"
+continent: "[[_Standards/WikiData/WD~Africa,15|WD~Africa,15]]"
+country: "[[_Standards/WikiData/WD~Egypt,79|WD~Egypt,79]]"
 coordinate_location: Point(32.610278 25.720556)
 Library_of_Congress_Classification: DT85-DT86
 locator_map_image:

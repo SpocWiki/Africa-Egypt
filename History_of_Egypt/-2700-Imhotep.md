@@ -2,24 +2,24 @@
 aliases:
 has_id_wikidata: Q131171
 occupation:
-  - "[[_Standards/WikiData/WD~engineer,81096]]"
-  - "[[_Standards/WikiData/WD~astronomer,11063]]"
-  - "[[_Standards/WikiData/WD~physician,39631]]"
-  - "[[_Standards/WikiData/WD~architect,42973]]"
+  - "[[_Standards/WikiData/WD~engineer,81096|WD~engineer,81096]]"
+  - "[[_Standards/WikiData/WD~astronomer,11063|WD~astronomer,11063]]"
+  - "[[_Standards/WikiData/WD~physician,39631|WD~physician,39631]]"
+  - "[[_Standards/WikiData/WD~architect,42973|WD~architect,42973]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~Ancient_Egyptian_deity,146083]]"
-  - "[[_Standards/WikiData/WD~human,5]]"
+  - "[[_Standards/WikiData/WD~Ancient_Egyptian_deity,146083|WD~Ancient_Egyptian_deity,146083]]"
+  - "[[_Standards/WikiData/WD~human,5|WD~human,5]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~Dictionary_of_African_Biography,46002746]]"
-position_held: "[[_Standards/WikiData/WD~sage,2624172]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-mother: "[[_Standards/WikiData/WD~Khereduankh,58306207]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
-place_of_birth: "[[_Standards/WikiData/WD~Memphis,5715]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~Ancient_Egypt,11768]]"
-place_of_death: "[[_Standards/WikiData/WD~Ancient_Egypt,11768]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Egyptian,50868]]"
+  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]"
+  - "[[_Standards/WikiData/WD~Dictionary_of_African_Biography,46002746|WD~Dictionary_of_African_Biography,46002746]]"
+position_held: "[[_Standards/WikiData/WD~sage,2624172|WD~sage,2624172]]"
+sex_or_gender: "[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]"
+mother: "[[_Standards/WikiData/WD~Khereduankh,58306207|WD~Khereduankh,58306207]]"
+copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839|WD~copyrights_on_works_have_expired,71887839]]"
+place_of_birth: "[[_Standards/WikiData/WD~Memphis,5715|WD~Memphis,5715]]"
+country_of_citizenship: "[[_Standards/WikiData/WD~Ancient_Egypt,11768|WD~Ancient_Egypt,11768]]"
+place_of_death: "[[_Standards/WikiData/WD~Ancient_Egypt,11768|WD~Ancient_Egypt,11768]]"
+languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Egyptian,50868|WD~Egyptian,50868]]"
 Commons_gallery: Imhotep
 Commons_category: Imhotep
 date_of_birth: -2800-01-01T00:00:00Z

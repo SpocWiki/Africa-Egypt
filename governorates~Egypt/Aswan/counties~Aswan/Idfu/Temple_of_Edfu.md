@@ -4,19 +4,19 @@ has_id_wikidata: Q613037
 location: [ 24.977777777, 32.873333333]
 coordinate_location: Point(32.873333333 24.977777777)
 instance_of:
-  - "[[_Standards/WikiData/WD~ruins,109607]]"
-  - "[[_Standards/WikiData/WD~archaeological_site,839954]]"
-  - "[[_Standards/WikiData/WD~Egyptian_temple,855747]]"
-  - "[[_Standards/WikiData/WD~temple,44539]]"
+  - "[[_Standards/WikiData/WD~ruins,109607|WD~ruins,109607]]"
+  - "[[_Standards/WikiData/WD~archaeological_site,839954|WD~archaeological_site,839954]]"
+  - "[[_Standards/WikiData/WD~Egyptian_temple,855747|WD~Egyptian_temple,855747]]"
+  - "[[_Standards/WikiData/WD~temple,44539|WD~temple,44539]]"
 located_in_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Edfu,239107]]"
-  - "[[_Standards/WikiData/WD~Aswan_Governorate,29937]]"
-significant_event: "[[_Standards/WikiData/WD~construction,385378]]"
-locations: "[[_Standards/WikiData/WD~Apollinopolis_Magna,104538074]]"
-described_by_source: "[[_Standards/WikiData/WD~Meyer_s_Universum,_Zwölfter_Band,133933209]]"
-culture: "[[_Standards/WikiData/WD~Ancient_Egypt,11768]]"
-made_from_material: "[[_Standards/WikiData/WD~sandstone,13085]]"
-country: "[[_Standards/WikiData/WD~Egypt,79]]"
+  - "[[_Standards/WikiData/WD~Edfu,239107|WD~Edfu,239107]]"
+  - "[[_Standards/WikiData/WD~Aswan_Governorate,29937|WD~Aswan_Governorate,29937]]"
+significant_event: "[[_Standards/WikiData/WD~construction,385378|WD~construction,385378]]"
+locations: "[[_Standards/WikiData/WD~Apollinopolis_Magna,104538074|WD~Apollinopolis_Magna,104538074]]"
+described_by_source: "[[_Standards/WikiData/WD~Meyer_s_Universum,_Zwölfter_Band,133933209|WD~Meyer_s_Universum,_Zwölfter_Band,133933209]]"
+culture: "[[_Standards/WikiData/WD~Ancient_Egypt,11768|WD~Ancient_Egypt,11768]]"
+made_from_material: "[[_Standards/WikiData/WD~sandstone,13085|WD~sandstone,13085]]"
+country: "[[_Standards/WikiData/WD~Egypt,79|WD~Egypt,79]]"
 height: 36
 width: 79
 elevation_above_sea_level: 86

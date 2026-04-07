@@ -1,25 +1,25 @@
 ---
 aliases:
 has_id_wikidata: Q522862
-part_of: "[[_Standards/WikiData/WD~Thebes,101583]]"
+part_of: "[[_Standards/WikiData/WD~Thebes,101583|WD~Thebes,101583]]"
 location: [25.718333333, 32.658333333]
-locations: "[[_Standards/WikiData/WD~Karnak,189392]]"
-named_after: "[[_Standards/WikiData/WD~Karnak,189392]]"
+locations: "[[_Standards/WikiData/WD~Karnak,189392|WD~Karnak,189392]]"
+named_after: "[[_Standards/WikiData/WD~Karnak,189392|WD~Karnak,189392]]"
 located_in_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Karnak,189392]]"
-  - "[[_Standards/WikiData/WD~Luxor_Governorate,30797]]"
+  - "[[_Standards/WikiData/WD~Karnak,189392|WD~Karnak,189392]]"
+  - "[[_Standards/WikiData/WD~Luxor_Governorate,30797|WD~Luxor_Governorate,30797]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-instance_of: "[[_Standards/WikiData/WD~archaeological_site,839954]]"
-architectural_style: "[[_Standards/WikiData/WD~ancient_Egyptian_architecture,842352]]"
-heritage_designation: "[[_Standards/WikiData/WD~part_of_UNESCO_World_Heritage_Site,43113623]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+instance_of: "[[_Standards/WikiData/WD~archaeological_site,839954|WD~archaeological_site,839954]]"
+architectural_style: "[[_Standards/WikiData/WD~ancient_Egyptian_architecture,842352|WD~ancient_Egyptian_architecture,842352]]"
+heritage_designation: "[[_Standards/WikiData/WD~part_of_UNESCO_World_Heritage_Site,43113623|WD~part_of_UNESCO_World_Heritage_Site,43113623]]"
 coordinate_location: Point(32.658333333 25.718333333)
 inception: -3199-01-01T00:00:00Z
-culture: "[[_Standards/WikiData/WD~Ancient_Egypt,11768]]"
-founded_by: "[[_Standards/WikiData/WD~Senusret_I,18763]]"
-country: "[[_Standards/WikiData/WD~Egypt,79]]"
+culture: "[[_Standards/WikiData/WD~Ancient_Egypt,11768|WD~Ancient_Egypt,11768]]"
+founded_by: "[[_Standards/WikiData/WD~Senusret_I,18763|WD~Senusret_I,18763]]"
+country: "[[_Standards/WikiData/WD~Egypt,79|WD~Egypt,79]]"
 area:
   - 69.86
   - 443.55

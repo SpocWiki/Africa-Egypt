@@ -40,7 +40,7 @@ geojsonFolder: ./Al_Iskandariyah/
 markerFolder: ./Al_Iskandariyah/
 ```
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Alexandria,87]]
+#is_/same_as :: [[../../../../../../WikiData/WD~Alexandria,87|WD~Alexandria,87]]
 
 ## #has_/text_of_/abstract 
 

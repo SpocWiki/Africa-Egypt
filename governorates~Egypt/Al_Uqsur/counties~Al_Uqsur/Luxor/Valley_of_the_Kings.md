@@ -5,20 +5,20 @@ aliases:
 has_id_wikidata: Q133423
 coordinate_location: Point(32.602358 25.74025)
 location: [25.74025,32.602358]
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Luxor,130514]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Luxor,130514|WD~Luxor,130514]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~necropolis,200141]]"
-  - "[[_Standards/WikiData/WD~archaeological_site,839954]]"
-  - "[[_Standards/WikiData/WD~valley,39816]]"
-described_by_source: "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-has_part_s_: "[[_Standards/WikiData/WD~tomb_of_Tutankhamun,835309]]"
+  - "[[_Standards/WikiData/WD~necropolis,200141|WD~necropolis,200141]]"
+  - "[[_Standards/WikiData/WD~archaeological_site,839954|WD~archaeological_site,839954]]"
+  - "[[_Standards/WikiData/WD~valley,39816|WD~valley,39816]]"
+described_by_source: "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+has_part_s_: "[[_Standards/WikiData/WD~tomb_of_Tutankhamun,835309|WD~tomb_of_Tutankhamun,835309]]"
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Valley_of_the_Kings,11184685]]"
-  - "[[_Standards/WikiData/WD~Q62687149,62687149]]"
-heritage_designation: "[[_Standards/WikiData/WD~part_of_UNESCO_World_Heritage_Site,43113623]]"
-culture: "[[_Standards/WikiData/WD~Ancient_Egypt,11768]]"
-part_of: "[[_Standards/WikiData/WD~Theban_Necropolis,29223]]"
-country: "[[_Standards/WikiData/WD~Egypt,79]]"
+  - "[[_Standards/WikiData/WD~Template_Valley_of_the_Kings,11184685|WD~Template_Valley_of_the_Kings,11184685]]"
+  - "[[_Standards/WikiData/WD~Q62687149,62687149|WD~Q62687149,62687149]]"
+heritage_designation: "[[_Standards/WikiData/WD~part_of_UNESCO_World_Heritage_Site,43113623|WD~part_of_UNESCO_World_Heritage_Site,43113623]]"
+culture: "[[_Standards/WikiData/WD~Ancient_Egypt,11768|WD~Ancient_Egypt,11768]]"
+part_of: "[[_Standards/WikiData/WD~Theban_Necropolis,29223|WD~Theban_Necropolis,29223]]"
+country: "[[_Standards/WikiData/WD~Egypt,79|WD~Egypt,79]]"
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Egypt%20banner%20Tomb%20entrance%20in%20valley%20of%20the%20kings.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Luxor%2C%20Tal%20der%20K%C3%B6nige%20%281995%2C%20860x605%29.jpg
 Commons_gallery: Valley of the Kings
