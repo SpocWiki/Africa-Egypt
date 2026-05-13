@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Kafr_ash_Shaykh/
 markerFolder: ./Kafr_ash_Shaykh/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

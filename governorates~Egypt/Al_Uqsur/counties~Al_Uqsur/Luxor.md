@@ -118,7 +118,7 @@ markerFile: [[Luxor]]
 > making a significant contribution to the modern city's economy. 
 > Yusuf Abu al-Haggag is a prominent Muslim historical figure of Luxor.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Luxor)
+> [Wikipedia](https://en.wikipedia.org/wiki/Luxor) 
 
 
 ## Confidential Links & Embeds: 

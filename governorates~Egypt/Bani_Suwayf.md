@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Bani_Suwayf/
 markerFolder: ./Bani_Suwayf/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

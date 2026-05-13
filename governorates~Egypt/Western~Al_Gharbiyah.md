@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Al_Gharbiyah/
 markerFolder: ./Al_Gharbiyah/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

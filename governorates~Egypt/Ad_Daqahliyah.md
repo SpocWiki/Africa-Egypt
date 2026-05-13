@@ -50,7 +50,8 @@ markerFile: [[Ad_Daqahliyah]]
 
 > Dakahlia (Arabic: محافظة الدقهلية Muḥāfaẓah el Daqahliyah, pronounced [ed.dæʔæhˈlejjæ]) is an Egyptian governorate lying northeast of Cairo, Egypt. Its area is approximately 3,500km2. Although the capital of the governorate is Mansoura, it got its name from the ancient town of Daqahlah (Arabic: دقهلة, from Coptic: ⲧⲕⲉϩⲗⲓ, lit. 'shrine') which is located in the modern Damietta Governorate.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Dakahlia%20Governorate)
+> [Wikipedia](https://en.wikipedia.org/wiki/Dakahlia%20Governorate) 
+
 
 ## Confidential Links & Embeds: 
 

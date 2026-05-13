@@ -38,7 +38,7 @@ geojsonFolder: ./Al_Jizah/
 markerFolder: ./Al_Jizah/
 coordinates: [[Al_Jizah]] 
 markerFile: [[Al_Jizah]] 
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

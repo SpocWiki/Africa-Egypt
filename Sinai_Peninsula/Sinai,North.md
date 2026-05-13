@@ -40,7 +40,7 @@ coordinates: [[Sinai,North]]
 markerFile: [[Sinai,North]] 
 zoomFeatures: true
 defaultZoom: 6 
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

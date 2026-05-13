@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./As_Suways/
 markerFolder: ./As_Suways/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
