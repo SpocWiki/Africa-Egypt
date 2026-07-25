@@ -1,147 +1,1269 @@
 ---
+dv_ISO4217-currency_alphabetic: EGP
+dv_ISO4217-currency_name: Egyptian Pound
+dv_ISO4217-currency_numeric: 818
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: EGYPT
+dv_Telephone: 20
+dv_Global: true
+dv_Global_Name: World
+dv_has_name: Egypt
+dv_has_name_en: Egypt
+dv_has_name_es: Egipto
+dv_has_name_fr: Égypte
+dv_has_name_cn: 埃及
+dv_has_name_ar: مصر
+dv_has_name_ru: Египет
+dv_CLDR_display_name: Egypt
+dv_UNTERM_English: Egypt
+dv_UNTERM_English_Formal: the Arab Republic of Egypt
+dv_UNTERM_Spanish_Formal: la República Árabe de Egipto
+dv_UNTERM_Spanish: Egipto
+dv_UNTERM_French: Égypte (l') [fém.]
+dv_UNTERM_Arabic: مصر
+dv_UNTERM_Arabic_Formal: جمهورية مصر العربية
+dv_UNTERM_Chinese: 埃及
+dv_UNTERM_Chinese_Formal: 阿拉伯埃及共和国
+dv_UNTERM_French_Formal: la République arabe d'Égypte
+dv_UNTERM_Russian: Египет
+dv_UNTERM_Russian_Formal: Арабская Республика Египет
+dv_Region_Name: '[[../../Africa|Africa]]'
+dv_Intermediate_Region_Name: '[[Egypt]]'
+dv_Sub-region_Name: '[[Northern Africa]]'
+dv_Region: 2
+dv_Sub-region: 15
+dv_Geoname-ID: 357994
+dv_FIPS: EG
+dv_FIFA: EGY
+dv_IOC: EGY
+dv_MARC: ua
+dv_GAUL: 40765
+dv_WMO: EG
+dv_ITU: EGY
+dv_DS: ET
+dv_TLD: .eg
+dv_EDGAR: H2
+dv_M49: 818
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developing
+dv_ISO3166-1-numeric: 818
+dv_ISO2: EG
+dv_ISO3: EGY
+dv_is_:
+  same_as:
+  - '[[../../../../WikiData/WD~Egypt,79|WD~Egypt,79]]'
+  - '[[/_Standards/Earth/Continent/Africa/Africa~North/Egypt|Egypt]]'
+  - '[[/_public/Earth/Continent/Africa/Africa~North/Egypt.public|Egypt.public]]'
+  - '[[/_internal/Earth/Continent/Africa/Africa~North/Egypt.internal|Egypt.internal]]'
+  - '[[/_protect/Earth/Continent/Africa/Africa~North/Egypt.protect|Egypt.protect]]'
+  - '[[/_private/Earth/Continent/Africa/Africa~North/Egypt.private|Egypt.private]]'
+  - '[[/_personal/Earth/Continent/Africa/Africa~North/Egypt.personal|Egypt.personal]]'
+  - '[[/_secret/Earth/Continent/Africa/Africa~North/Egypt.secret|Egypt.secret]]'
+dv_has_:
+  name_:
+    ab: Мсыр
+    ace: Meusé
+    acm: مصر
+    ady: Мысыр
+    aeb_arab: مصر
+    af: Egipte
+    am: ግብፅ
+    ami: Egypt
+    an: Echipto
+    ang: Ægypt
+    ann: Ijipiti
+    anp: मिस्र
+    ar: مصر
+    arc: ܡܨܪܝܢ
+    arq: ماصر
+    ary: مصر
+    arz: مصر
+    as: ইজিপ্ত
+    ast: Exiptu
+    av: Египет
+    avk: Misra
+    awa: मिस्र
+    ay: Iqiptu
+    az: Misir
+    azb: مصر
+    ba: Мысыр
+    ban: Mesir
+    bar: Egyptn
+    bbc: Misir
+    bcl: Ehipto
+    be: Егіпет
+    be_tarask: Эгіпет
+    bew: Mesir
+    bg: Египет
+    bgn: میسر
+    bho: मिस्र
+    bi: Ijip
+    bjn: Mesir
+    bm: Misra
+    bn: মিশর
+    bo: ཨའི་ཅི།
+    bpy: মিশর
+    br: Egipt
+    bs: Egipat
+    btm: Mesir
+    bug: ᨆᨔᨗᨑᨗ
+    bxr: Египет
+    ca: Egipte
+    cbk_zam: Egipto
+    cdo: Ăi-gĭk
+    ce: Мисар
+    ceb: Ehipto
+    ch: Ehiptu
+    chr: ᎢᏥᏈᎢ
+    chy: Egypt
+    ckb: میسر
+    co: Egittu
+    crh: Mısır
+    crh_latn: Mısır
+    cs: Egypt
+    csb: Egipt
+    cu: Єгѷптъ
+    cv: Египет
+    cy: Yr Aifft
+    da: Egypten
+    dag: Egypt
+    de: Ägypten
+    de-at: Ägypten
+    de_ch: Ägypten
+    diq: Mısır
+    dsb: Egyptojska
+    dty: इजिप्ट
+    dv: މިޞްރު
+    ee: Egipte
+    el: Αίγυπτος
+    en: Egypt
+    en_ca: Egypt
+    en_gb: Egypt
+    en-us: Egypt
+    eo: Egiptio
+    es: Egipto
+    et: Egiptus
+    eu: Egipto
+    ext: Egitu
+    fa: مصر
+    ff: Misra
+    fi: Egypti
+    fj: Ijipta
+    fo: Egyptaland
+    fr: Égypte
+    frp: Èg·ipte
+    frr: Egypten
+    fur: Egjit
+    fy: Egypte
+    ga: an Éigipt
+    gag: Egipet
+    gan: 埃及
+    gcr: Léjip
+    gd: An Èipheit
+    gl: Exipto
+    glk: مصر
+    gn: Ehipto
+    gom: मिस्र
+    gom-deva: ईजिप्त
+    gom_latn: Ejipt
+    gor: Mesir
+    got: "\U00010330\U00010339\U00010332\U00010345\U00010340\U00010344\U00010330\U0001033F"
+    gpe: Egypt
+    grc: Αἴγυπτος
+    gsw: Ägypten
+    gu: ઇજિપ્ત
+    gur: Egypt
+    gv: yn Egypt
+    ha: Misra
+    hak: Âi-khi̍p
+    haw: ‘Aikupika
+    he: מצרים
+    hi: मिस्र
+    hif: Egypt
+    hr: Egipat
+    hsb: Egyptowska
+    ht: Ejip
+    hu: Egyiptom
+    hy: Եգիպտոս
+    hyw: Եգիպտոս
+    ia: Egypto
+    iba: Ejip
+    id: Mesir
+    ie: Egiptia
+    ig: Egypt
+    ik: Masuġaq
+    ilo: Ehipto
+    inh: Мисаре
+    io: Egiptia
+    is: Egyptaland
+    it: Egitto
+    ja: エジプト
+    jam: Iijip
+    jbo: misrygu'e
+    jv: Mesir
+    ka: ეგვიპტე
+    kaa: Mısır
+    kab: Maṣer
+    kbp: Egipiti
+    kcg: Ma̱sa̱t
+    kea: Ejitu
+    kg: Misiri
+    kge: Mosir
+    ki: Egypt
+    kk: Мысыр
+    kl: Egypt
+    km: អេហ្ស៊ីប
+    kn: ಈಜಿಪ್ಟ್
+    knc: Egypt
+    ko: 이집트
+    ko-kp: 에짚트
+    krc: Мисир
+    ks: مِصر
+    ku: Misir
+    kv: Египет Араб Республика
+    kw: Ejyp
+    ky: Египет
+    la: Aegyptus
+    lad: Ayifto
+    lb: Egypten
+    lbe: Мисри
+    lez: Мисри
+    lfn: Misre
+    lg: Egypt
+    li: Egypte
+    lij: Egitto
+    lld: Egit
+    lmo: Egit
+    ln: Ejipte
+    lo: ປະເທດເອຢິບ
+    lt: Egiptas
+    ltg: Egipts
+    lv: Ēģipte
+    lzh: 埃及
+    mad: Mesir
+    mai: मिस्र
+    map_bms: Mesir
+    mdf: Эгипт
+    mg: Ejipta
+    mhr: Египет
+    mi: Īhipa
+    min: Mesir
+    mk: Египет
+    ml: ഈജിപ്റ്റ്
+    mn: Египет
+    mni: ꯏꯖꯤꯞ
+    mr: इजिप्त
+    mrj: Египет
+    ms: Mesir
+    ms_arab: مصر
+    mt: Eġittu
+    mwl: Eigito
+    my: အီဂျစ်နိုင်ငံ
+    myv: Египет Мастор
+    mzn: مصر
+    na: Idjipt
+    nah: Egiptoh
+    nan: Ai-ki̍p
+    nap: Naggitto
+    nb: Egypt
+    nds: Ägypten
+    nds_nl: Egypte
+    ne: इजिप्ट
+    new: मिस्र
+    nia: Miserai
+    nl: Egypte
+    nn: Egypt
+    nov: Egiptia
+    nqo: ߌߖ߭ߌߔߑߕ
+    nr: Egypt
+    nrm: Êgypte
+    nso: Egypt
+    nup: Egypt
+    nv: Ahidiitłʼintsoh Daʼííłʼíní Bikéyah
+    oc: Egipte
+    olo: Jegiptu
+    om: Ijiipti
+    or: ଇଜିପ୍ଟ
+    os: Мысыр
+    pa: ਮਿਸਰ
+    pam: Ejiptu
+    pap: Egipto
+    pcd: Édjipe
+    pcm: Ejipt
+    pi: ईजिप्ट
+    pih: Ejiipt
+    pl: Egipt
+    pms: Egit
+    pnb: مصر
+    pnt: Αίγυπτος
+    ps: مصر
+    pt: Egito
+    pt_br: Egito
+    pwn: Idjiputu
+    qu: Ihiptu
+    rm: Egipta
+    rmy: Mêsire
+    rn: Egipto
+    ro: Egipt
+    roa-tara: Egitte
+    ru: Египет
+    rue: Еґіпет
+    rup: Eghiptu
+    sa: ईजिप्तदेशः
+    sah: Эгиипэт
+    sat: ᱢᱤᱥᱚᱨ
+    sc: Egittu
+    scn: Eggittu
+    sco: Egyp
+    sd: مصر
+    sdc: Egittu
+    se: Egypta
+    sg: Kâmitâ
+    sgs: Egėpts
+    sh: Egipat
+    shi: Miṣra
+    shn: မိူင်းဢီးၵျိပ်ႈ
+    si: ඊජිප්තුව
+    sk: Egypt
+    skr: مصر
+    sl: Egipt
+    sm: Aikupito
+    smj: Egippta
+    smn: Egypt
+    sms: Egyptt
+    sn: Egypt
+    so: Masar
+    sq: Egjipti
+    sr: Египат
+    sr_ec: Египат
+    sr_el: Egipat
+    srn: Egiptakondre
+    ss: IGibhithe
+    st: Egepeta
+    stq: Ägypten
+    su: Mesir
+    sv: Egypten
+    sw: Misri
+    syl: ꠝꠤꠡꠞ
+    szl: Egipt
+    szy: Egypt
+    ta: எகிப்து
+    tay: Egypt
+    te: ఈజిప్టు
+    tet: Ejitu
+    tg: Миср
+    th: ประเทศอียิปต์
+    ti: ግብጺ
+    tk: Müsür
+    tl: Ehipto
+    tly: Misir
+    tn: Egypt
+    to: ʻIsipite
+    tok: ma Masu
+    tpi: Ijip
+    tr: Mısır
+    trv: Egypt
+    ts: Egypt
+    tt: Мисыр
+    tt_cyrl: Мисыр
+    tum: Egypt
+    tw: Misrim
+    ty: Egipt
+    tyv: Египет
+    udm: Египет
+    ug: مىسىر
+    uk: Єгипет
+    ur: مصر
+    uz: Misr
+    ve: Egipita
+    vec: Ezito
+    vep: Egipt
+    vi: Ai Cập
+    vls: Egypte
+    vo: Lägüptän
+    vro: Egüptüs
+    wa: Edjipe
+    war: Ehipto
+    wo: Isipt
+    wuu: 埃及
+    xal: Иҗибдин Араб Орн
+    xh: Jiphethe
+    xmf: ეგვიპტე
+    yi: עגיפטן
+    yo: Ẹ́gíptì
+    yue: 埃及
+    za: Aehciz
+    zea: Ehypte
+    zgh: ⵎⵉⵚⵕⴰ
+    zh: 埃及
+    zh_cn: 埃及
+    zh_hans: 埃及
+    zh_hant: 埃及
+    zh_hk: 埃及
+    zh_mo: 埃及
+    zh-my: 埃及
+    zh_sg: 埃及
+    zh_tw: 埃及
+    zu: IGibhithe
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Africa-Egypt
+dv_has_name_de: Ägypten
+dv_Area-Total: 997739
+dv_Area-Land: 995450
+dv_has_place_continent: '[[../../Africa|Africa]]'
+dv_VehicleCode: ET
+dv_Capital: '[[Cairo]]]'
+dv_Alcohol-l: 0.4
+dv_Language-Id: 472
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_has_place_longitude: 31.9
+dv_has_place_latitude: 30.015
+dv_developed_developing_countries: Developing
+dv_is_same_as:
+- '[[../../../../WikiData/WD~Egypt,79|WD~Egypt,79]]'
+- '[[/_Standards/Earth/Continent/Africa/Africa~North/Egypt|Egypt]]'
+- '[[/_public/Earth/Continent/Africa/Africa~North/Egypt.public|Egypt.public]]'
+- '[[/_internal/Earth/Continent/Africa/Africa~North/Egypt.internal|Egypt.internal]]'
+- '[[/_protect/Earth/Continent/Africa/Africa~North/Egypt.protect|Egypt.protect]]'
+- '[[/_private/Earth/Continent/Africa/Africa~North/Egypt.private|Egypt.private]]'
+- '[[/_personal/Earth/Continent/Africa/Africa~North/Egypt.personal|Egypt.personal]]'
+- '[[/_secret/Earth/Continent/Africa/Africa~North/Egypt.secret|Egypt.secret]]'
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Egypt
+aliases:
+- Aegyptus
+- Aehciz
+- Ahidiitłʼintsoh Daʼííłʼíní Bikéyah
+- Ai Cập
+- Ai-ki̍p
+- Aikupito
+- An Èipheit
+- an Éigipt
+- Ayifto
+- Echipto
+- Edjipe
+- Egepeta
+- Eggittu
+- Eghiptu
+- Egipat
+- Egipet
+- Egipita
+- Egipiti
+- Egippta
+- Egipt
+- Egipta
+- Egiptakondre
+- Egiptas
+- Egipte
+- Egiptia
+- Egiptio
+- Egipto
+- Egiptoh
+- Egipts
+- Egiptus
+- Egit
+- Egito
+- Egitte
+- Egitto
+- Egittu
+- Egitu
+- Egjipti
+- Egjit
+- Egyiptom
+- Egyp
+- Egypt
+- Egypta
+- Egyptaland
+- Egypte
+- Egypten
+- Egypti
+- Egyptn
+- Egypto
+- Egyptojska
+- Egyptowska
+- Egyptt
+- Egüptüs
+- Egėpts
+- Ehipto
+- Ehiptu
+- Ehypte
+- Eigito
+- Ejiipt
+- Ejip
+- Ejipt
+- Ejipta
+- Ejipte
+- Ejiptu
+- Ejitu
+- Ejyp
+- Exipto
+- Exiptu
+- Ezito
+- Eġittu
+- Idjipt
+- Idjiputu
+- IGibhithe
+- Ihiptu
+- Iijip
+- Ijiipti
+- Ijip
+- Ijipiti
+- Ijipta
+- Iqiptu
+- Isipt
+- Jegiptu
+- Jiphethe
+- Kâmitâ
+- la República Árabe de Egipto
+- Lägüptän
+- Léjip
+- ma Masu
+- Masar
+- Masuġaq
+- Ma̱sa̱t
+- Maṣer
+- Mesir
+- Meusé
+- Miserai
+- Misir
+- Misiri
+- Misr
+- Misra
+- Misre
+- Misri
+- Misrim
+- misrygu'e
+- Miṣra
+- Mosir
+- Mêsire
+- Müsür
+- Mısır
+- Naggitto
+- the Arab Republic of Egypt
+- yn Egypt
+- Yr Aifft
+- Âi-khi̍p
+- Ägypten
+- Ægypt
+- Èg·ipte
+- Édjipe
+- Égypte
+- Êgypte
+- Ăi-gĭk
+- Ēģipte
+- Īhipa
+- ʻIsipite
+- Αίγυπτος
+- Αἴγυπτος
+- Єгипет
+- Єгѷптъ
+- Егіпет
+- Египат
+- Египет
+- Египет Араб Республика
+- Египет Мастор
+- Еґіпет
+- Иҗибдин Араб Орн
+- Мисар
+- Мисаре
+- Мисир
+- Миср
+- Мисри
+- Мисыр
+- Мсыр
+- Мысыр
+- Эгіпет
+- Эгиипэт
+- Эгипт
+- Եգիպտոս
+- מצרים
+- עגיפטן
+- ماصر
+- مصر
+- مىسىر
+- مِصر
+- میسر
+- ܡܨܪܝܢ
+- މިޞްރު
+- ߌߖ߭ߌߔߑߕ
+- इजिप्ट
+- इजिप्त
+- ईजिप्ट
+- ईजिप्त
+- ईजिप्तदेशः
+- मिस्र
+- ইজিপ্ত
+- মিশর
+- ਮਿਸਰ
+- ઇજિપ્ત
+- ଇଜିପ୍ଟ
+- எகிப்து
+- ఈజిప్టు
+- ಈಜಿಪ್ಟ್
+- ഈജിപ്റ്റ്
+- ඊජිප්තුව
+- ประเทศอียิปต์
+- ປະເທດເອຢິບ
+- ཨའི་ཅི།
+- မိူင်းဢီးၵျိပ်ႈ
+- အီဂျစ်နိုင်ငံ
+- ეგვიპტე
+- ግብጺ
+- ግብፅ
+- ᎢᏥᏈᎢ
+- អេហ្ស៊ីប
+- ᨆᨔᨗᨑᨗ
+- ᱢᱤᱥᱚᱨ
+- Ẹ́gíptì
+- ‘Aikupika
+- ⵎⵉⵚⵕⴰ
+- エジプト
+- 埃及
+- ꠝꠤꠡꠞ
+- ꯏꯖꯤꯞ
+- 에짚트
+- 이집트
+- "\U00010330\U00010339\U00010332\U00010345\U00010340\U00010344\U00010330\U0001033F"
+has_id_wikidata: Q79
+BTI_Status_Index:
+- 4.13
+- 4.2
+- 4.28
+- 4.29
+- 4.4
+- 4.76
+- 4.82
+- 4.88
+BTI_Governance_Index:
+- 3.77
+- 3.86
+- 3.88
+- 3.96
+- 4.16
+- 4.23
+- 4.32
+- 4.44
+- 4.52
+BHCL_UUID:
+- 72455193-deee-4f8f-a15d-e9e6cf83a403
+- b997c02d-f72a-432e-8778-b2b0ae982e55
+CIVICUS_Monitor_country_entry: egypt
+Commons_gallery: مصر
+Colon_Classification: SG--677
+Commons_category: Egypt
+Democracy_Index: 2.93
+Happy_Planet_Index_score: 43.2
+Human_Development_Index: 0.731
+ISNI:
+- 122592789
+- 404908075
+Inequality_adjusted_Human_Development_Index: 0.519
+ISO_3166_1_numeric_code: 818
+MeSH_tree_code: Z01.058.266.317
+M49_code: 818
+GS1_country_code: 622
+IAB_code: 1286
+INSEE_countries_and_foreign_territories_code: 99301
+ISO_3166_1_alpha_3_code: EGY
+ITU_letter_code: EGY
+IOC_country_code: EGY
+Languages:
+- ar-EG
+- en
+- fr
+OmegaWiki_Defined_Meaning: 8347
+PM20_geo_code: C10
+ISO_3166_1_alpha_2_code: EG
+SpocWebEntityId: 26886
+UIC_alphabetical_country_code: ET
+WIPO_ST_3: EG
+FIPS_10_4_countries_and_regions_: EG
+GitHub_topic: egypt
+Gini_coefficient: 31.5
+Gujarati_Vishwakosh_entry: ઇજિપ્ત
+Krugosvet_article: strany_mira/EGIPET.html
+OpenStreetMap_zoom_level: 4
+U_S_National_Archives_Identifier: 10046273
+UIC_numerical_country_code: 90
+VAT_rate: 14
+Wikimedia_outline: '[[/_Standards/WikiData/WD~outline_of_Egypt,10996986|WD~outline_of_Egypt,10996986]]'
+anthem: '[[/_Standards/WikiData/WD~Bilady,_Bilady,_Bilady,171602|WD~Bilady,_Bilady,_Bilady,171602]]'
+age_of_majority: 21
+area: 1010407.87
+basic_form_of_government: '[[/_Standards/WikiData/WD~republic,7270|WD~republic,7270]]'
+birth_rate:
+- 22.107
+- 22.558
+- 23.051
+- 23.568
+coat_of_arms: '[[/_Standards/WikiData/WD~coat_of_arms_of_Egypt,106605|WD~coat_of_arms_of_Egypt,106605]]'
+contains_the_administrative_territorial_entity:
+- '[[/_Standards/WikiData/WD~Helwan_Governorate,475035|WD~Helwan_Governorate,475035]]'
+- '[[/_Standards/WikiData/WD~Aswan_Governorate,29937|WD~Aswan_Governorate,29937]]'
+- '[[/_Standards/WikiData/WD~Alexandria_Governorate,29943|WD~Alexandria_Governorate,29943]]'
+- '[[/_Standards/WikiData/WD~Asyut_Governorate,29965|WD~Asyut_Governorate,29965]]'
+- '[[/_Standards/WikiData/WD~Beheira_Governorate,30630|WD~Beheira_Governorate,30630]]'
+- '[[/_Standards/WikiData/WD~Damietta_Governorate,30644|WD~Damietta_Governorate,30644]]'
+- '[[/_Standards/WikiData/WD~New_Valley_Governorate,30650|WD~New_Valley_Governorate,30650]]'
+- '[[/_Standards/WikiData/WD~Faiyum_Governorate,30656|WD~Faiyum_Governorate,30656]]'
+- '[[/_Standards/WikiData/WD~North_Sinai_Governorate,30662|WD~North_Sinai_Governorate,30662]]'
+- '[[/_Standards/WikiData/WD~Sohag_Governorate,30669|WD~Sohag_Governorate,30669]]'
+- '[[/_Standards/WikiData/WD~Minya_Governorate,30675|WD~Minya_Governorate,30675]]'
+- '[[/_Standards/WikiData/WD~Matruh_Governorate,30682|WD~Matruh_Governorate,30682]]'
+- '[[/_Standards/WikiData/WD~Beni_Suef_Governorate,30683|WD~Beni_Suef_Governorate,30683]]'
+- '[[/_Standards/WikiData/WD~Monufia_Governorate,30786|WD~Monufia_Governorate,30786]]'
+- '[[/_Standards/WikiData/WD~Luxor_Governorate,30797|WD~Luxor_Governorate,30797]]'
+- '[[/_Standards/WikiData/WD~Cairo_Governorate,30805|WD~Cairo_Governorate,30805]]'
+- '[[/_Standards/WikiData/WD~South_Sinai_Governorate,30815|WD~South_Sinai_Governorate,30815]]'
+- '[[/_Standards/WikiData/WD~Red_Sea_Governorate,30831|WD~Red_Sea_Governorate,30831]]'
+- '[[/_Standards/WikiData/WD~Gharbia_Governorate,30835|WD~Gharbia_Governorate,30835]]'
+- '[[/_Standards/WikiData/WD~Giza_Governorate,30832|WD~Giza_Governorate,30832]]'
+- '[[/_Standards/WikiData/WD~Kafr_el-Sheikh_Governorate,30946|WD~Kafr_el-Sheikh_Governorate,30946]]'
+- '[[/_Standards/WikiData/WD~Ismailia_Governorate,31067|WD~Ismailia_Governorate,31067]]'
+- '[[/_Standards/WikiData/WD~Qena_Governorate,31065|WD~Qena_Governorate,31065]]'
+- '[[/_Standards/WikiData/WD~Suez_Governorate,31070|WD~Suez_Governorate,31070]]'
+- '[[/_Standards/WikiData/WD~Dakahlia_Governorate,31068|WD~Dakahlia_Governorate,31068]]'
+- '[[/_Standards/WikiData/WD~Sharqia_Governorate,31074|WD~Sharqia_Governorate,31074]]'
+- '[[/_Standards/WikiData/WD~Qalyubia_Governorate,31075|WD~Qalyubia_Governorate,31075]]'
+- '[[/_Standards/WikiData/WD~Port_Said_Governorate,31079|WD~Port_Said_Governorate,31079]]'
+central_bank: '[[/_Standards/WikiData/WD~Central_Bank_of_Egypt,920699|WD~Central_Bank_of_Egypt,920699]]'
+culture: '[[/_Standards/WikiData/WD~culture_of_Egypt,2655498|WD~culture_of_Egypt,2655498]]'
+continent: '[[/_Standards/WikiData/WD~Africa,15|WD~Africa,15]]'
+country: '[[/_Standards/WikiData/WD~Egypt,79|WD~Egypt,79]]'
+capital: '[[/_Standards/WikiData/WD~Cairo,85|WD~Cairo,85]]'
+compulsory_education_minimum_age_: 6
+compulsory_education_maximum_age_: 14
+country_calling_code: 20
+coordinates_of_westernmost_point: Point(24.70069885 30.15462722)
+coordinates_of_easternmost_point: Point(36.89432144 22.05445965)
+coordinates_of_northernmost_point: Point(25.9 31.63)
+coordinates_of_southernmost_point: Point(33.55602264 21.72569656)
+coordinate_location: Point(29.0 27.0)
+coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Egypt%20%28Official%29.svg
+confidential: public
+cssclasses:
+- Country
+diplomatic_relation:
+- '[[/_Standards/WikiData/WD~Palestine,219060|WD~Palestine,219060]]'
+- '[[/_Standards/WikiData/WD~Morocco,1028|WD~Morocco,1028]]'
+- '[[/_Standards/WikiData/WD~Sudan,1049|WD~Sudan,1049]]'
+- '[[/_Standards/WikiData/WD~Canada,16|WD~Canada,16]]'
+- '[[/_Standards/WikiData/WD~Japan,17|WD~Japan,17]]'
+- '[[/_Standards/WikiData/WD~Hungary,28|WD~Hungary,28]]'
+- '[[/_Standards/WikiData/WD~Denmark,35|WD~Denmark,35]]'
+- '[[/_Standards/WikiData/WD~Italy,38|WD~Italy,38]]'
+- '[[/_Standards/WikiData/WD~Switzerland,39|WD~Switzerland,39]]'
+- '[[/_Standards/WikiData/WD~Poland,36|WD~Poland,36]]'
+- '[[/_Standards/WikiData/WD~Turkey,43|WD~Turkey,43]]'
+- '[[/_Standards/WikiData/WD~Uruguay,77|WD~Uruguay,77]]'
+- '[[/_Standards/WikiData/WD~Mexico,96|WD~Mexico,96]]'
+- '[[/_Standards/WikiData/WD~Kenya,114|WD~Kenya,114]]'
+- '[[/_Standards/WikiData/WD~Ethiopia,115|WD~Ethiopia,115]]'
+- '[[/_Standards/WikiData/WD~France,142|WD~France,142]]'
+- '[[/_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
+- "[[/_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+- '[[/_Standards/WikiData/WD~Brazil,155|WD~Brazil,155]]'
+- '[[/_Standards/WikiData/WD~Russia,159|WD~Russia,159]]'
+- '[[/_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
+- '[[/_Standards/WikiData/WD~Slovenia,215|WD~Slovenia,215]]'
+- '[[/_Standards/WikiData/WD~Ukraine,212|WD~Ukraine,212]]'
+- '[[/_Standards/WikiData/WD~Bulgaria,219|WD~Bulgaria,219]]'
+- '[[/_Standards/WikiData/WD~Croatia,224|WD~Croatia,224]]'
+- '[[/_Standards/WikiData/WD~Georgia,230|WD~Georgia,230]]'
+- '[[/_Standards/WikiData/WD~Cyprus,229|WD~Cyprus,229]]'
+- '[[/_Standards/WikiData/WD~Indonesia,252|WD~Indonesia,252]]'
+- '[[/_Standards/WikiData/WD~South_Africa,258|WD~South_Africa,258]]'
+- '[[/_Standards/WikiData/WD~Algeria,262|WD~Algeria,262]]'
+- '[[/_Standards/WikiData/WD~Armenia,399|WD~Armenia,399]]'
+- '[[/_Standards/WikiData/WD~Serbia,403|WD~Serbia,403]]'
+- '[[/_Standards/WikiData/WD~Australia,408|WD~Australia,408]]'
+- '[[/_Standards/WikiData/WD~Argentina,414|WD~Argentina,414]]'
+- '[[/_Standards/WikiData/WD~North_Korea,423|WD~North_Korea,423]]'
+- '[[/_Standards/WikiData/WD~New_Zealand,664|WD~New_Zealand,664]]'
+- '[[/_Standards/WikiData/WD~India,668|WD~India,668]]'
+- '[[/_Standards/WikiData/WD~Mongolia,711|WD~Mongolia,711]]'
+- '[[/_Standards/WikiData/WD~Iraq,796|WD~Iraq,796]]'
+- '[[/_Standards/WikiData/WD~Israel,801|WD~Israel,801]]'
+- '[[/_Standards/WikiData/WD~Jordan,810|WD~Jordan,810]]'
+- '[[/_Standards/WikiData/WD~Malaysia,833|WD~Malaysia,833]]'
+- '[[/_Standards/WikiData/WD~Pakistan,843|WD~Pakistan,843]]'
+- '[[/_Standards/WikiData/WD~Syria,858|WD~Syria,858]]'
+- '[[/_Standards/WikiData/WD~Taiwan,865|WD~Taiwan,865]]'
+- '[[/_Standards/WikiData/WD~United_Arab_Emirates,878|WD~United_Arab_Emirates,878]]'
+- '[[/_Standards/WikiData/WD~South_Korea,884|WD~South_Korea,884]]'
+- '[[/_Standards/WikiData/WD~Zambia,953|WD~Zambia,953]]'
+- '[[/_Standards/WikiData/WD~South_Sudan,958|WD~South_Sudan,958]]'
+- '[[/_Standards/WikiData/WD~Libya,1016|WD~Libya,1016]]'
+described_by_source:
+- '[[/_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[/_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
+- '[[/_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[/_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[/_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[/_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[/_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[/_Standards/WikiData/WD~History_of_Ming,28763|WD~History_of_Ming,28763]]'
+- "[[/_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201|WD~Riemann's_Music_Dictionary,27680201]]"
+- "[[/_Standards/WikiData/WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240|WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240]]"
+demographics_of_topic: '[[/_Standards/WikiData/WD~demographics_of_Egypt,2354232|WD~demographics_of_Egypt,2354232]]'
+different_from:
+- '[[/_Standards/WikiData/WD~Ägypten,11336592|WD~Ägypten,11336592]]'
+- '[[/_Standards/WikiData/WD~Egipte,20099095|WD~Egipte,20099095]]'
+- '[[/_Standards/WikiData/WD~Egypt,54895077|WD~Egypt,54895077]]'
+demonym:
+- মিশরীয়
+- مِصْرِيّ
+- مِصْرّيَّة
+- مِصْرِيُّونَ
+- exipciana
+- exipcianu
+- Egypťan
+- Egypťanka
+- Egypťanky
+- ægypter
+- egypter
+- Ägypterinnen
+- מצרי
+- Égyptienne
+- מצרית
+- egyiptomi
+- Egypťané
+- Ägypterin
+- Ägypter
+- Egiptiano
+- egiziana
+- egiziane
+- egiziani
+- egiziano
+- egipsian
+- misri
+- egiptean
+- egipteancă
+- egipteni
+- египтяне
+- єгиптяни
+- єгиптянин
+- єгиптянка
+- ezisian
+- ezisiana
+- ezisiane
+- ezisiani
+- Lägüptänan
+- مصري
+- مصراوا
+- مصريات
+- مصرية
+- Éigipteach
+- Egyptian
+- Égyptien
+driving_side: '[[/_Standards/WikiData/WD~right,14565199|WD~right,14565199]]'
+described_at_URL: http://68k.news/index.php?section=nation&loc=EG&lang=AR
+death_rate:
+- 6.39
+- 5.581
+- 5.851
+- 6.327
+draft: false
+ethnic_group: '[[/_Standards/WikiData/WD~Egyptians,1061510|WD~Egyptians,1061510]]'
+electrical_plug_type:
+- '[[/_Standards/WikiData/WD~Schuko,1123613|WD~Schuko,1123613]]'
+- '[[/_Standards/WikiData/WD~Europlug,1378312|WD~Europlug,1378312]]'
+economy_of_topic: '[[/_Standards/WikiData/WD~economy_of_Egypt,1987090|WD~economy_of_Egypt,1987090]]'
+executive_body: '[[/_Standards/WikiData/WD~Cabinet_of_Egypt,4206677|WD~Cabinet_of_Egypt,4206677]]'
+emergency_phone_number:
+- '[[/_Standards/WikiData/WD~122,25648812|WD~122,25648812]]'
+- '[[/_Standards/WikiData/WD~123,25648825|WD~123,25648825]]'
+- '[[/_Standards/WikiData/WD~180,25648853|WD~180,25648853]]'
+expiryDate: ''
+flag: '[[/_Standards/WikiData/WD~flag_of_Egypt,130458|WD~flag_of_Egypt,130458]]'
+female_population:
+- 52189268
+- 53107732
+- 54001891
+- 54865512
+flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Egypt.svg
+geography_of_topic: '[[/_Standards/WikiData/WD~geography_of_Egypt,1451495|WD~geography_of_Egypt,1451495]]'
+geoshape: http://commons.wikimedia.org/data/main/Data:Egypt.map
+history_of_topic: '[[/_Standards/WikiData/WD~history_of_Egypt,185301|WD~history_of_Egypt,185301]]'
+head_of_state: '[[/_Standards/WikiData/WD~Abdel_Fattah_el-Sisi,307871|WD~Abdel_Fattah_el-Sisi,307871]]'
+has_part_s_: '[[/_Standards/WikiData/WD~Lower_Egypt,463871|WD~Lower_Egypt,463871]]'
+highest_point: '[[/_Standards/WikiData/WD~Mount_Catherine,1140642|WD~Mount_Catherine,1140642]]'
+highest_judicial_authority: '[[/_Standards/WikiData/WD~Supreme_Constitutional_Court_of_Egypt,2156821|WD~Supreme_Constitutional_Court_of_Egypt,2156821]]'
+has_cabinet: '[[/_Standards/WikiData/WD~Cabinet_of_Egypt,4206677|WD~Cabinet_of_Egypt,4206677]]'
+hashtag: Egypt
+has_time_started: 1922-02-28
+has_characteristic: '[[/_Standards/WikiData/WD~not-free_country,47185282|WD~not-free_country,47185282]]'
+head_of_government: '[[/_Standards/WikiData/WD~Mostafa_Madbouly,54901515|WD~Mostafa_Madbouly,54901515]]'
+instance_of:
+- '[[/_Standards/WikiData/WD~transcontinental_country,1323642|WD~transcontinental_country,1323642]]'
+- '[[/_Standards/WikiData/WD~sovereign_state,3624078|WD~sovereign_state,3624078]]'
+- '[[/_Standards/WikiData/WD~country,6256|WD~country,6256]]'
+- '[[/_Standards/WikiData/WD~Mediterranean_country,51576574|WD~Mediterranean_country,51576574]]'
+image: http://commons.wikimedia.org/wiki/Special:FilePath/All%20Gizah%20Pyramids.jpg
+inception: 1922-02-28
+isDeleted: false
+isReadOnly: false
+keywords: ''
+lowest_point: '[[/_Standards/WikiData/WD~Qattara_Depression,841050|WD~Qattara_Depression,841050]]'
+legislative_body: '[[/_Standards/WikiData/WD~Parliament_of_Egypt,2584535|WD~Parliament_of_Egypt,2584535]]'
+language_used:
+- '[[/_Standards/WikiData/WD~Egyptian_Sign_Language,5348443|WD~Egyptian_Sign_Language,5348443]]'
+- '[[/_Standards/WikiData/WD~Kenzi,20639851|WD~Kenzi,20639851]]'
+- '[[/_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+- '[[/_Standards/WikiData/WD~Malay,9237|WD~Malay,9237]]'
+- '[[/_Standards/WikiData/WD~Egyptian_Arabic,29919|WD~Egyptian_Arabic,29919]]'
+- '[[/_Standards/WikiData/WD~Beja,33025|WD~Beja,33025]]'
+- '[[/_Standards/WikiData/WD~Siwa,36814|WD~Siwa,36814]]'
+- '[[/_Standards/WikiData/WD~Modern_Standard_Arabic,56467|WD~Modern_Standard_Arabic,56467]]'
+- '[[/_Standards/WikiData/WD~Libyan_Arabic,56503|WD~Libyan_Arabic,56503]]'
+- '[[/_Standards/WikiData/WD~Saʽidi_Arabic,56592|WD~Saʽidi_Arabic,56592]]'
+- '[[/_Standards/WikiData/WD~Bedawi_Arabic,56714|WD~Bedawi_Arabic,56714]]'
+located_in_or_next_to_body_of_water:
+- '[[/_Standards/WikiData/WD~Nile,3392|WD~Nile,3392]]'
+- '[[/_Standards/WikiData/WD~Mediterranean_Sea,4918|WD~Mediterranean_Sea,4918]]'
+- '[[/_Standards/WikiData/WD~Red_Sea,23406|WD~Red_Sea,23406]]'
+located_in_time_zone:
+- '[[/_Standards/WikiData/WD~UTC+02_00,6723|WD~UTC+02_00,6723]]'
+- '[[/_Standards/WikiData/WD~UTC+03_00,6760|WD~UTC+03_00,6760]]'
+literacy_rate: 71
+locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/EGY%20orthographic.svg
+location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Lake%20Nasser%20location.png
+life_expectancy: 71.484
+licence_plate_code: ET
 location:
-  - 30.015
-  - 31.9
+- 30.015
+- 31.9
+license: CC BY-SA 4.0
+linkTitle: ''
+layout: ''
+member_of:
+- '[[/_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102|WD~Organisation_internationale_de_la_Francophonie,134102]]'
+- '[[/_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656|WD~International_Civil_Defence_Organisation,162656]]'
+- '[[/_Standards/WikiData/WD~World_Meteorological_Organization,170424|WD~World_Meteorological_Organization,170424]]'
+- '[[/_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384|WD~International_Bank_for_Reconstruction_and_Development,191384]]'
+- '[[/_Standards/WikiData/WD~International_Hydrographic_Organization,233611|WD~International_Hydrographic_Organization,233611]]'
+- '[[/_Standards/WikiData/WD~BRICS,243630|WD~BRICS,243630]]'
+- '[[/_Standards/WikiData/WD~African_Development_Bank,340195|WD~African_Development_Bank,340195]]'
+- '[[/_Standards/WikiData/WD~International_Telecommunication_Union,376150|WD~International_Telecommunication_Union,376150]]'
+- '[[/_Standards/WikiData/WD~United_Nations_African_Union_Hybrid_Operation_in_Darfur,384535|WD~United_Nations_African_Union_Hybrid_Operation_in_Darfur,384535]]'
+- '[[/_Standards/WikiData/WD~World_Customs_Organization,605326|WD~World_Customs_Organization,605326]]'
+- '[[/_Standards/WikiData/WD~Arab_Monetary_Fund,624307|WD~Arab_Monetary_Fund,624307]]'
+- '[[/_Standards/WikiData/WD~International_Finance_Corporation,656801|WD~International_Finance_Corporation,656801]]'
+- '[[/_Standards/WikiData/WD~International_Development_Association,827525|WD~International_Development_Association,827525]]'
+- '[[/_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770|WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]'
+- '[[/_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527|WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
+- '[[/_Standards/WikiData/WD~Arab_Fund_for_Economic_and_Social_Development,1137381|WD~Arab_Fund_for_Economic_and_Social_Development,1137381]]'
+- '[[/_Standards/WikiData/WD~Arab_Bank_for_Economic_Development_in_Africa,4783148|WD~Arab_Bank_for_Economic_Development_in_Africa,4783148]]'
+- '[[/_Standards/WikiData/WD~Group_on_Earth_Observations,5611262|WD~Group_on_Earth_Observations,5611262]]'
+- '[[/_Standards/WikiData/WD~United_Nations,1065|WD~United_Nations,1065]]'
+- '[[/_Standards/WikiData/WD~African_Union,7159|WD~African_Union,7159]]'
+- '[[/_Standards/WikiData/WD~Arab_League,7172|WD~Arab_League,7172]]'
+- '[[/_Standards/WikiData/WD~UNESCO,7809|WD~UNESCO,7809]]'
+- '[[/_Standards/WikiData/WD~World_Health_Organization,7817|WD~World_Health_Organization,7817]]'
+- '[[/_Standards/WikiData/WD~World_Trade_Organization,7825|WD~World_Trade_Organization,7825]]'
+- '[[/_Standards/WikiData/WD~Interpol,8475|WD~Interpol,8475]]'
+- '[[/_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495|WD~Universal_Postal_Union_UPU,17495]]'
+- '[[/_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543|WD~Organisation_of_Islamic_Cooperation,47543]]'
+marriageable_age: 21
+mains_voltage: 220
+male_population:
+- 53429404
+- 54357401
+- 55260287
+- 56124592
+motto_text: مصر أمّ الدنيا
+madhhab: '[[/_Standards/WikiData/WD~Malikism,48221|WD~Malikism,48221]]'
+maritime_identification_digits: 622
+mobile_country_code: 602
+named_after:
+- '[[/_Standards/WikiData/WD~Ptah,146321|WD~Ptah,146321]]'
+- '[[/_Standards/WikiData/WD~Mizraim,1369215|WD~Mizraim,1369215]]'
+native_label:
+- جُمهورِيّةُ مِصرَ العَرَبيّةِ
+- Arab Republic of Egypt
+- Mesir
+- Republik Arab Mesir
+- Egypt
+- مصر
+nominal_GDP:
+- 424671765456
+- 476747720365
+name_in_native_language: جمهوریّة مصر العربیّة
+number_of_out_of_school_children: 1456758
+office_held_by_head_of_government: '[[/_Standards/WikiData/WD~Prime_Minister_of_Egypt,1571396|WD~Prime_Minister_of_Egypt,1571396]]'
+office_held_by_head_of_state: '[[/_Standards/WikiData/WD~President_of_Egypt,15618993|WD~President_of_Egypt,15618993]]'
+official_language: '[[/_Standards/WikiData/WD~Arabic,13955|WD~Arabic,13955]]'
+official_name: جُمهورِيّةُ مِصرَ العَرَبيّةِ
+open_data_portal: '[[/_Standards/WikiData/WD~Egyptian_Open_Data_initiative,97011670|WD~Egyptian_Open_Data_initiative,97011670]]'
+permanent_duplicated_item: '[[/_Standards/WikiData/WD~Q13052740,13052740|WD~Q13052740,13052740]]'
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Egypt%20banner%20Camels%20and%20pyramids.jpg
+part_of:
+- '[[/_Standards/WikiData/WD~Middle_East,7204|WD~Middle_East,7204]]'
+- '[[/_Standards/WikiData/WD~West_Asia,27293|WD~West_Asia,27293]]'
+- '[[/_Standards/WikiData/WD~North_Africa,27381|WD~North_Africa,27381]]'
+pronunciation_audio:
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q22809485%20%28apc%29-Hassan%20Hassoon-%D9%85%D8%B5%D8%B1.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Egipt.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%AE%E0%A6%BF%E0%A6%B6%E0%A6%B0.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/De-%C3%84gypten2.ogg
+population: 114535772
+publish: true
+publishDate: ''
+replaces:
+- '[[/_Standards/WikiData/WD~Kingdom_of_Egypt,124943|WD~Kingdom_of_Egypt,124943]]'
+- '[[/_Standards/WikiData/WD~All-Palestine_Government,2051582|WD~All-Palestine_Government,2051582]]'
+railway_traffic_side: '[[/_Standards/WikiData/WD~left,13196750|WD~left,13196750]]'
+relief_location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Egypt%20relief%20location%20map.jpg
+rural_population:
+- 60487813
+- 61488326
+- 62430223
+- 63300985
+shares_border_with:
+- '[[/_Standards/WikiData/WD~Levant,81483|WD~Levant,81483]]'
+- '[[/_Standards/WikiData/WD~Palestine,219060|WD~Palestine,219060]]'
+- '[[/_Standards/WikiData/WD~Bir_Tawil,620634|WD~Bir_Tawil,620634]]'
+- '[[/_Standards/WikiData/WD~Sudan,1049|WD~Sudan,1049]]'
+- '[[/_Standards/WikiData/WD~Israel,801|WD~Israel,801]]'
+- '[[/_Standards/WikiData/WD~Libya,1016|WD~Libya,1016]]'
+suicide_rate: 3.4
+subreddit: Egypt
+short_name: "\U0001F1EA\U0001F1EC"
+source: https://datahub.io/core/country-codes
+top_level_Internet_domain:
+- '[[/_Standards/WikiData/WD~.مصر,914712|WD~.مصر,914712]]'
+- '[[/_Standards/WikiData/WD~.eg,40381|WD~.eg,40381]]'
+topic_s_main_template:
+- '[[/_Standards/WikiData/WD~Template_Governorates_of_Egypt,5625995|WD~Template_Governorates_of_Egypt,5625995]]'
+- '[[/_Standards/WikiData/WD~Template_Egypt-stub,6730439|WD~Template_Egypt-stub,6730439]]'
+topic_s_main_Wikimedia_portal: '[[/_Standards/WikiData/WD~Portal_Egypt,12811460|WD~Portal_Egypt,12811460]]'
+trunk_prefix: 0
+total_fertility_rate: 3.338
 type: Country
 tags:
-  - geo/Country
-SpocWebEntityId: 26886
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses:
-  - Country
-publish: true
+- geo/Country
 title: Egypt
-linkTitle:
-keywords:
-layout:
-draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Egypt
-  - Egipto
-  - Égypte
-  - مصر
-  - 埃及
-  - Египет
-  - the Arab Republic of Egypt
-  - la República Árabe de Egipto
-Languages:
-  - ar-EG
-  - en
-  - fr
+urban_population:
+- 45130858
+- 45976808
+- 46831955
+- 47689118
+Unicode_character: 🇪🇬
 ---
 
+# [[Egypt]] 🇪🇬 
 
-[	ISO4217-currency_alphabetic	 :: EGP ] 
-[	ISO4217-currency_name	 :: Egyptian Pound ] 
-[	ISO4217-currency_numeric	 :: 818 ] 
-[	ISO4217-currency_minor_unit	 :: 2 ] 
-[	ISO4217-currency_country_name	 :: EGYPT ] 
+## #has_/properties 
 
-[	Telephone	 :: 20 ] 
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
 
-[	Global	 :: True ] 
-[	Global_Name	 :: World ] 
+Telephone = `=this.dv_Telephone`
 
-[	name	 :: Egypt ] 
-[	name-en	 :: Egypt ] 
-[	name-es	 :: Egipto ] 
-[	name-fr	 :: Égypte ] 
-[	name-cn	 :: 埃及 ] 
-[	name-ar	 :: مصر ] 
-[	name-ru	 :: Египет ] 
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
 
-[	CLDR_display_name	 :: Egypt ] 
+name = `=this.dv_has_name`
+[	has_name_en	 :: Egypt ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
-[	UNTERM_English	 :: Egypt ] 
-[	UNTERM_English_Formal	 :: the Arab Republic of Egypt ] 
-[	UNTERM_Spanish_Formal	 :: la República Árabe de Egipto ] 
-[	UNTERM_Spanish	 :: Egipto ] 
-[	UNTERM_French	 :: Égypte (l') [fém.] ] 
-[	UNTERM_Arabic	 :: مصر ] 
-[	UNTERM_Arabic_Formal	 :: جمهورية مصر العربية ] 
-[	UNTERM_Chinese	 :: 埃及 ] 
-[	UNTERM_Chinese_Formal	 :: 阿拉伯埃及共和国 ] 
-[	UNTERM_French_Formal	 :: la République arabe d'Égypte ] 
-[	UNTERM_Russian	 :: Египет ] 
-[	UNTERM_Russian_Formal	 :: Арабская Республика Египет ] 
+CLDR_display_name = `=this.dv_CLDR_display_name`
 
-Region_Name ::  [[Africa]] 
-Intermediate_Region_Name ::  [[]] 
-Sub-region_Name ::  [[Northern Africa]]  
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French` ]
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
 
-[	Region	 :: 2 ] 
-[	Intermediate_Region	 ::  ] 
-[	Sub-region	 :: 15 ] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Geoname-ID	 :: 357994 ] 
-[	FIPS	 :: EG ] 
-[	FIFA	 :: EGY ] 
-[	IOC	 :: EGY ] 
-[	MARC	 :: ua ] 
-[	GAUL	 :: 40765 ] 
-[	WMO	 :: EG ] 
-[	ITU	 :: EGY ] 
-[	DS	 :: ET ] 
-[	TLD	 :: .eg ] 
-[	EDGAR	 :: H2 ] 
-[	M49	 :: 818 ] 
+Region = `=this.dv_Region`
+[	Intermediate_Region = `=this.dv_Region`
+Sub-region = `=this.dv_Sub-region`
 
-[	is_independent	 :: Yes ] 
-[	Developed_/Developing_Countries	 :: Developing ] 
-[	Land_Locked_Developing_Countries	 ::  ] 
-[	Least_Developed_Countries	 ::  ] 
-[	Small_Island_Developing_States	 ::  ] 
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+WMO = `=this.dv_WMO`
+ITU = `=this.dv_ITU`
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
 
-[	ISO3166-1-numeric	 :: 818 ] 
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
+[	Land_Locked_Developing_Countries	 ::  ]
+[	Least_Developed_Countries	 ::  ]
+[	Small_is_a = `=this.dv_is_a_`
 
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric` 
 
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3`
 
-[ISO2::EG] 
-[ISO3::EGY] 
+is_a = `=this.dv_is_a_`
+
+For more Details, check out this Repository into this Subfolder: 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
+
+[[Egypt/ReadMe|ReadMe]] 
+
+## #has_/map 
+
 ```leaflet
 id: Egypt
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
-geojsonFolder: .//
-markerFolder: .//
+geojsonFolder: ./Egypt//
+markerFolder: ./Egypt//
+coordinates: [[Egypt]] 
+markerFile: [[Egypt]] 
 ```
 
-[name-en::Egypt] 
-[name-de::Ägypten] 
-[Area-Total::997739] 
-[Area-Land::995450] 
-Continent :: [[Africa]]  
-[VehicleCode::ET] 
-Capital :: [[Cairo]]  
-![[Coat_of_arms_of_Egypt.svg|350]] 
-![[Anthem-Egypt.mp3]] 
-![[Flag_of_Egypt.svg|350]] 
-[Alcohol-l::0.4] 
-[Language-Id::472] 
-[geo-lon::31.9] 
-[geo-lat::30.015] 
+### #has_/map_/topologic 
+
+```leaflet
+id: Egypt_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 5
+geojsonFolder: ./Egypt//
+markerFolder: ./Egypt/
+coordinates: [[Egypt]] 
+markerFile: [[Egypt]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
+
+[has_name_en::Egypt]
+has_name_de = `=this.dv_has_name_de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
+Capital = `=this.dv_Capital`
+![[Coat_of_arms_of_Egypt.svg|350]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Egypt.mp3|Anthem-Egypt.mp3]]
+![[Flag_of_Egypt.svg|350]]
+Alcohol-l = `=this.dv_Alcohol-l`
+Language-Id = `=this.dv_Language-Id`
+
+
+
+ is_a = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
+
+
+| Name             | Region                 | Population/1e6 |                    |
+| ---------------- | ---------------------- | -------------: | ------------------ |
+| Cairo            | Cairo Governorate      |          10.10 | Capital            |
+| Alexandria       | Alexandria Governorate |           5.40 |                    |
+| Giza             | Giza Governorate       |           8.80 |                    |
+| Shubra El-Kheima | Qalyubia Governorate   |           1.20 |                    |
+| Port Said        | Port Said Governorate  |           0.75 |                    |
+| Suez             | Suez Governorate       |           0.80 |                    |
+| Luxor            | Luxor Governorate      |           0.53 | Valley of the Dead |
+| Mansoura         | Dakahlia Governorate   |           1.00 |                    |
+| Tanta            | Gharbia Governorate    |           0.62 |                    |
+| Asyut            | Asyut Governorate      |           0.40 |                    |
+| Aswan            | Aswan Governorate      |           0.30 |                    |
+
+
+## #has_/text_of_/abstract 
+
+> **Egypt** (Arabic: مصر Miṣr [mesˁr] , Egyptian Arabic : [mɑsˤr]), officially the Arab Republic of Egypt, 
+> is a country spanning the northeast of Africa and southwest of Asia via the Sinai Peninsula. 
+>
+> It is bordered by the Mediterranean Sea to the north, the Gaza Strip of Palestine and Israel to the northeast, the Red Sea to the east, Sudan to the south, and Libya to the west; the Gulf of Aqaba in the northeast separates Egypt from Jordan and Saudi Arabia. 
+>
+> Cairo is the capital, largest city, and leading cultural center, while Alexandria is the second-largest city and an important hub of industry and tourism. At approximately 107 million inhabitants, Egypt is the third-most populous country in Africa and 14th-most populated in the world.
+>
+> Egypt has one of the longest histories of any country, 
+> tracing its heritage along the Nile Delta back to the 6th–4th millennia BCE. 
+> Considered a cradle of civilisation, Ancient Egypt saw some of the earliest developments of writing, 
+> agriculture, urbanisation, organised religion and central government. 
+>
+> Egypt was an early and important centre of Christianity, 
+> later adopting Islam from the seventh century onwards. 
+> Cairo became the capital of the Fatimid Caliphate in the tenth century 
+> and of the subsequent Mamluk Sultanate in the 13th century. 
+> 
+> Egypt then became part of the Ottoman Empire in 1517, 
+> until its local ruler Muhammad Ali established modern Egypt as an autonomous Khedivate in 1867. 
+> The country was then occupied by the British Empire along with Sudan 
+> and gained independence in 1922 as a monarchy. 
+>
+> Following the 1952 revolution, Egypt declared itself a republic. 
+> For a brief period between 1958 and 1961 Egypt merged with Syria 
+> to form the United Arab Republic. 
+> Egypt fought several armed conflicts with Israel in 1948, 1956, 1967 and 1973, 
+> and occupied the Gaza Strip intermittently until 1967. 
+> In 1978, Egypt signed the Camp David Accords, 
+> which recognised Israel in exchange for its withdrawal from the occupied Sinai. 
+> 
+> After the Arab Spring, which led to the 2011 Egyptian revolution and overthrow of Hosni Mubarak, 
+> the country faced a protracted period of political unrest; 
+> its first democratic election in 2012 resulted in the short-lived, 
+> Muslim Brotherhood-aligned government of Mohamed Morsi, 
+> which was overthrown by the military after mass protests in 2013. 
+> The current government is a semi-presidential republic led by Abdel Fattah el-Sisi, 
+> who was elected in 2014 but is widely regarded as authoritarian. 
+>
+> Egypt is a developing country with the second-largest economy in Africa. 
+> It is considered to be a regional power in the Middle East, North Africa and the Muslim world, 
+> and a middle power worldwide. Islam is the official religion and Arabic is official language. 
+> Egypt is a founding member of the United Nations, the Non-Aligned Movement, the Arab League, 
+> the African Union, Organisation of Islamic Cooperation, World Youth Forum, and a member of BRICS.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Egypt) 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Egypt/ReadMe|ReadMe]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Egypt|Egypt]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Egypt/ReadMe.public|ReadMe.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Egypt.public|Egypt.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Egypt/ReadMe.internal|ReadMe.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Egypt.internal|Egypt.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Egypt/ReadMe.protect|ReadMe.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Egypt.protect|Egypt.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Egypt/ReadMe.private|ReadMe.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Egypt.private|Egypt.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Egypt/ReadMe.personal|ReadMe.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Egypt.personal|Egypt.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Egypt/ReadMe.secret|ReadMe.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Egypt.secret|Egypt.secret]] 
 
